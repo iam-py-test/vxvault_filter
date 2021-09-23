@@ -1,6 +1,10 @@
-! <pre>
+! Title: VXVault filter
+! Description: VXVault's latest links compiled into a uBlock Origin compatible filter
+! Expires: 1 day
+! Homepage: https://github.com/iam-py-test/vxvault_filter
+! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Thu, 23 Sep 2021 11:19:40 +0000
+! Thu, 23 Sep 2021 11:27:51 +0000
 ! 
 ||omaxcrm.com/kindompic/ojademantini.exe^$all
 ||193.164.149.25/pcbooster.exe^$all
