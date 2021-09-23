@@ -8,7 +8,7 @@ for line in lines:
         queryparam = ""
         if urlparse(line).query != "":
             queryparam = "?" + urlparse(line).query
-        ubolist += "||" + urlparse(line).hostname +  urlparse(line).pathname + queryparam
+        ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam
     else:
         if line != "":
             ubolist += "! " + line
