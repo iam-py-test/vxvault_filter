@@ -8,10 +8,10 @@ for line in lines:
         queryparam = ""
         if urlparse(line).query != "":
             queryparam = "?" + urlparse(line).query
-        ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam
+        ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all\n"
     else:
-        if line != "":
-            ubolist += "! " + line
+        if line != "" and line != "<pre>":
+            ubolist += "! " + line + "\n"
 endfile = open("ubolist.txt","w")
 endfile.write(ubolist)
 endfile.close()
