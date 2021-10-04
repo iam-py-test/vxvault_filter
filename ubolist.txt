@@ -4,8 +4,10 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Mon, 04 Oct 2021 02:39:32 +0000
+! Mon, 04 Oct 2021 20:29:23 +0000
 ! 
+||securebiz.org/files/1/build3.exe^$all
+||znpst.top/dl/build2.exe^$all
 ||skoromoh.com/bb/runvd.exe^$all
 ||www.emetincelle.com/RuntimeBroker.exe^$all
 ||f0571088.xsph.ru/gscript.exe^$all
@@ -105,5 +107,3 @@
 ||136.144.41.201/WW/file7.exe^$all
 ||136.144.41.201/WW/file6.exe^$all
 ||136.144.41.201/USA/BuildDID.exe^$all
-||136.144.41.201/USA/Build2DID.exe^$all
-||bitbucket.org/luisadoma999/admin/downloads/4.exe^$all
