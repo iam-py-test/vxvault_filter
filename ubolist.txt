@@ -4,8 +4,9 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Fri, 08 Oct 2021 02:39:05 +0000
+! Fri, 08 Oct 2021 20:28:38 +0000
 ! 
+||209.127.78.26/Sunbathers.exe^$all
 ||176.31.32.199/Stub.exe^$all
 ||github.com/daanujs/daanujs/blob/main/Rasomware2.0.exe?raw=true^$all
 ||54.90.181.45/revshell/office.exe^$all
@@ -106,4 +107,3 @@
 ||google-analitics91.com/racoon.exe^$all
 ||cdn.discordapp.com/attachments/868032420702748725/868050333228728350/3ad34ec6e377aa9cafa5ecb64ac28bb984077a0f_2021-07-23_11-30.exe^$all
 ||easyviettravel.vn/vendor/phpunit/phpunit/src/Util/PHP/Template/Putty.exe^$all
-||easyviettravel.vn/vendor/phpunit/phpunit/src/Util/PHP/Template/DDllsystem.exe^$all
