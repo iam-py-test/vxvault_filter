@@ -16,10 +16,6 @@ for line in lines:
         if urlparse(line).query != "":
             queryparam = "?" + urlparse(line).query
         ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all\n"
-        try:
-            sha256s += "{}\n".format(sha256(requests.get(line)).hexdigest())
-        except:
-            pass
     else:
         if line != "" and "<pre>" not in line:
             ubolist += "! " + line + "\n"
