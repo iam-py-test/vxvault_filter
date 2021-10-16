@@ -9,6 +9,10 @@ ubolist = """! Title: VXVault filter
 ! Data from http://vxvault.net/
 """
 sha256s = ""
+try:
+    fdata = open("ubolist.txt").read()
+except:
+    fdata = ""
 lines = list.text.split("\n")
 for line in lines:
     if line.startswith("http"):
@@ -16,6 +20,11 @@ for line in lines:
         if urlparse(line).query != "":
             queryparam = "?" + urlparse(line).query
         ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all\n"
+        if "||" + urlparse(line).hostname +  urlparse(line).path + queryparam not in fdata and fdata != "":
+            try:
+               sha256 += sha256(requests.get(line).content).hexdigest()
+            except:
+                pass
     else:
         if line != "" and "<pre>" not in line:
             ubolist += "! " + line + "\n"
