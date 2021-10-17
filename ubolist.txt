@@ -6,18 +6,11 @@
 ! VX Vault last 100 Links
 ! Sun, 17 Oct 2021 10:33:27 +0000
 ! 
-||vormax.link/kv3.dll^$all
 ||cdn.discordapp.com/attachments/890960532625051658/897908233598009354/LibRender.exe^$all
 ||bitbucket.org/primesoftware-eng/files/downloads/clipe.exe^$all
-||sherence.ru/NeplackBuild.exe^$all
 ||sherence.ru/Obfuscation_Build.exe^$all
 ||sherence.ru/Proguct_Edge.exe^$all
 ||209.127.78.26/Sunbathers.exe^$all
-||176.31.32.199/Stub.exe^$all
-||github.com/daanujs/daanujs/blob/main/Rasomware2.0.exe?raw=true^$all
-||54.90.181.45/revshell/office.exe^$all
-||elodomum.pt/js/101.exe^$all
-||znpst.top/dl/build2.exe^$all
 ||176.31.32.199/Stub.exe^$all
 ||securebiz.org/files/1/build3.exe^$all
 ||znpst.top/dl/build2.exe^$all
