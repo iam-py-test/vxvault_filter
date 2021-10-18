@@ -4,8 +4,15 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Mon, 18 Oct 2021 02:41:29 +0000
+! Mon, 18 Oct 2021 20:28:49 +0000
 ! 
+||sinopars.ir/wp-includes/js/host.exe^$all
+||sinopars.ir/wp-includes/js/125.exe^$all
+||sinopars.ir/wp-includes/js/102.exe^$all
+||128.199.63.64/hoetnaca/exps/cock.mp4^$all
+||45.133.245.31/binance.exe^$all
+||45.133.245.31/gads.exe^$all
+||45.133.245.31/video.exe^$all
 ||vormax.link/kv3.dll^$all
 ||cdn.discordapp.com/attachments/890960532625051658/897908233598009354/LibRender.exe^$all
 ||bitbucket.org/primesoftware-eng/files/downloads/clipe.exe^$all
@@ -100,10 +107,3 @@
 ||github.com/dimacy2/testfile294044/raw/main/Clownic1.0.exe^$all
 ||cdn.discordapp.com/attachments/871711645188128768/871774061338972211/mecenaty.exe^$all
 ||certificamayor.com/krusty/main.exe^$all
-||45.133.200.237/Win10%20PC%20Cleaner.exe^$all
-||194.226.139.141/SessionBrokerhostCrtCommonSavesbroker.exe^$all
-||80.87.201.45/build3.exe^$all
-||weddingstory.gr/linto/vulinko.exe^$all
-||google-analitics91.com/svchost.exe^$all
-||google-analitics91.com/dllhost.exe^$all
-||gurvox08.top/downfiles/file.exe^$all
