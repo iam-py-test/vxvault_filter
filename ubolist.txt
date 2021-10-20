@@ -4,8 +4,9 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Wed, 20 Oct 2021 02:39:47 +0000
+! Wed, 20 Oct 2021 20:29:15 +0000
 ! 
+||cdn.discordapp.com/attachments/843403537576361997/899665119347351623/iKrjYFB.exe^$all
 ||js-hurling.com/updatesosnfkgjfgaffkafgdfagfjrsgbbfsjbbfgsgk/wnaeopmguywjffmigfbefrvgqg.exe^$all
 ||a0586975.xsph.ru/Conglomerated.exe^$all
 ||sinopars.ir/wp-includes/js/host.exe^$all
@@ -106,4 +107,3 @@
 ||i.spesgrt.com/lqosko/p18j/customer3.exe^$all
 ||37.0.11.8/WW/file1.exe^$all
 ||194.226.139.141/Clickerman.exe^$all
-||github.com/dimacy2/testfile294044/raw/main/Clownic1.0.exe^$all
