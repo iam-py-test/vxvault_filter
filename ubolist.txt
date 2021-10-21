@@ -4,8 +4,16 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Thu, 21 Oct 2021 02:42:09 +0000
+! Thu, 21 Oct 2021 20:29:40 +0000
 ! 
+||185.222.57.190/008/vbc.exe^$all
+||wowsugarbabe.top/holler/rollerkind.exe^$all
+||tynkou06.top/downfiles/file.exe^$all
+||wowsugarbabe.top/holler/rollerkind2.exe^$all
+||simuladordeempresa.com/wp-content/new.exe^$all
+||209.141.41.233/Porcal4.exe^$all
+||a0591583.xsph.ru/123.exe^$all
+||a.pomf.cat/zydyqu.exe^$all
 ||cdn.discordapp.com/attachments/843403537576361997/899665119347351623/iKrjYFB.exe^$all
 ||js-hurling.com/updatesosnfkgjfgaffkafgdfagfjrsgbbfsjbbfgsgk/wnaeopmguywjffmigfbefrvgqg.exe^$all
 ||a0586975.xsph.ru/Conglomerated.exe^$all
@@ -99,11 +107,3 @@
 ||oneup.cc/download/nvcontainer1.exe^$all
 ||ripex2af.beget.tech/j5m4d.exe^$all
 ||astdg.top/files/1/build3.exe^$all
-||securebiz.org/dl/build2.exe^$all
-||cdn.discordapp.com/attachments/869967306413977600/871038333927702568/file.exe^$all
-||kygoibatdongsan.com/pub1.exe^$all
-||www.bhyxj.com/askhelp55/askinstall55.exe^$all
-||2freeprivacytoolsforyou.xyz/downloads/toolspab2.exe^$all
-||i.spesgrt.com/lqosko/p18j/customer3.exe^$all
-||37.0.11.8/WW/file1.exe^$all
-||194.226.139.141/Clickerman.exe^$all
