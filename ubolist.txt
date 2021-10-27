@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Wed, 27 Oct 2021 02:38:20 +0000
+! Wed, 27 Oct 2021 20:29:20 +0000
 ! 
 ||185.222.57.190/008/vbc.exe^$all
 ||wowsugarbabe.top/holler/rollerkind.exe^$all
