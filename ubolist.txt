@@ -4,8 +4,11 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Tue, 09 Nov 2021 02:39:31 +0000
+! Tue, 09 Nov 2021 20:29:51 +0000
 ! 
+||180.214.237.39/1114/vbc.exe^$all
+||202.55.134.54/3331/vbc.exe^$all
+||cdn.discordapp.com/attachments/872098362076332074/893213167835054110/ChromeRecovery.exe^$all
 ||cdn.discordapp.com/attachments/902593911397175306/905446024166928464/wetsetup.exe^$all
 ||45.79.121.37/antiviruses/rat_client_x32_windows.exe^$all
 ||185.222.57.190/008/vbc.exe^$all
@@ -104,6 +107,3 @@
 ||cdn.discordapp.com/attachments/866382074311344222/866382219395072030/setup.exe^$all
 ||cdn.discordapp.com/attachments/873096447573237783/873558852946243624/1014680496.exe^$all
 ||a0568605.xsph.ru/installs.exe^$all
-||cdn.discordapp.com/attachments/748481102397833256/874439597931782164/igxx.exe^$all
-||192.227.158.111/bank.exe^$all
-||oneup.cc/download/nvcontainer1.exe^$all
