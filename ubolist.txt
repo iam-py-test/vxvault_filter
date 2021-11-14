@@ -4,8 +4,9 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Sun, 14 Nov 2021 02:40:44 +0000
+! Sun, 14 Nov 2021 20:29:14 +0000
 ! 
+||xetiet09.top/downfiles/hazmat.exe^$all
 ||baracuda.pw/js/setup.exe^$all
 ||xetzpo06.top/downfiles/alltud.exe^$all
 ||xetzpo06.top/download.php?file=alltud.exe^$all
@@ -106,4 +107,3 @@
 ||cdn.discordapp.com/attachments/875257144847511564/876452163579174952/test.exe^$all
 ||cdn.discordapp.com/attachments/862645675888214026/874911724157952000/winintoDllnetRefhost.exe^$all
 ||cdn.discordapp.com/attachments/785433297588846605/861477299832094731/xmrnoadmin.exe^$all
-||cdn.discordapp.com/attachments/873096447573237783/873527777020772362/msi.exe^$all
