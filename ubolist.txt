@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Mon, 15 Nov 2021 20:30:03 +0000
+! Tue, 16 Nov 2021 02:40:09 +0000
 ! 
 ||xetiet09.top/downfiles/hazmat.exe^$all
 ||baracuda.pw/js/setup.exe^$all
