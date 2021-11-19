@@ -4,8 +4,10 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Fri, 19 Nov 2021 02:41:21 +0000
+! Fri, 19 Nov 2021 20:29:59 +0000
 ! 
+||167.99.39.23/hoetnaca/exps/St.mp4^$all
+||167.99.39.23/hoetnaca/exps/Bt.mp4^$all
 ||84.252.122.205/act/audio.exe^$all
 ||ftp.epinay-accueil.com/Files/Media/Installer.exe^$all
 ||cdn.discordapp.com/attachments/909861975964659745/909870124763320330/SMartStorageManager.dll^$all
@@ -105,5 +107,3 @@
 ||198.23.207.82/rmp/vbc.exe^$all
 ||198.23.207.82/dth/vbc.exe^$all
 ||198.23.207.82/dt/vbc.exe^$all
-||transfer.sh/get/1sx7MpD/Onedrive.exe^$all
-||cdn.discordapp.com/attachments/875257144847511564/876833083268149288/mine.exe^$all
