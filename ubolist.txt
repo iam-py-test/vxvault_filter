@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Wed, 24 Nov 2021 20:29:57 +0000
+! Thu, 25 Nov 2021 02:41:32 +0000
 ! 
 ||github.com/andreymoshkin/refeihunfsknenfnnsfskeoefi/raw/main/dllhost.exe^$all
 ||github.com/andreymoshkin/refeihunfsknenfnnsfskeoefi/raw/main/splwow64.exe^$all
