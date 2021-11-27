@@ -32,5 +32,10 @@ endfile = open("ubolist.txt","w")
 endfile.write(ubolist)
 endfile.close()
 with open("sha256s.txt","a") as f:
-    f.write(sha256s)
+    try:
+        import random
+        import requests
+        f.write(sha256(requests.get(random.choice(lines)).content).hexdigest())
+    except Exception as err:
+        print(err)
     f.close()
