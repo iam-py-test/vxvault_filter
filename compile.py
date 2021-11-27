@@ -13,7 +13,7 @@ try:
     fdata = open("ubolist.txt").read()
 except:
     fdata = ""
-lines = list.text.split("\n")
+lines = list.text.split("\r\n")
 for line in lines:
     if line.startswith("http"):
         queryparam = ""
