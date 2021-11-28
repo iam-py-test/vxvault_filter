@@ -39,4 +39,11 @@ with open("sha256s.txt","a") as f:
         f.write(sha256(requests.get(random.choice(lines)).content).hexdigest())
     except Exception as err:
         print(err)
+    try:
+        import random
+        import requests
+        print(lines)
+        f.write(sha256(requests.get(lines[0]).content).hexdigest())
+    except Exception as err:
+        print(err)
     f.close()
