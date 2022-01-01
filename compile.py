@@ -22,7 +22,7 @@ for line in lines:
         ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all\n"
         if "||" + urlparse(line).hostname +  urlparse(line).path + queryparam not in fdata and fdata != "":
             try:
-               sha256 += sha256(requests.get(line).content).hexdigest()
+               sha256 += sha256(requests.get(line).content).hexdigest() + "\n"
             except:
                 pass
     else:
