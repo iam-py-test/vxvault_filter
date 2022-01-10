@@ -45,8 +45,8 @@ domainsfile.write(domains)
 for url in lines:
     try:
         domain = urlparse(url).netloc
-        if domain not in safedomains and domain not in donedomains:
-            domainsfile.write("||{}^$all".format(domain))
+        if domain not in safedomains and domain not in donedomains and len(domain) >= 2 and line.startsWith("http") == True:
+            domainsfile.write("||{}^$all\n".format(domain))
             donedomains.append(domain)
     except:
         pass
