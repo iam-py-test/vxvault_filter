@@ -8,6 +8,12 @@ ubolist = """! Title: VXVault filter
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 """
+domains = """! Title: VXVault domains
+! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
+! Expires: 1 day
+! Homepage: https://github.com/iam-py-test/vxvault_filter
+"""
+
 sha256s = ""
 try:
     fdata = open("ubolist.txt").read()
@@ -31,6 +37,21 @@ for line in lines:
 endfile = open("ubolist.txt","w")
 endfile.write(ubolist)
 endfile.close()
+
+safedomains = ["google.com","yahoo.com","duckduckgo.com","wikipedia.org","cdn.discordapp.com","discord.com","discordapp.com","raw.githubusercontent.com","lh3.google.com","drive.google.com","mediafire.com","download.com","googleusercontent.com","github.com","gitlab.com","avatars.githubusercontent.com"]
+domainsfile = open("domains_file.txt")
+domainsfile.write(domains)
+donedomains = []
+for url in lines:
+    try:
+        domain = urlparse(url).netloc
+        if domain not in safedomains and domain not in donedomains:
+            domainsfile.write("||{}^$all".format(domain))
+            donedomains.append(domain)
+    except:
+        pass
+domainsfile.close()
+
 with open("sha256s.txt","a") as f:
     try:
         import random
