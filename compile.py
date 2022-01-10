@@ -45,7 +45,7 @@ domainsfile.write(domains)
 for url in lines:
     try:
         domain = urlparse(url).netloc
-        if domain not in safedomains and domain not in donedomains and len(domain) >= 2 and line.startsWith("http") == True:
+        if domain not in safedomains and domain not in donedomains and domain != "" and line != "VX Vault last 100 Links":
             domainsfile.write("||{}^$all\n".format(domain))
             donedomains.append(domain)
     except:
