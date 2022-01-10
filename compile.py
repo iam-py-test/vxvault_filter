@@ -39,9 +39,9 @@ endfile.write(ubolist)
 endfile.close()
 
 safedomains = ["google.com","yahoo.com","duckduckgo.com","wikipedia.org","cdn.discordapp.com","discord.com","discordapp.com","raw.githubusercontent.com","lh3.google.com","drive.google.com","mediafire.com","download.com","googleusercontent.com","github.com","gitlab.com","avatars.githubusercontent.com"]
-domainsfile = open("domains_file.txt")
-domainsfile.write(domains)
 donedomains = []
+domainsfile = open("domains_file.txt","w")
+domainsfile.write(domains)
 for url in lines:
     try:
         domain = urlparse(url).netloc
