@@ -2,6 +2,7 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||107.173.229.131^$all
 ||103.133.109.181^$all
 ||136.144.41.66^$all
 ||neofunkyjunky.com^$all
