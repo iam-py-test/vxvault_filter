@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Wed, 12 Jan 2022 20:32:22 +0000
+! Thu, 13 Jan 2022 02:48:44 +0000
 ||za.jupiterstar.ru/AppStore.exe^$all
 ||cdn.discordapp.com/attachments/721036554457317459/928685754866085948/DCRatBuild.exe^$all
 ||107.173.229.131/20222/vbc.exe^$all
