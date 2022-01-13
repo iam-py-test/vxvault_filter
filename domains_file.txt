@@ -2,6 +2,8 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||btpoyn3kincfxsighgsobog32gh3zdcgagujunsm46gamgaktysnqtqd.onion.ws^$all
+||rf9480.bomj.xyz^$all
 ||za.jupiterstar.ru^$all
 ||107.173.229.131^$all
 ||103.133.109.181^$all
@@ -61,4 +63,3 @@
 ||omaxcrm.com^$all
 ||193.164.149.25^$all
 ||195.2.73.48^$all
-||45.138.72.211^$all
