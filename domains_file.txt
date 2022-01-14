@@ -2,6 +2,8 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||159.138.55.62^$all
+||cabura-cash.pw^$all
 ||btpoyn3kincfxsighgsobog32gh3zdcgagujunsm46gamgaktysnqtqd.onion.ws^$all
 ||rf9480.bomj.xyz^$all
 ||za.jupiterstar.ru^$all
@@ -60,6 +62,3 @@
 ||phod.ru^$all
 ||faridabadrepair.in^$all
 ||ylgceliks.com^$all
-||omaxcrm.com^$all
-||193.164.149.25^$all
-||195.2.73.48^$all
