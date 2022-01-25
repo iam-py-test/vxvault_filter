@@ -2,6 +2,8 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||192.3.180.39^$all
+||91.243.44.63^$all
 ||coinbase-bonus.com^$all
 ||159.138.55.62^$all
 ||cabura-cash.pw^$all
@@ -58,6 +60,3 @@
 ||securebiz.org^$all
 ||skoromoh.com^$all
 ||www.emetincelle.com^$all
-||f0571088.xsph.ru^$all
-||informtime.social^$all
-||phod.ru^$all
