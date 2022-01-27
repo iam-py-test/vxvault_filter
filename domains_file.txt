@@ -2,6 +2,7 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||transfer.sh^$all
 ||stundentonemillion.sytes.net^$all
 ||jcvmarketingassociates.com^$all
 ||192.3.180.39^$all
@@ -59,4 +60,3 @@
 ||54.90.181.45^$all
 ||elodomum.pt^$all
 ||znpst.top^$all
-||securebiz.org^$all
