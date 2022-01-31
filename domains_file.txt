@@ -2,6 +2,7 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||81.4.105.174^$all
 ||lencu.top^$all
 ||transfer.sh^$all
 ||stundentonemillion.sytes.net^$all
@@ -57,4 +58,3 @@
 ||bitbucket.org^$all
 ||sherence.ru^$all
 ||209.127.78.26^$all
-||176.31.32.199^$all
