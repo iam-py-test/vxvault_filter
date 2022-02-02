@@ -2,6 +2,7 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||94.250.249.239^$all
 ||scottbyscott.com^$all
 ||store1.gofile.io^$all
 ||integralbd.com^$all
@@ -58,4 +59,3 @@
 ||128.199.63.64^$all
 ||45.133.245.31^$all
 ||vormax.link^$all
-||bitbucket.org^$all
