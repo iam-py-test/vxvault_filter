@@ -58,4 +58,3 @@
 ||js-hurling.com^$all
 ||a0586975.xsph.ru^$all
 ||sinopars.ir^$all
-||128.199.63.64^$all
