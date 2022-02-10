@@ -2,6 +2,7 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||jowy-hax.net^$all
 ||91.243.44.99^$all
 ||20.51.217.113^$all
 ||integralbd.com^$all
