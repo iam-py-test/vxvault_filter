@@ -2,6 +2,8 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||2.56.57.7^$all
+||onedrive.live.com^$all
 ||kotadiainc.com^$all
 ||217.114.43.29^$all
 ||jowy-hax.net^$all
@@ -56,6 +58,3 @@
 ||tynkou06.top^$all
 ||simuladordeempresa.com^$all
 ||209.141.41.233^$all
-||a0591583.xsph.ru^$all
-||a.pomf.cat^$all
-||js-hurling.com^$all
