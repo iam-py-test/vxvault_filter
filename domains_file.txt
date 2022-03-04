@@ -2,6 +2,10 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||192.227.196.211^$all
+||193.233.48.64:20001^$all
+||transfer.sh^$all
+||zkai.xyz^$all
 ||46.148.224.27^$all
 ||2.56.57.7^$all
 ||onedrive.live.com^$all
@@ -16,7 +20,6 @@
 ||store1.gofile.io^$all
 ||81.4.105.174^$all
 ||lencu.top^$all
-||transfer.sh^$all
 ||stundentonemillion.sytes.net^$all
 ||jcvmarketingassociates.com^$all
 ||192.3.180.39^$all
@@ -53,7 +56,3 @@
 ||xetzpo06.top^$all
 ||180.214.237.39^$all
 ||202.55.134.54^$all
-||45.79.121.37^$all
-||185.222.57.190^$all
-||wowsugarbabe.top^$all
-||tynkou06.top^$all
