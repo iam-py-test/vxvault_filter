@@ -2,6 +2,10 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||80.78.22.91^$all
+||taskmgrdev.com^$all
+||raphaellasia.com^$all
+||52.78.165.165^$all
 ||ads-ggle.net^$all
 ||192.227.196.211^$all
 ||193.233.48.64:20001^$all
@@ -53,6 +57,3 @@
 ||ftp.epinay-accueil.com^$all
 ||laxyman.000webhostapp.com^$all
 ||xetiet09.top^$all
-||baracuda.pw^$all
-||xetzpo06.top^$all
-||180.214.237.39^$all
