@@ -2,6 +2,7 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||sectigotls.xyz^$all
 ||91.243.44.142^$all
 ||103.156.91.63^$all
 ||biesenbeek.nl^$all
