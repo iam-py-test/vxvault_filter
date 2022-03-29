@@ -2,6 +2,9 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||rbmimport.com^$all
+||136.144.41.109^$all
+||dl.uploadgram.me^$all
 ||sectigotls.xyz^$all
 ||91.243.44.142^$all
 ||103.156.91.63^$all
@@ -58,5 +61,3 @@
 ||185.230.162.254^$all
 ||online-cinema.pw^$all
 ||humnkd.xyz^$all
-||sp.mongoso.com^$all
-||185.224.129.251^$all
