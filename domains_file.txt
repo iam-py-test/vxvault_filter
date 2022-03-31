@@ -2,6 +2,7 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+||18.193.102.232^$all
 ||olypath.com^$all
 ||www90.zippyshare.com^$all
 ||rbmimport.com^$all
@@ -59,5 +60,3 @@
 ||just12020.77.asyx.ru^$all
 ||phantomwallet.site^$all
 ||tractorandinas.com^$all
-||ipokerist.site^$all
-||185.230.162.254^$all
