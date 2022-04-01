@@ -4,7 +4,12 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Fri, 01 Apr 2022 03:27:39 +0000
+! Fri, 01 Apr 2022 20:30:15 +0000
+||transfer.sh/6Pwcuz/Smviybgq666666666666_Eryemmmu.jpg^$all
+||45.137.22.163/Htrcekszm_Kcdcxrzw.jpg^$all
+||olypath.com/QzHYo.exe^$all
+||cdn.discordapp.com/attachments/958186143927648316/958678815259901972/BreadPlayer.Common.dll^$all
+||bbg.az/wp-admin/css/colors/modern/sexon/BitcoinPortable_0_22_1_English_Nguxovkv.png^$all
 ||cdn.discordapp.com/attachments/954418006711214092/958754165415362570/DiffpdfPortable_2_1_4_Qjsjljha.bmp^$all
 ||18.193.102.232/12A/loader/uploads/0567471093200_Zmnerlfz.jpg^$all
 ||cdn.discordapp.com/attachments/957427178998464566/957946753070559282/bjseGNfyHAAmUFC.dll^$all
@@ -100,9 +105,4 @@
 ||file-coin-data-5.com/files/1916_1638783841_4788.exe^$all
 ||phantomwallet.store/Phantom.exe^$all
 ||just12020.77.asyx.ru/ApolonSpaceXLoader.exe^$all
-||phantomwallet.site/Phantom.exe^$all
-||cdn.discordapp.com/attachments/915617039786324022/916004539864338442/gminer.exe^$all
-||tractorandinas.com/ajukfjhosgh/ConsoleApp1.jpeg^$all
-||tractorandinas.com/ajukfjhosgh/ConsoleApp17.bin^$all
-||cdn.discordapp.com/attachments/915334108345929732/915334123751624804/111111.exe^$all
 ||phantomwallet.site/Phantom.exe^$all

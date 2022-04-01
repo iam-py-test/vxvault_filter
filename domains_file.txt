@@ -2,8 +2,11 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-||18.193.102.232^$all
+||transfer.sh^$all
+||45.137.22.163^$all
 ||olypath.com^$all
+||bbg.az^$all
+||18.193.102.232^$all
 ||www90.zippyshare.com^$all
 ||rbmimport.com^$all
 ||136.144.41.109^$all
@@ -12,7 +15,6 @@
 ||91.243.44.142^$all
 ||103.156.91.63^$all
 ||biesenbeek.nl^$all
-||transfer.sh^$all
 ||x.rune-spectrals.com^$all
 ||45.137.22.122^$all
 ||cdn.filesend.jp^$all
@@ -59,4 +61,3 @@
 ||phantomwallet.store^$all
 ||just12020.77.asyx.ru^$all
 ||phantomwallet.site^$all
-||tractorandinas.com^$all
