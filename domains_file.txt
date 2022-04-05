@@ -1,13 +1,16 @@
 ! Title: VXVault domains
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
+! Script last updated: 5/4/2022
 ! Expires: 1 day
+! Last updated: 05/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+! Data from http://vxvault.net/
+||amtechprinting.com^$all
+||107.189.6.214^$all
 ||tiny.one^$all
 ||euronovelty.com.mx^$all
 ||www.ocpi.com.my^$all
-||amtechprinting.com^$all
 ||teamazmog.xyz^$all
-||transfer.sh^$all
 ||45.137.22.163^$all
 ||olypath.com^$all
 ||bbg.az^$all
@@ -60,4 +63,3 @@
 ||103.133.109.181^$all
 ||136.144.41.66^$all
 ||neofunkyjunky.com^$all
-||ekuhsn03.top^$all

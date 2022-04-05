@@ -1,10 +1,16 @@
 ! Title: VXVault filter
 ! Description: VXVault's latest links compiled into a uBlock Origin compatible filter
+! Script last updated: 5/4/2022
 ! Expires: 1 day
+! Last updated: 05/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Mon, 04 Apr 2022 20:30:06 +0000
+! Tue, 05 Apr 2022 22:29:08 +0000
+||transfer.sh/get/o2hfHL/BASE64.txt^$all
+||transfer.sh/get/NRlh5T/NEWJOKER.txt^$all
+||amtechprinting.com/Knflaev_Spegujsa.bmp^$all
+||107.189.6.214/fsk4j2Te/MinerFull.exe^$all
 ||cdn.discordapp.com/attachments/959128574730858560/960288037206638612/CookTime_Qkhdvneb.png^$all
 ||tiny.one/2p982tsy^$all
 ||euronovelty.com.mx/hrt/Ddouflqj_Yipxvwmy.bmp^$all
@@ -102,7 +108,3 @@
 ||cdn.discordapp.com/attachments/912431610715070486/920691256085069904/HeheBlyat.png^$all
 ||cdn.discordapp.com/attachments/923528107942617121/923528276939526164/ConsoleApp14.bin^$all
 ||neofunkyjunky.com/work/mix.exe^$all
-||ekuhsn03.top/downfiles/file.exe^$all
-||neofunkyjunky.com/holler/rolle2.exe^$all
-||neofunkyjunky.com/holler/rolle.exe^$all
-||neofunkyjunky.com/holler/rolle2.exe^$all
