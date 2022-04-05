@@ -1,4 +1,5 @@
 import requests
+from datetime import date
 from urllib.parse import urlparse
 from hashlib import sha256
 list = requests.get("http://vxvault.net/URL_List.php")
