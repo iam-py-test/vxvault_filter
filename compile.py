@@ -4,15 +4,20 @@ from hashlib import sha256
 list = requests.get("http://vxvault.net/URL_List.php")
 ubolist = """! Title: VXVault filter
 ! Description: VXVault's latest links compiled into a uBlock Origin compatible filter
+! Script last updated: 4/4/2022
 ! Expires: 1 day
+! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
-"""
+""".format(date.today().strftime("%d/%m/%Y"))
 domains = """! Title: VXVault domains
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
+! Script last updated: 4/4/2022
 ! Expires: 1 day
+! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-"""
+! Data from http://vxvault.net/
+""".format(date.today().strftime("%d/%m/%Y"))
 
 sha256s = ""
 try:
@@ -38,7 +43,7 @@ endfile = open("ubolist.txt","w")
 endfile.write(ubolist)
 endfile.close()
 
-safedomains = ["google.com","yahoo.com","duckduckgo.com","wikipedia.org","cdn.discordapp.com","discord.com","discordapp.com","raw.githubusercontent.com","lh3.google.com","drive.google.com","mediafire.com","download.com","googleusercontent.com","github.com","gitlab.com","avatars.githubusercontent.com"]
+safedomains = ["google.com","yahoo.com","duckduckgo.com","wikipedia.org","cdn.discordapp.com","discord.com","discordapp.com","raw.githubusercontent.com","lh3.google.com","drive.google.com","mediafire.com","download.com","googleusercontent.com","github.com","gitlab.com","avatars.githubusercontent.com","transfer.sh","download2264.mediafire.com","download2329.mediafire.com","download2340.mediafire.com","bit.ly"]
 donedomains = []
 domainsfile = open("domains_file.txt","w")
 domainsfile.write(domains)
