@@ -5,17 +5,20 @@
 ! Last updated: 06/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||43.204.24.26^$all
+||marriageceremonynyc.com^$all
+||bbg.az^$all
+||91.243.44.85^$all
+||81.4.105.174^$all
+||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^$all
 ||amtechprinting.com^$all
 ||107.189.6.214^$all
-||tiny.one^$all
 ||euronovelty.com.mx^$all
 ||www.ocpi.com.my^$all
 ||teamazmog.xyz^$all
 ||45.137.22.163^$all
 ||olypath.com^$all
-||bbg.az^$all
 ||18.193.102.232^$all
-||www90.zippyshare.com^$all
 ||rbmimport.com^$all
 ||136.144.41.109^$all
 ||dl.uploadgram.me^$all
@@ -25,7 +28,6 @@
 ||biesenbeek.nl^$all
 ||x.rune-spectrals.com^$all
 ||45.137.22.122^$all
-||cdn.filesend.jp^$all
 ||18.156.82.84^$all
 ||80.78.22.91^$all
 ||taskmgrdev.com^$all
@@ -37,7 +39,6 @@
 ||zkai.xyz^$all
 ||46.148.224.27^$all
 ||2.56.57.7^$all
-||onedrive.live.com^$all
 ||kotadiainc.com^$all
 ||217.114.43.29^$all
 ||jowy-hax.net^$all
@@ -47,7 +48,6 @@
 ||94.250.249.239^$all
 ||scottbyscott.com^$all
 ||store1.gofile.io^$all
-||81.4.105.174^$all
 ||lencu.top^$all
 ||stundentonemillion.sytes.net^$all
 ||jcvmarketingassociates.com^$all
@@ -59,7 +59,3 @@
 ||btpoyn3kincfxsighgsobog32gh3zdcgagujunsm46gamgaktysnqtqd.onion.ws^$all
 ||rf9480.bomj.xyz^$all
 ||za.jupiterstar.ru^$all
-||107.173.229.131^$all
-||103.133.109.181^$all
-||136.144.41.66^$all
-||neofunkyjunky.com^$all

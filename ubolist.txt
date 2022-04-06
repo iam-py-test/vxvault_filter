@@ -6,7 +6,16 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Wed, 06 Apr 2022 03:04:17 +0000
+! Wed, 06 Apr 2022 10:42:31 +0000
+||43.204.24.26/plex/wd/loader/uploads/BLT560732220_Sicualdo.png^$all
+||43.204.24.26/plex/wd/loader/uploads/blt560732220.bat^$all
+||marriageceremonynyc.com/loader/slime_Utyglien.bmp^$all
+||bbg.az/wp-admin/css/colors/modern/rozo/BitcoinPortable_0_22_2_English_Xjccokty.png^$all
+||tiny.one/2p83p5pc^$all
+||43.204.24.26/plex/wd/loader/uploads/BLR0162206_Dvstwbeh.png^$all
+||91.243.44.85/Proov_Np_Vvpslmrtp_Jwdmtbxs.jpg^$all
+||81.4.105.174/Vrzvn_Zztleffh.bmp^$all
+||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com/0011b9cd240249c3aeb520ea1205eaf1.jpg^$all
 ||transfer.sh/get/o2hfHL/BASE64.txt^$all
 ||transfer.sh/get/NRlh5T/NEWJOKER.txt^$all
 ||amtechprinting.com/Knflaev_Spegujsa.bmp^$all
@@ -99,12 +108,3 @@
 ||btpoyn3kincfxsighgsobog32gh3zdcgagujunsm46gamgaktysnqtqd.onion.ws/access-plugin-REFfc742fa6.exe^$all
 ||rf9480.bomj.xyz/eth.bin^$all
 ||za.jupiterstar.ru/AppStore.exe^$all
-||cdn.discordapp.com/attachments/721036554457317459/928685754866085948/DCRatBuild.exe^$all
-||107.173.229.131/20222/vbc.exe^$all
-||cdn.discordapp.com/attachments/866649206856482828/866653664227622962/extrimhack.exe^$all
-||cdn.discordapp.com/attachments/927195596517961840/927753640523993088/f92ae945b2cc3388.exe^$all
-||103.133.109.181/ny9999777_3/vbc.exe^$all
-||136.144.41.66/gfloat/ConsoleApp15.jpg^$all
-||cdn.discordapp.com/attachments/912431610715070486/920691256085069904/HeheBlyat.png^$all
-||cdn.discordapp.com/attachments/923528107942617121/923528276939526164/ConsoleApp14.bin^$all
-||neofunkyjunky.com/work/mix.exe^$all
