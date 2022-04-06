@@ -5,6 +5,7 @@
 ! Last updated: 06/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||179.43.175.179^$all
 ||43.204.24.26^$all
 ||marriageceremonynyc.com^$all
 ||bbg.az^$all
@@ -58,4 +59,3 @@
 ||cabura-cash.pw^$all
 ||btpoyn3kincfxsighgsobog32gh3zdcgagujunsm46gamgaktysnqtqd.onion.ws^$all
 ||rf9480.bomj.xyz^$all
-||za.jupiterstar.ru^$all
