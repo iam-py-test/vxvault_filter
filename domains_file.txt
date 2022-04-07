@@ -5,6 +5,17 @@
 ! Last updated: 07/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||180.214.237.206^$all
+||idc-confiabilidad.com^$all
+||ammouriarts.com^$all
+||104.36.229.10^$all
+||ocpi.com.my^$all
+||62.204.41.69^$all
+||45.147.200.97^$all
+||olypath.com^$all
+||omarrobinson.xyz^$all
+||143.244.180.227^$all
+||www.tractorandinas.com^$all
 ||179.43.175.179^$all
 ||43.204.24.26^$all
 ||marriageceremonynyc.com^$all
@@ -18,7 +29,6 @@
 ||www.ocpi.com.my^$all
 ||teamazmog.xyz^$all
 ||45.137.22.163^$all
-||olypath.com^$all
 ||18.193.102.232^$all
 ||rbmimport.com^$all
 ||136.144.41.109^$all
@@ -49,13 +59,3 @@
 ||94.250.249.239^$all
 ||scottbyscott.com^$all
 ||store1.gofile.io^$all
-||lencu.top^$all
-||stundentonemillion.sytes.net^$all
-||jcvmarketingassociates.com^$all
-||192.3.180.39^$all
-||91.243.44.63^$all
-||coinbase-bonus.com^$all
-||159.138.55.62^$all
-||cabura-cash.pw^$all
-||btpoyn3kincfxsighgsobog32gh3zdcgagujunsm46gamgaktysnqtqd.onion.ws^$all
-||rf9480.bomj.xyz^$all
