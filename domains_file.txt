@@ -5,6 +5,12 @@
 ! Last updated: 08/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||190.123.44.138^$all
+||crypto-hunt.net^$all
+||185.193.89.21^$all
+||plus-arabia.com^$all
+||91.243.44.142^$all
+||amtechprinting.com^$all
 ||180.214.237.206^$all
 ||idc-confiabilidad.com^$all
 ||ammouriarts.com^$all
@@ -23,7 +29,6 @@
 ||91.243.44.85^$all
 ||81.4.105.174^$all
 ||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^$all
-||amtechprinting.com^$all
 ||107.189.6.214^$all
 ||euronovelty.com.mx^$all
 ||www.ocpi.com.my^$all
@@ -34,7 +39,6 @@
 ||136.144.41.109^$all
 ||dl.uploadgram.me^$all
 ||sectigotls.xyz^$all
-||91.243.44.142^$all
 ||103.156.91.63^$all
 ||biesenbeek.nl^$all
 ||x.rune-spectrals.com^$all
@@ -54,8 +58,3 @@
 ||217.114.43.29^$all
 ||jowy-hax.net^$all
 ||91.243.44.99^$all
-||20.51.217.113^$all
-||integralbd.com^$all
-||94.250.249.239^$all
-||scottbyscott.com^$all
-||store1.gofile.io^$all
