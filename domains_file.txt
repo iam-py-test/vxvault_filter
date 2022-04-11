@@ -5,6 +5,10 @@
 ! Last updated: 11/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||admcendojramajudicial.com^$all
+||beachwood.ug^$all
+||malayska.ug^$all
+||20.40.97.94^$all
 ||190.123.44.138^$all
 ||crypto-hunt.net^$all
 ||185.193.89.21^$all
@@ -54,7 +58,3 @@
 ||zkai.xyz^$all
 ||46.148.224.27^$all
 ||2.56.57.7^$all
-||kotadiainc.com^$all
-||217.114.43.29^$all
-||jowy-hax.net^$all
-||91.243.44.99^$all
