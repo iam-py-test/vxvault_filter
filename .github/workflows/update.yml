@@ -21,7 +21,7 @@ jobs:
         python compile.py
         echo 1 > "status.txt"
     - name: Commit & Push
-      uses: actions-x/commit@v2
+      uses: actions-x/commit@v4
       with:
           email: updatebot@iam-py-test.github.io
           name: Update bot
