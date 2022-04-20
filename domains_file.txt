@@ -2,13 +2,23 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Script last updated: 5/4/2022
 ! Expires: 1 day
-! Last updated: 12/04/2022
+! Last updated: 20/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||bbg.az^$all
+||calina-crack.store^$all
+||103.125.190.201^$all
+||fadhelec.com.ec^$all
+||beautyarenawithrojina.com^$all
+||20.40.97.94^$all
+||3.123.129.109^$all
+||107.189.6.214^$all
+||graphictrunk.com^$all
+||idea-time.com^$all
+||xf-1304509675.file.myqcloud.com^$all
 ||admcendojramajudicial.com^$all
 ||beachwood.ug^$all
 ||malayska.ug^$all
-||20.40.97.94^$all
 ||190.123.44.138^$all
 ||crypto-hunt.net^$all
 ||185.193.89.21^$all
@@ -29,11 +39,9 @@
 ||179.43.175.179^$all
 ||43.204.24.26^$all
 ||marriageceremonynyc.com^$all
-||bbg.az^$all
 ||91.243.44.85^$all
 ||81.4.105.174^$all
 ||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^$all
-||107.189.6.214^$all
 ||euronovelty.com.mx^$all
 ||www.ocpi.com.my^$all
 ||teamazmog.xyz^$all
@@ -47,14 +55,3 @@
 ||biesenbeek.nl^$all
 ||x.rune-spectrals.com^$all
 ||45.137.22.122^$all
-||18.156.82.84^$all
-||80.78.22.91^$all
-||taskmgrdev.com^$all
-||raphaellasia.com^$all
-||52.78.165.165^$all
-||ads-ggle.net^$all
-||192.227.196.211^$all
-||193.233.48.64:20001^$all
-||zkai.xyz^$all
-||46.148.224.27^$all
-||2.56.57.7^$all
