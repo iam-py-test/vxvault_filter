@@ -44,7 +44,7 @@ endfile = open("ubolist.txt","w")
 endfile.write(ubolist)
 endfile.close()
 
-safedomains = ["google.com","yahoo.com","duckduckgo.com","wikipedia.org","cdn.discordapp.com","discord.com","discordapp.com","raw.githubusercontent.com","lh3.google.com","drive.google.com","mediafire.com","download.com","googleusercontent.com","github.com","gitlab.com","avatars.githubusercontent.com","transfer.sh","download2264.mediafire.com","download2329.mediafire.com","download2340.mediafire.com","bit.ly","tiny.one",'rotf.lol',"onedrive.live.com","www90.zippyshare.com","www34.zippyshare.com","cdn.filesend.jp"]
+safedomains = ["google.com","yahoo.com","duckduckgo.com","wikipedia.org","cdn.discordapp.com","discord.com","discordapp.com","raw.githubusercontent.com","lh3.google.com","drive.google.com","mediafire.com","download.com","googleusercontent.com","github.com","gitlab.com","avatars.githubusercontent.com","transfer.sh","download2264.mediafire.com","download2329.mediafire.com","download2340.mediafire.com","bit.ly","tiny.one",'rotf.lol',"onedrive.live.com","www90.zippyshare.com","www34.zippyshare.com","cdn.filesend.jp","pastebin.com"]
 donedomains = []
 domainsfile = open("domains_file.txt","w")
 domainsfile.write(domains)
