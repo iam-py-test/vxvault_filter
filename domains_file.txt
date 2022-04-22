@@ -5,6 +5,7 @@
 ! Last updated: 22/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||elegantlivings.com^$all
 ||bbg.az^$all
 ||calina-crack.store^$all
 ||103.125.190.201^$all
