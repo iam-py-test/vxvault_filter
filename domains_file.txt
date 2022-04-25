@@ -5,6 +5,9 @@
 ! Last updated: 25/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||103.167.92.57^$all
+||185.193.89.21^$all
+||190.123.44.138^$all
 ||elegantlivings.com^$all
 ||bbg.az^$all
 ||calina-crack.store^$all
@@ -20,9 +23,7 @@
 ||admcendojramajudicial.com^$all
 ||beachwood.ug^$all
 ||malayska.ug^$all
-||190.123.44.138^$all
 ||crypto-hunt.net^$all
-||185.193.89.21^$all
 ||plus-arabia.com^$all
 ||91.243.44.142^$all
 ||amtechprinting.com^$all
@@ -52,7 +53,3 @@
 ||136.144.41.109^$all
 ||dl.uploadgram.me^$all
 ||sectigotls.xyz^$all
-||103.156.91.63^$all
-||biesenbeek.nl^$all
-||x.rune-spectrals.com^$all
-||45.137.22.122^$all
