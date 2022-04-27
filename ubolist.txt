@@ -6,7 +6,12 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Wed, 27 Apr 2022 03:50:00 +0000
+! Wed, 27 Apr 2022 20:33:04 +0000
+||bluecovertrading.com/s/uchiorigin.txt^$all
+||tiny.one/mrcckewp^$all
+||cdn.discordapp.com/attachments/968190106592768062/968191911775047711/JuicePortable_2_24_Nwpjjyyc.bmp^$all
+||47.93.60.63/exploror.exe^$all
+||ceabis.cf/gn/bin.exe^$all
 ||cdn.discordapp.com/attachments/967997797402042408/968049631516827648/Fxcduurj_Nlhgzqwp.bmp^$all
 ||eugenemask.com/wp-admin/images/j2_Hscwqykd.bmp^$all
 ||eugenemask.com/wp-admin/images/Jel1_Zsclqrrd.png^$all
@@ -103,8 +108,3 @@
 ||18.193.102.232/12A/loader/uploads/0567471093200_Zmnerlfz.jpg^$all
 ||cdn.discordapp.com/attachments/957427178998464566/957946753070559282/bjseGNfyHAAmUFC.dll^$all
 ||olypath.com/xABYF.exe^$all
-||cdn.discordapp.com/attachments/943530644833718332/958664321775333376/Lafpsni_Dgzirswc.png^$all
-||www90.zippyshare.com/d/oQdhnbi0/12357/synapse-cracked_Pzljkocu.png^$all
-||rbmimport.com/emmk/Sexnamz_Qesgbdlk.png^$all
-||136.144.41.109/file/Vuhgk_Gqmjqhsn.jpg^$all
-||dl.uploadgram.me/624193d1712afg?raw^$all

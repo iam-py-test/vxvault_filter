@@ -5,6 +5,9 @@
 ! Last updated: 27/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||bluecovertrading.com^$all
+||47.93.60.63:8000^$all
+||ceabis.cf^$all
 ||eugenemask.com^$all
 ||103.167.92.57^$all
 ||185.193.89.21^$all
@@ -50,6 +53,3 @@
 ||teamazmog.xyz^$all
 ||45.137.22.163^$all
 ||18.193.102.232^$all
-||rbmimport.com^$all
-||136.144.41.109^$all
-||dl.uploadgram.me^$all
