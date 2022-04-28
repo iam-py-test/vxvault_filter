@@ -5,6 +5,8 @@
 ! Last updated: 28/04/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||18.183.167.3^$all
+||hopeforhealth.com.ph^$all
 ||bluecovertrading.com^$all
 ||47.93.60.63:8000^$all
 ||ceabis.cf^$all
@@ -52,4 +54,3 @@
 ||www.ocpi.com.my^$all
 ||teamazmog.xyz^$all
 ||45.137.22.163^$all
-||18.193.102.232^$all
