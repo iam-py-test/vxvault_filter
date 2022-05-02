@@ -5,6 +5,9 @@
 ! Last updated: 02/05/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||185.193.89.11^$all
+||terrazzaitaliana.mx^$all
+||91.243.44.124^$all
 ||cdn-124.anonfiles.com^$all
 ||merit-link.cl^$all
 ||18.183.167.3^$all
@@ -54,5 +57,3 @@
 ||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^$all
 ||euronovelty.com.mx^$all
 ||www.ocpi.com.my^$all
-||teamazmog.xyz^$all
-||45.137.22.163^$all
