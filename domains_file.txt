@@ -2,9 +2,10 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Script last updated: 5/4/2022
 ! Expires: 1 day
-! Last updated: 03/05/2022
+! Last updated: 04/05/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||156.234.211.155^$all
 ||www.agies.org^$all
 ||185.193.89.11^$all
 ||terrazzaitaliana.mx^$all
@@ -56,4 +57,3 @@
 ||91.243.44.85^$all
 ||81.4.105.174^$all
 ||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^$all
-||euronovelty.com.mx^$all
