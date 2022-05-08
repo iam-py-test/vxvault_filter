@@ -5,6 +5,7 @@
 ! Last updated: 08/05/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||mypure.000webhostapp.com^$all
 ||msspaper.cf^$all
 ||www.agies.org^$all
 ||185.222.57.252^$all
