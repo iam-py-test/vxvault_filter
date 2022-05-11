@@ -5,6 +5,7 @@
 ! Last updated: 11/05/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||resellerhosting.anandchowdhary.com^$all
 ||rocksolidfab.ga^$all
 ||safeinthehandsofthegoodbois.com^$all
 ||180.214.238.224^$all
