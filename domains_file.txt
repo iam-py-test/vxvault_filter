@@ -5,6 +5,9 @@
 ! Last updated: 12/05/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||sharodn.net^$all
+||80.94.92.38^$all
+||185.222.57.67^$all
 ||resellerhosting.anandchowdhary.com^$all
 ||rocksolidfab.ga^$all
 ||safeinthehandsofthegoodbois.com^$all
@@ -58,6 +61,3 @@
 ||62.204.41.69^$all
 ||45.147.200.97^$all
 ||olypath.com^$all
-||omarrobinson.xyz^$all
-||143.244.180.227^$all
-||www.tractorandinas.com^$all
