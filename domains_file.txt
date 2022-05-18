@@ -5,6 +5,8 @@
 ! Last updated: 18/05/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||new.delicon.co^$all
+||advanced-ms.ml^$all
 ||sgmotexestablishments.com^$all
 ||2.58.149.2^$all
 ||jetij87d.beget.tech^$all
@@ -61,6 +63,3 @@
 ||180.214.237.206^$all
 ||idc-confiabilidad.com^$all
 ||ammouriarts.com^$all
-||104.36.229.10^$all
-||ocpi.com.my^$all
-||62.204.41.69^$all
