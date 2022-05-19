@@ -5,6 +5,10 @@
 ! Last updated: 19/05/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||thddghdd1.com^$all
+||194.87.31.4^$all
+||103.20.235.166^$all
+||62.197.136.3^$all
 ||new.delicon.co^$all
 ||advanced-ms.ml^$all
 ||sgmotexestablishments.com^$all
@@ -60,6 +64,3 @@
 ||plus-arabia.com^$all
 ||91.243.44.142^$all
 ||amtechprinting.com^$all
-||180.214.237.206^$all
-||idc-confiabilidad.com^$all
-||ammouriarts.com^$all
