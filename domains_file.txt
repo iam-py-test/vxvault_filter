@@ -5,6 +5,8 @@
 ! Last updated: 24/05/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||wirelesscommsat.com^$all
+||cleaning.homesecuritypc.com^$all
 ||karimexpress.ma^$all
 ||62.197.136.3^$all
 ||thddghdd1.com^$all
