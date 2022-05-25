@@ -2,9 +2,10 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Script last updated: 5/4/2022
 ! Expires: 1 day
-! Last updated: 24/05/2022
+! Last updated: 25/05/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||soapbeginshops.com^$all
 ||wirelesscommsat.com^$all
 ||cleaning.homesecuritypc.com^$all
 ||karimexpress.ma^$all
@@ -63,4 +64,3 @@
 ||admcendojramajudicial.com^$all
 ||beachwood.ug^$all
 ||malayska.ug^$all
-||crypto-hunt.net^$all
