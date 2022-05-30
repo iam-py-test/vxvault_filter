@@ -5,6 +5,7 @@
 ! Last updated: 30/05/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||185.222.58.109^$all
 ||2.56.57.85^$all
 ||198.12.66.100^$all
 ||apps.redcrossglobal.ga^$all
@@ -65,4 +66,3 @@
 ||107.189.6.214^$all
 ||graphictrunk.com^$all
 ||idea-time.com^$all
-||xf-1304509675.file.myqcloud.com^$all
