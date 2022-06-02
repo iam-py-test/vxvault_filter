@@ -65,4 +65,3 @@
 ||3.123.129.109^$all
 ||107.189.6.214^$all
 ||graphictrunk.com^$all
-||idea-time.com^$all
