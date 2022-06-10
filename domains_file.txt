@@ -5,6 +5,14 @@
 ! Last updated: 10/06/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||dalyshops.com^$all
+||taspinarli-logistik.com^$all
+||2.56.57.22^$all
+||soprocerto.pt^$all
+||2.56.57.85^$all
+||nkai.xyz^$all
+||greensea.duckdns.org^$all
+||thddghdd3.com^$all
 ||colgefine.at^$all
 ||193.124.22.8^$all
 ||212.193.30.45^$all
@@ -12,12 +20,10 @@
 ||192.210.240.37^$all
 ||pharmakoehnen.ga^$all
 ||37.0.8.145^$all
-||dalyshops.com^$all
 ||unisatrastreamento.com^$all
 ||blueprogress.org^$all
 ||kinq4i2.xyz^$all
 ||185.222.58.109^$all
-||2.56.57.85^$all
 ||198.12.66.100^$all
 ||apps.redcrossglobal.ga^$all
 ||zerit.top^$all
@@ -61,9 +67,3 @@
 ||hopeforhealth.com.ph^$all
 ||bluecovertrading.com^$all
 ||47.93.60.63:8000^$all
-||ceabis.cf^$all
-||eugenemask.com^$all
-||103.167.92.57^$all
-||185.193.89.21^$all
-||190.123.44.138^$all
-||elegantlivings.com^$all
