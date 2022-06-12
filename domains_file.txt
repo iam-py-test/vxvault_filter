@@ -5,6 +5,7 @@
 ! Last updated: 12/06/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||163.123.142.134^$all
 ||dalyshops.com^$all
 ||taspinarli-logistik.com^$all
 ||2.56.57.22^$all
@@ -66,4 +67,3 @@
 ||18.183.167.3^$all
 ||hopeforhealth.com.ph^$all
 ||bluecovertrading.com^$all
-||47.93.60.63:8000^$all
