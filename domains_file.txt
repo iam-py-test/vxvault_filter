@@ -5,8 +5,15 @@
 ! Last updated: 13/06/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
-||163.123.142.134^$all
+||golden-cheats.com^$all
+||gunaymedya.com^$all
+||ngcgas.com^$all
+||check-info-session1036.gq^$all
 ||dalyshops.com^$all
+||grabpflege-ettlingen.de^$all
+||37.0.11.164:8080^$all
+||151.106.2.139^$all
+||163.123.142.134^$all
 ||taspinarli-logistik.com^$all
 ||2.56.57.22^$all
 ||soprocerto.pt^$all
@@ -59,11 +66,3 @@
 ||maquimport.cf^$all
 ||trieutin.com^$all
 ||156.234.211.155^$all
-||185.193.89.11^$all
-||terrazzaitaliana.mx^$all
-||91.243.44.124^$all
-||cdn-124.anonfiles.com^$all
-||merit-link.cl^$all
-||18.183.167.3^$all
-||hopeforhealth.com.ph^$all
-||bluecovertrading.com^$all
