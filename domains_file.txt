@@ -5,13 +5,17 @@
 ! Last updated: 14/06/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||lambweston.ga^$all
+||37.0.11.164:8080^$all
+||grabpflege-ettlingen.de^$all
+||194.87.31.4^$all
+||fidelityptrust.com^$all
+||ftuappz.com^$all
 ||dalyshops.com^$all
 ||golden-cheats.com^$all
 ||gunaymedya.com^$all
 ||ngcgas.com^$all
 ||check-info-session1036.gq^$all
-||grabpflege-ettlingen.de^$all
-||37.0.11.164:8080^$all
 ||151.106.2.139^$all
 ||163.123.142.134^$all
 ||taspinarli-logistik.com^$all
@@ -42,7 +46,6 @@
 ||karimexpress.ma^$all
 ||62.197.136.3^$all
 ||thddghdd1.com^$all
-||194.87.31.4^$all
 ||103.20.235.166^$all
 ||new.delicon.co^$all
 ||advanced-ms.ml^$all
@@ -60,9 +63,3 @@
 ||180.214.238.224^$all
 ||mypure.000webhostapp.com^$all
 ||msspaper.cf^$all
-||www.agies.org^$all
-||185.222.57.252^$all
-||toppnet.tk^$all
-||maquimport.cf^$all
-||trieutin.com^$all
-||156.234.211.155^$all
