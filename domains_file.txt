@@ -5,12 +5,17 @@
 ! Last updated: 15/06/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
-||lambweston.ga^$all
+||ftuappz.com^$all
 ||37.0.11.164:8080^$all
+||185.53.46.95^$all
+||195.2.70.25^$all
+||one.liteshare.co^$all
+||104.168.32.14^$all
+||file.runespectrals.com^$all
+||lambweston.ga^$all
 ||grabpflege-ettlingen.de^$all
 ||194.87.31.4^$all
 ||fidelityptrust.com^$all
-||ftuappz.com^$all
 ||dalyshops.com^$all
 ||golden-cheats.com^$all
 ||gunaymedya.com^$all
@@ -56,10 +61,3 @@
 ||54.90.233.229^$all
 ||sharodn.net^$all
 ||80.94.92.38^$all
-||185.222.57.67^$all
-||resellerhosting.anandchowdhary.com^$all
-||rocksolidfab.ga^$all
-||safeinthehandsofthegoodbois.com^$all
-||180.214.238.224^$all
-||mypure.000webhostapp.com^$all
-||msspaper.cf^$all
