@@ -2,9 +2,10 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Script last updated: 5/4/2022
 ! Expires: 1 day
-! Last updated: 15/06/2022
+! Last updated: 16/06/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||185.29.10.116^$all
 ||ftuappz.com^$all
 ||37.0.11.164:8080^$all
 ||185.53.46.95^$all
@@ -60,4 +61,3 @@
 ||freedownload.vip^$all
 ||54.90.233.229^$all
 ||sharodn.net^$all
-||80.94.92.38^$all
