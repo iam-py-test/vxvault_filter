@@ -5,9 +5,11 @@
 ! Last updated: 16/06/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||37.0.11.164:8080^$all
+||x.rune-spectrals.com^$all
+||carlinconstruct.com^$all
 ||185.29.10.116^$all
 ||ftuappz.com^$all
-||37.0.11.164:8080^$all
 ||185.53.46.95^$all
 ||195.2.70.25^$all
 ||one.liteshare.co^$all
@@ -55,9 +57,3 @@
 ||103.20.235.166^$all
 ||new.delicon.co^$all
 ||advanced-ms.ml^$all
-||sgmotexestablishments.com^$all
-||2.58.149.2^$all
-||jetij87d.beget.tech^$all
-||freedownload.vip^$all
-||54.90.233.229^$all
-||sharodn.net^$all
