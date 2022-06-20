@@ -5,6 +5,8 @@
 ! Last updated: 20/06/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||file.runespectrals.com^$all
+||www.sanipass-solutions.fr^$all
 ||37.0.11.164:8080^$all
 ||193.233.191.16^$all
 ||46.23.109.174^$all
@@ -16,7 +18,6 @@
 ||195.2.70.25^$all
 ||one.liteshare.co^$all
 ||104.168.32.14^$all
-||file.runespectrals.com^$all
 ||lambweston.ga^$all
 ||grabpflege-ettlingen.de^$all
 ||194.87.31.4^$all
@@ -56,4 +57,3 @@
 ||karimexpress.ma^$all
 ||62.197.136.3^$all
 ||thddghdd1.com^$all
-||103.20.235.166^$all
