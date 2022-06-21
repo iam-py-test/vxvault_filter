@@ -5,8 +5,9 @@
 ! Last updated: 21/06/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
-||file.runespectrals.com^$all
 ||www.sanipass-solutions.fr^$all
+||zdigs.cfd^$all
+||file.runespectrals.com^$all
 ||37.0.11.164:8080^$all
 ||193.233.191.16^$all
 ||46.23.109.174^$all
@@ -56,4 +57,3 @@
 ||cleaning.homesecuritypc.com^$all
 ||karimexpress.ma^$all
 ||62.197.136.3^$all
-||thddghdd1.com^$all
