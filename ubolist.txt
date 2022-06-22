@@ -6,7 +6,9 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Wed, 22 Jun 2022 03:40:54 +0000
+! Wed, 22 Jun 2022 20:30:31 +0000
+||omongroup.co/load/loader/uploads/Aytsya_Xpxecdpp.png^$all
+||www.non-se.co/excel/Aytsya.exe^$all
 ||www.sanipass-solutions.fr/wp-admin/pr/loader/uploads/MT_0132362_Akvemnoj.bmp^$all
 ||www.sanipass-solutions.fr/wp-admin/pr/loader/uploads/Requests1250_Gbfotilx.png^$all
 ||zdigs.cfd/loader/uploads/fi_Sflxarfl.bmp^$all
@@ -106,5 +108,3 @@
 ||wirelesscommsat.com/web/wp-content/uploads/2022/05/ImageFront_Ztvpqtdw.jpg^$all
 ||cleaning.homesecuritypc.com/packages/Zltare_Cpchktvl.bmp^$all
 ||karimexpress.ma/cronHelper/Pwbq/^$all
-||cdn.discordapp.com/attachments/968925227247616083/976477183906299984/CelestiaPortable_1_6_2_6_Osldkjbb.png^$all
-||62.197.136.3/KGD6_Project_R0186232_Egrkihhk.jpg^$all
