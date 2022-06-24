@@ -5,12 +5,15 @@
 ! Last updated: 24/06/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||37.0.11.164:8080^$all
+||193.169.255.115^$all
+||190.123.44.138^$all
+||infinite-stars.net^$all
 ||omongroup.co^$all
 ||www.non-se.co^$all
 ||www.sanipass-solutions.fr^$all
 ||zdigs.cfd^$all
 ||file.runespectrals.com^$all
-||37.0.11.164:8080^$all
 ||193.233.191.16^$all
 ||46.23.109.174^$all
 ||x.rune-spectrals.com^$all
@@ -54,7 +57,3 @@
 ||apps.redcrossglobal.ga^$all
 ||zerit.top^$all
 ||uacdrc.cf^$all
-||soapbeginshops.com^$all
-||wirelesscommsat.com^$all
-||cleaning.homesecuritypc.com^$all
-||karimexpress.ma^$all
