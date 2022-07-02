@@ -6,7 +6,7 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Sat, 02 Jul 2022 03:50:41 +0000
+! Sat, 02 Jul 2022 20:29:47 +0000
 ||134.195.138.33/.nCKx/zx.arm7^$all
 ||134.195.138.33/.nCKx/zx.mips^$all
 ||134.195.138.33/.nCKx/zx.x86^$all
