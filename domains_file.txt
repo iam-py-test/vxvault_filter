@@ -5,6 +5,9 @@
 ! Last updated: 05/07/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||mistitis.ug^$all
+||goldrush.ug^$all
+||cracksmsa.ug^$all
 ||my.cloudme.com^$all
 ||134.195.138.33^$all
 ||91.218.67.131^$all
@@ -53,5 +56,3 @@
 ||192.210.240.37^$all
 ||pharmakoehnen.ga^$all
 ||37.0.8.145^$all
-||unisatrastreamento.com^$all
-||blueprogress.org^$all
