@@ -5,6 +5,8 @@
 ! Last updated: 06/07/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||dragonfruitting.com^$all
+||files.catbox.moe^$all
 ||mistitis.ug^$all
 ||goldrush.ug^$all
 ||cracksmsa.ug^$all
@@ -55,4 +57,3 @@
 ||www.uplooder.net^$all
 ||192.210.240.37^$all
 ||pharmakoehnen.ga^$all
-||37.0.8.145^$all
