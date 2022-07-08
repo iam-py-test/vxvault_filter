@@ -5,6 +5,8 @@
 ! Last updated: 08/07/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||185.17.0.52^$all
+||srv99775454.ultasrv.com^$all
 ||5.230.71.78^$all
 ||dragonfruitting.com^$all
 ||files.catbox.moe^$all
@@ -52,7 +54,3 @@
 ||nkai.xyz^$all
 ||greensea.duckdns.org^$all
 ||thddghdd3.com^$all
-||colgefine.at^$all
-||193.124.22.8^$all
-||212.193.30.45^$all
-||www.uplooder.net^$all
