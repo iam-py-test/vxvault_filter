@@ -5,6 +5,9 @@
 ! Last updated: 11/07/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||srv43923540.ultasrv.com^$all
+||20.205.9.191^$all
+||flacnet.com^$all
 ||185.17.0.52^$all
 ||srv99775454.ultasrv.com^$all
 ||5.230.71.78^$all
@@ -52,5 +55,3 @@
 ||soprocerto.pt^$all
 ||2.56.57.85^$all
 ||nkai.xyz^$all
-||greensea.duckdns.org^$all
-||thddghdd3.com^$all
