@@ -6,7 +6,14 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Thu, 14 Jul 2022 03:55:36 +0000
+! Thu, 14 Jul 2022 20:32:03 +0000
+||194.31.98.205/bins/aqua.mpsl^$all
+||lutanedukasi.co.id/wp-includes/hAiNVxLRl3ayBcV.exe^$all
+||real-software.org/software.exe^$all
+||104.193.255.90/win/infos.exe^$all
+||incotel.com.pk/10/data64_1.exe^$all
+||45.85.190.156/153/vbc.exe^$all
+||194.87.84.136/xampp/ILMerge.exe^$all
 ||194.87.84.136/wPQPj.exe^$all
 ||cdn.discordapp.com/attachments/976481542438264835/992626478745407488/lMAsOfd.exe^$all
 ||getmut-cleaner.online/GetmutCleaner.exe^$all
@@ -101,10 +108,3 @@
 ||37.0.11.164/loader/uploads/Renevct_Enjjwvuu.png^$all
 ||37.0.11.164/loader/uploads/Renevct_Vsqzxplx.png^$all
 ||cdn.discordapp.com/attachments/911606378152472639/911743998174060574/ChromeRecovery.exe^$all
-||151.106.2.139/epio.gif^$all
-||163.123.142.134/Mvppopw_Bbvrtmcq.png^$all
-||dalyshops.com/loader/uploads/services.exe^$all
-||dalyshops.com/loader/uploads/services_Fiwakjwd.jpg^$all
-||taspinarli-logistik.com/wps/loader/uploads/Gkvnei_Jnzxqtqq.png^$all
-||taspinarli-logistik.com/wps/loader/uploads/Hrrawg_Bksakskl.bmp^$all
-||2.56.57.22/Szzkx_Jlhaxwdp.png^$all
