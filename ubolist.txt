@@ -6,7 +6,10 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Tue, 19 Jul 2022 04:05:04 +0000
+! Tue, 19 Jul 2022 20:32:08 +0000
+||f0655589.xsph.ru/crypt/build.exe^$all
+||f0655589.xsph.ru/crypt/build%20(1).exe^$all
+||f0655589.xsph.ru/crypt/build%20(3).exe^$all
 ||194.31.98.205/bins/aqua.mpsl^$all
 ||lutanedukasi.co.id/wp-includes/hAiNVxLRl3ayBcV.exe^$all
 ||real-software.org/software.exe^$all
@@ -105,6 +108,3 @@
 ||golden-cheats.com/loader/uploads/MultiCheatInstaller_Hjxqhlkx.png^$all
 ||golden-cheats.com/loader/uploads/LoadRevMine_Dszhsxep.png^$all
 ||37.0.11.164/loader/uploads/Renevct_Culaqtax.png^$all
-||37.0.11.164/loader/uploads/Renevct_Enjjwvuu.png^$all
-||37.0.11.164/loader/uploads/Renevct_Vsqzxplx.png^$all
-||cdn.discordapp.com/attachments/911606378152472639/911743998174060574/ChromeRecovery.exe^$all
