@@ -6,7 +6,8 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Wed, 20 Jul 2022 03:48:41 +0000
+! Wed, 20 Jul 2022 20:33:48 +0000
+||193.233.179.125/wSEFa.exe^$all
 ||f0655589.xsph.ru/crypt/build.exe^$all
 ||f0655589.xsph.ru/crypt/build%20(1).exe^$all
 ||f0655589.xsph.ru/crypt/build%20(3).exe^$all
@@ -107,4 +108,3 @@
 ||grabpflege-ettlingen.de/wps/loader/uploads/Uokhs_Vzpsosiz.jpg^$all
 ||golden-cheats.com/loader/uploads/MultiCheatInstaller_Hjxqhlkx.png^$all
 ||golden-cheats.com/loader/uploads/LoadRevMine_Dszhsxep.png^$all
-||37.0.11.164/loader/uploads/Renevct_Culaqtax.png^$all
