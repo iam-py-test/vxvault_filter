@@ -5,6 +5,9 @@
 ! Last updated: 21/07/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||102.37.220.234^$all
+||185.174.101.246^$all
+||141.98.6.236^$all
 ||193.233.179.125^$all
 ||f0655589.xsph.ru^$all
 ||194.31.98.205^$all
@@ -56,5 +59,3 @@
 ||dalyshops.com^$all
 ||golden-cheats.com^$all
 ||gunaymedya.com^$all
-||ngcgas.com^$all
-||check-info-session1036.gq^$all
