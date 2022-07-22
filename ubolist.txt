@@ -6,7 +6,11 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Fri, 22 Jul 2022 03:55:42 +0000
+! Fri, 22 Jul 2022 20:32:32 +0000
+||froniycj.beget.tech/0xjjjj.exe^$all
+||102.37.220.234/htdocs/mBHKP.exe^$all
+||102.37.220.234/htdocs/mnjks.exe^$all
+||102.37.220.234/htdocs/DzXbP.exe^$all
 ||102.37.220.234/htdocs/sBLQX.exe^$all
 ||102.37.220.234/htdocs/bCXQP.exe^$all
 ||185.174.101.246/1807.exe^$all
@@ -104,7 +108,3 @@
 ||fidelityptrust.com/loader/uploads/Dmqpaeolc_Bfyuzsew.jpg^$all
 ||37.0.11.164/loader/uploads/Renevct_Wbymcttp.jpg^$all
 ||ftuappz.com/loader/uploads/ucsvc_Rxvrxasd.bmp^$all
-||dalyshops.com/loader/uploads/services_Lygatolu.jpg^$all
-||golden-cheats.com/loader/uploads/MultiCheatInstaller_Uhhvzedr.bmp^$all
-||golden-cheats.com/loader/uploads/CheatInstaller_Ndtzqvil.jpg^$all
-||gunaymedya.com/loader/uploads/fi90_Hzfuhusz.jpg^$all

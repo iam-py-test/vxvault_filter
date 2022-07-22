@@ -5,6 +5,7 @@
 ! Last updated: 22/07/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||froniycj.beget.tech^$all
 ||102.37.220.234^$all
 ||185.174.101.246^$all
 ||141.98.6.236^$all
@@ -56,6 +57,3 @@
 ||grabpflege-ettlingen.de^$all
 ||194.87.31.4^$all
 ||fidelityptrust.com^$all
-||dalyshops.com^$all
-||golden-cheats.com^$all
-||gunaymedya.com^$all
