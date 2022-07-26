@@ -5,6 +5,9 @@
 ! Last updated: 26/07/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||data-host-file-16.com^$all
+||rgyui.top^$all
+||dl.uploadgram.me^$all
 ||froniycj.beget.tech^$all
 ||102.37.220.234^$all
 ||185.174.101.246^$all
@@ -56,4 +59,3 @@
 ||lambweston.ga^$all
 ||grabpflege-ettlingen.de^$all
 ||194.87.31.4^$all
-||fidelityptrust.com^$all
