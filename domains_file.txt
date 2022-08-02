@@ -5,6 +5,8 @@
 ! Last updated: 02/08/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||208.67.105.125^$all
+||malanche.com^$all
 ||107.173.143.5^$all
 ||212.192.246.234^$all
 ||193.233.193.67^$all
@@ -47,15 +49,3 @@
 ||omongroup.co^$all
 ||www.non-se.co^$all
 ||www.sanipass-solutions.fr^$all
-||zdigs.cfd^$all
-||file.runespectrals.com^$all
-||193.233.191.16^$all
-||46.23.109.174^$all
-||x.rune-spectrals.com^$all
-||carlinconstruct.com^$all
-||185.29.10.116^$all
-||ftuappz.com^$all
-||185.53.46.95^$all
-||195.2.70.25^$all
-||one.liteshare.co^$all
-||104.168.32.14^$all
