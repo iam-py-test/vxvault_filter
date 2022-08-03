@@ -6,7 +6,15 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Wed, 03 Aug 2022 04:00:53 +0000
+! Wed, 03 Aug 2022 20:31:40 +0000
+||jg.studio/vast.exe^$all
+||jg.studio/client-build.exe^$all
+||jg.studio/c.exe^$all
+||jg.studio/8.exe^$all
+||jg.studio/1.exe^$all
+||jg.studio/00000003.exe^$all
+||cleaning.homesecuritypc.com/packages/Gtonboc_Yvfnvcea.bmp^$all
+||vitalwbw.beget.tech/forecaster.exe^$all
 ||208.67.105.125/vik/HENLOAD.txt^$all
 ||208.67.105.125/vik/henwar.txt^$all
 ||208.67.105.125/vik/ezzeee.txt^$all
@@ -100,11 +108,3 @@
 ||37.0.11.164/loader/uploads/Renevct.exe^$all
 ||37.0.11.164/loader/uploads/Renevct.exe^$all
 ||37.0.11.164/loader/uploads/Renevct.exe^$all
-||193.169.255.115/coe/Pbwcinzft.exe^$all
-||190.123.44.138/loader/uploads/stealernew0330_Uevwjzic.jpg^$all
-||infinite-stars.net/files/clip.exe^$all
-||infinite-stars.net/files/drop.exe^$all
-||infinite-stars.net/files/vida.exe^$all
-||omongroup.co/load/loader/uploads/Aytsya_Xpxecdpp.png^$all
-||www.non-se.co/excel/Aytsya.exe^$all
-||www.sanipass-solutions.fr/wp-admin/pr/loader/uploads/MT_0132362_Akvemnoj.bmp^$all
