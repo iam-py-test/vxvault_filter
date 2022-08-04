@@ -6,7 +6,16 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Thu, 04 Aug 2022 03:38:30 +0000
+! Thu, 04 Aug 2022 20:31:45 +0000
+||109.206.241.81/htdocs/gWRDK.exe^$all
+||wiwirdo.ac.ug/rc.exe^$all
+||wiwirdo.ac.ug/cc.exe^$all
+||wiwirdo.ac.ug/pm.exe^$all
+||wiwirdo.ac.ug/azne.exe^$all
+||marnersstyler.ug/zxcvb.exe^$all
+||marnersstyler.ug/asdfg.exe^$all
+||marnersstyler.ug/asdf.EXE^$all
+||marnersstyler.ug/zxcv.EXE^$all
 ||jg.studio/vast.exe^$all
 ||jg.studio/client-build.exe^$all
 ||jg.studio/c.exe^$all
@@ -99,12 +108,3 @@
 ||my.cloudme.com/v1/ws2/:portable2022/:Setup_49/Setup.exe^$all
 ||cdn.discordapp.com/attachments/918234799016120353/993215540292243597/Mnr.exe^$all
 ||134.195.138.33/.nCKx/zx.arm7^$all
-||134.195.138.33/.nCKx/zx.mips^$all
-||134.195.138.33/.nCKx/zx.x86^$all
-||91.218.67.131/reaper/reap.arm7^$all
-||91.218.67.131/reaper/reap.x86^$all
-||172.93.213.149/upload/simpledropper.exe^$all
-||github.com/steven02f/qqq/raw/main/copw.exe^$all
-||37.0.11.164/loader/uploads/Renevct.exe^$all
-||37.0.11.164/loader/uploads/Renevct.exe^$all
-||37.0.11.164/loader/uploads/Renevct.exe^$all
