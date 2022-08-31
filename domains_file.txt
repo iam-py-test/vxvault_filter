@@ -5,6 +5,8 @@
 ! Last updated: 31/08/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||ameis.andalanmutuenergi.com^$all
+||172.86.75.33^$all
 ||173.234.155.22^$all
 ||h164671.srv11.test-hf.su^$all
 ||my-med.ga^$all
@@ -46,4 +48,3 @@
 ||files.catbox.moe^$all
 ||mistitis.ug^$all
 ||goldrush.ug^$all
-||cracksmsa.ug^$all
