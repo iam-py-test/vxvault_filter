@@ -5,6 +5,11 @@
 ! Last updated: 05/09/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||rgyui.top^$all
+||derioswinf.org^$all
+||host-coin-file-17.com^$all
+||5.255.104.227^$all
+||81.161.229.110^$all
 ||ameis.andalanmutuenergi.com^$all
 ||172.86.75.33^$all
 ||173.234.155.22^$all
@@ -23,7 +28,6 @@
 ||193.233.193.67^$all
 ||102.37.220.234^$all
 ||data-host-file-16.com^$all
-||rgyui.top^$all
 ||dl.uploadgram.me^$all
 ||froniycj.beget.tech^$all
 ||185.174.101.246^$all
@@ -44,7 +48,3 @@
 ||185.17.0.52^$all
 ||srv99775454.ultasrv.com^$all
 ||5.230.71.78^$all
-||dragonfruitting.com^$all
-||files.catbox.moe^$all
-||mistitis.ug^$all
-||goldrush.ug^$all
