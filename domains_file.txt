@@ -5,6 +5,8 @@
 ! Last updated: 06/09/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||85.209.88.29^$all
+||103.114.163.185^$all
 ||rgyui.top^$all
 ||derioswinf.org^$all
 ||host-coin-file-17.com^$all
@@ -47,4 +49,3 @@
 ||flacnet.com^$all
 ||185.17.0.52^$all
 ||srv99775454.ultasrv.com^$all
-||5.230.71.78^$all
