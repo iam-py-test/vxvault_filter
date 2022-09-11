@@ -36,17 +36,16 @@ for line in lines:
         if urlparse(line).query != "":
             queryparam = "?" + urlparse(line).query
         ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all\n"
-        if "||" + urlparse(line).hostname +  urlparse(line).path + queryparam not in fdata and fdata != "":
-            try:
-               print("LINE: ",line)
-               payhash = sha256(requests.get(line).content).hexdigest()
-               print("HASH: ",payhash)
-               if payhash in done_hashes:
-                    print("Already recorded")
-                    continue
-               sha256s += "{}\n".format(payhash)
-            except Exception as err:
-                print("ERR: ",err)
+        try:
+            print("LINE: ",line)
+            payhash = sha256(requests.get(line).content).hexdigest()
+            print("HASH: ",payhash)
+            if payhash in done_hashes:
+                print("Already recorded")
+                continue
+            sha256s += "{}\n".format(payhash)
+        except Exception as err:
+            print("ERR: ",err)
     else:
         if line != "" and "<pre>" not in line:
             ubolist += "! " + line + "\n"
