@@ -34,12 +34,12 @@ for line in lines:
         ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all\n"
         if "||" + urlparse(line).hostname +  urlparse(line).path + queryparam not in fdata and fdata != "":
             try:
-               print(line)
+               print("LINE: ",line)
                payhash = sha256(requests.get(line).content).hexdigest()
-               print(payhash)
+               print("HASH: ",payhash)
                sha256s += "{}\n".format(payhash)
             except Exception as err:
-                print(err)
+                print("ERR: ",err)
     else:
         if line != "" and "<pre>" not in line:
             ubolist += "! " + line + "\n"
