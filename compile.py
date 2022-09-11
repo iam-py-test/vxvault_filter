@@ -5,7 +5,7 @@ from hashlib import sha256
 list = requests.get("http://vxvault.net/URL_List.php")
 ubolist = """! Title: VXVault filter
 ! Description: VXVault's latest links compiled into a uBlock Origin compatible filter
-! Script last updated: 5/4/2022
+! Script last updated: 11/9/2022
 ! Expires: 1 day
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
@@ -36,16 +36,17 @@ for line in lines:
         if urlparse(line).query != "":
             queryparam = "?" + urlparse(line).query
         ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all\n"
-        try:
-            print("LINE: ",line)
-            payhash = sha256(requests.get(line).content).hexdigest()
-            print("HASH: ",payhash)
-            if payhash in done_hashes:
-                print("Already recorded")
-                continue
-            sha256s += "{}\n".format(payhash)
-        except Exception as err:
-            print("ERR: ",err)
+        if "||" + urlparse(line).hostname +  urlparse(line).path + queryparam not in fdata and fdata != "":
+            try:
+               print("LINE: ",line)
+               payhash = sha256(requests.get(line).content).hexdigest()
+               print("HASH: ",payhash)
+               if payhash in done_hashes:
+                    print("Already recorded")
+                    continue
+               sha256s += "{}\n".format(payhash)
+            except Exception as err:
+                print("ERR: ",err)
     else:
         if line != "" and "<pre>" not in line:
             ubolist += "! " + line + "\n"
