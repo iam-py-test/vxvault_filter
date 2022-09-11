@@ -13,7 +13,7 @@ ubolist = """! Title: VXVault filter
 """.format(date.today().strftime("%d/%m/%Y"))
 domains = """! Title: VXVault domains
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
-! Script last updated: 5/4/2022
+! Script last updated: 11/9/2022
 ! Expires: 1 day
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
@@ -21,6 +21,10 @@ domains = """! Title: VXVault domains
 """.format(date.today().strftime("%d/%m/%Y"))
 
 sha256s = ""
+try:
+    done_hashes = open("sha256s.txt").read().split("\n")
+except:
+    done_hashes = []
 try:
     fdata = open("ubolist.txt").read()
 except:
@@ -37,6 +41,9 @@ for line in lines:
                print("LINE: ",line)
                payhash = sha256(requests.get(line).content).hexdigest()
                print("HASH: ",payhash)
+               if payhash in done_hashes:
+                    print("Already recorded")
+                    continue
                sha256s += "{}\n".format(payhash)
             except Exception as err:
                 print("ERR: ",err)
@@ -66,14 +73,7 @@ with open("sha256s.txt","a") as f:
         import random
         import requests
         print(lines)
-        f.write(sha256(requests.get(random.choice(lines)).content).hexdigest())
-    except Exception as err:
-        print(err)
-    try:
-        import random
-        import requests
-        print(lines)
-        f.write(sha256(requests.get(lines[0]).content).hexdigest())
+        f.write(sha256s)
     except Exception as err:
         print(err)
     f.close()
