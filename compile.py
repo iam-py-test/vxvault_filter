@@ -34,7 +34,10 @@ for line in lines:
         ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all\n"
         if "||" + urlparse(line).hostname +  urlparse(line).path + queryparam not in fdata and fdata != "":
             try:
-               sha256s += sha256(requests.get(line).content).hexdigest() + "\n"
+               print(line)
+               payhash = sha256(requests.get(line).content).hexdigest()
+               print(payhash)
+               sha256s += "{}\n".format(payhash)
             except Exception as err:
                 print(err)
     else:
