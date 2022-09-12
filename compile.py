@@ -5,7 +5,7 @@ from hashlib import sha256
 list = requests.get("http://vxvault.net/URL_List.php")
 ubolist = """! Title: VXVault filter
 ! Description: VXVault's latest links compiled into a uBlock Origin compatible filter
-! Script last updated: 11/9/2022
+! Script last updated: 12/9/2022
 ! Expires: 1 day
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
@@ -13,7 +13,7 @@ ubolist = """! Title: VXVault filter
 """.format(date.today().strftime("%d/%m/%Y"))
 domains = """! Title: VXVault domains
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
-! Script last updated: 11/9/2022
+! Script last updated: 12/9/2022
 ! Expires: 1 day
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
