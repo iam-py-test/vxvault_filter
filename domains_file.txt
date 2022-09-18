@@ -5,6 +5,8 @@
 ! Last updated: 18/09/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||itomail.ug^$all
+||194.38.23.170^$all
 ||193.31.116.239^$all
 ||79.110.62.66^$all
 ||84.38.135.157^$all
@@ -48,4 +50,3 @@
 ||194.87.84.136^$all
 ||getmut-cleaner.online^$all
 ||srv43923540.ultasrv.com^$all
-||20.205.9.191^$all
