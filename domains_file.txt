@@ -5,8 +5,11 @@
 ! Last updated: 21/09/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
-||192.3.136.187^$all
+||manomav.com^$all
+||84.38.130.219^$all
 ||194.38.23.170^$all
+||delicatedownload.co.uk^$all
+||192.3.136.187^$all
 ||88.198.98.203^$all
 ||itomail.ug^$all
 ||193.31.116.239^$all
@@ -43,10 +46,3 @@
 ||141.98.6.236^$all
 ||193.233.179.125^$all
 ||f0655589.xsph.ru^$all
-||194.31.98.205^$all
-||lutanedukasi.co.id^$all
-||real-software.org^$all
-||104.193.255.90^$all
-||incotel.com.pk^$all
-||45.85.190.156^$all
-||194.87.84.136^$all
