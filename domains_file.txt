@@ -5,12 +5,14 @@
 ! Last updated: 25/09/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||185.17.0.86^$all
+||51.161.11.58^$all
+||delicatedownload.co.uk^$all
 ||194.38.23.170^$all
 ||178.20.45.52^$all
 ||216.250.251.106^$all
 ||manomav.com^$all
 ||84.38.130.219^$all
-||delicatedownload.co.uk^$all
 ||192.3.136.187^$all
 ||88.198.98.203^$all
 ||itomail.ug^$all
@@ -44,5 +46,3 @@
 ||data-host-file-16.com^$all
 ||dl.uploadgram.me^$all
 ||froniycj.beget.tech^$all
-||185.174.101.246^$all
-||141.98.6.236^$all
