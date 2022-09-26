@@ -6,6 +6,7 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ||185.17.0.86^$all
+||104.222.188.59^$all
 ||51.161.11.58^$all
 ||delicatedownload.co.uk^$all
 ||194.38.23.170^$all
@@ -45,4 +46,3 @@
 ||102.37.220.234^$all
 ||data-host-file-16.com^$all
 ||dl.uploadgram.me^$all
-||froniycj.beget.tech^$all
