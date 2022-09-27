@@ -5,11 +5,13 @@
 ! Last updated: 27/09/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||bontiakhotel.net^$all
+||45.155.165.63^$all
+||194.38.23.170^$all
 ||185.17.0.86^$all
 ||104.222.188.59^$all
 ||51.161.11.58^$all
 ||delicatedownload.co.uk^$all
-||194.38.23.170^$all
 ||178.20.45.52^$all
 ||216.250.251.106^$all
 ||manomav.com^$all
@@ -43,6 +45,3 @@
 ||107.173.143.5^$all
 ||212.192.246.234^$all
 ||193.233.193.67^$all
-||102.37.220.234^$all
-||data-host-file-16.com^$all
-||dl.uploadgram.me^$all
