@@ -6,7 +6,11 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Thu, 29 Sep 2022 04:25:03 +0000
+! Thu, 29 Sep 2022 20:38:33 +0000
+||85.192.63.81/ZRkLaxArOkhz.exe^$all
+||cleaning.homesecuritypc.com/packages/Jaetbm_Sxzaaqvv.bmp^$all
+||79.110.62.23/madeit_Bevuknwa.png^$all
+||185.147.34.178/20.png^$all
 ||bontiakhotel.net/article/Client.exe^$all
 ||45.155.165.63/tq/loader/uploads/Product_Details_018_RFQ.exe^$all
 ||194.38.23.170/loader/uploads/new.exe^$all
@@ -104,7 +108,3 @@
 ||208.67.105.125/vik/barry.txt^$all
 ||107.173.143.5/u/go6.exe^$all
 ||107.173.143.5/o/f8t.exe^$all
-||cdn.discordapp.com/attachments/996431641453019227/1001193635217412207/crack.exe^$all
-||212.192.246.234/Spread/8h6iubvHjq7R.exe^$all
-||212.192.246.234/Spread/Cheats.exe^$all
-||193.233.193.67/ItsJustACigarette.exe^$all
