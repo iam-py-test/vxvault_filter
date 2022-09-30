@@ -5,6 +5,7 @@
 ! Last updated: 30/09/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||147.182.192.85^$all
 ||85.192.63.81^$all
 ||cleaning.homesecuritypc.com^$all
 ||79.110.62.23^$all
@@ -45,4 +46,3 @@
 ||vitalwbw.beget.tech^$all
 ||208.67.105.125^$all
 ||malanche.com^$all
-||107.173.143.5^$all
