@@ -3,7 +3,7 @@ from datetime import date
 from urllib.parse import urlparse
 from hashlib import sha256
 list = requests.get("http://vxvault.net/URL_List.php")
-ubolist = """! Title: VXVault filter
+ubolist = """! Title: VXVault filter for uBlock Origin (unofficial)
 ! Description: VXVault's latest links compiled into a uBlock Origin compatible filter
 ! Script last updated: 12/9/2022
 ! Expires: 1 day
@@ -19,6 +19,11 @@ domains = """! Title: VXVault domains
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 """.format(date.today().strftime("%d/%m/%Y"))
+try:
+    all_urls_ever = open("all_urls_ever.txt")
+except:
+    all_urls_ever = """! Title: VXVault filter for uBlock Origin (unofficial)
+"""
 
 sha256s = ""
 try:
