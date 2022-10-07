@@ -5,6 +5,8 @@
 ! Last updated: 07/10/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||huntingknives.shop^$all
+||193.31.116.239^$all
 ||45.83.122.242^$all
 ||147.182.192.85^$all
 ||85.192.63.81^$all
@@ -25,7 +27,6 @@
 ||192.3.136.187^$all
 ||88.198.98.203^$all
 ||itomail.ug^$all
-||193.31.116.239^$all
 ||79.110.62.66^$all
 ||84.38.135.157^$all
 ||85.209.88.29^$all
