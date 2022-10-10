@@ -1,10 +1,12 @@
-! Title: VXVault domains
+! Title: VXVault domains (unofficial)
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls
 ! Script last updated: 12/9/2022
 ! Expires: 1 day
 ! Last updated: 10/10/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||gtok.axfree.com^$all
+||one.liteshare.co^$all
 ||huntingknives.shop^$all
 ||193.31.116.239^$all
 ||45.83.122.242^$all
