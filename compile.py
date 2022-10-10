@@ -20,7 +20,7 @@ domains = """! Title: VXVault domains (unofficial)
 ! Data from http://vxvault.net/
 """.format(date.today().strftime("%d/%m/%Y"))
 try:
-    all_urls_ever = open("all_urls_ever.txt")
+    all_urls_ever = open("ubolist_full.txt").read()
 except:
     all_urls_ever = """! Title: VXVault filter for uBlock Origin (unofficial)
 ! Expires: 1 day
