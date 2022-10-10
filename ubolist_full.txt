@@ -1,5 +1,7 @@
 ! Title: VXVault filter for uBlock Origin (unofficial)
 ! Expires: 1 day
+! Homepage: https://github.com/iam-py-test/vxvault_filter
+! Data from http://vxvault.net/
 ||gtok.axfree.com/xxr.exe^$all
 ||one.liteshare.co/download.php?id=EMM466Y^$all
 ||huntingknives.shop/crc/tyrird.exe^$all
