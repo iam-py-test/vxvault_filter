@@ -5,6 +5,8 @@
 ! Last updated: 12/10/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||bitcoinpass.ru^$all
+||77.73.133.31^$all
 ||gtok.axfree.com^$all
 ||one.liteshare.co^$all
 ||huntingknives.shop^$all

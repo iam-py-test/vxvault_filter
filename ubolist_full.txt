@@ -96,3 +96,6 @@
 ||208.67.105.125/vik/felix.txt^$all
 ||208.67.105.125/vik/roth.txt^$all
 ||208.67.105.125/vik/zamanii.txt^$all
+||bitcoinpass.ru/whit/windll32.exe^$all
+||bitcoinpass.ru/slf/windll32.exe^$all
+||77.73.133.31/v0.9_rebranding_64.exe^$all
