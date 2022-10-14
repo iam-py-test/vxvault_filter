@@ -1,4 +1,4 @@
-# VXVault filter
+# VXVault filter (unofficial)
 A uBlock Origin compatable filter created from VXVault's URL list
 
 ### What is VXVault filter & why does it exist?
