@@ -97,7 +97,7 @@ with open("sha256s.txt","a") as f:
 yara_urls = ""
 num = 1
 for u in all_u:
-    yara_urls = "\t\t$url{} = \"{}\"\n".format(num,u)
+    yara_urls += "\t\t$url{} = \"{}\"\n".format(num,u)
     num += 1
 yara_rule = """rule VXVault_match
 [ob]
