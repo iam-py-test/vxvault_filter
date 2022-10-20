@@ -107,3 +107,4 @@
 ||111.90.151.174/Ransomworm.exe^$all
 ||111.90.151.174/Ransomware.exe^$all
 ||111.90.151.174/5201.exe^$all
+||103.145.253.70/clouddisk/vbc.exe^$all
