@@ -6,11 +6,11 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ||gitcdn.link^$all
+||mamamiya137.ru^$all
 ||cghfdyj.b-cdn.net^$all
 ||sarlmagsub.com^$all
 ||185.223.93.133^$all
 ||23.88.123.223^$all
-||mamamiya137.ru^$all
 ||45.83.123.158^$all
 ||217.114.43.68^$all
 ||103.145.253.70^$all
