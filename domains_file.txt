@@ -6,6 +6,8 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ||gitcdn.link^$all
+||guluiiiimnstrannaer.net^$all
+||uaery.top^$all
 ||mamamiya137.ru^$all
 ||cghfdyj.b-cdn.net^$all
 ||sarlmagsub.com^$all
@@ -60,4 +62,3 @@
 ||109.206.241.81^$all
 ||wiwirdo.ac.ug^$all
 ||marnersstyler.ug^$all
-||jg.studio^$all
