@@ -1,13 +1,14 @@
 ! Title: VXVault domains (unofficial)
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
-! Script last updated: 12/9/2022
+! Script last updated: 10/11/2022
 ! Expires: 1 day
 ! Last updated: 10/11/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
-||fresherlights.com^$all
+||ezisc.com^$all
+||istanbulyazilim.net^$all
 ||uaery.top^$all
-||bitbucket.org^$all
+||fresherlights.com^$all
 ||178.62.211.84^$all
 ||jhtmuw1v.beget.tech^$all
 ||89.208.104.172^$all
@@ -52,10 +53,3 @@
 ||79.110.62.66^$all
 ||84.38.135.157^$all
 ||85.209.88.29^$all
-||103.114.163.185^$all
-||rgyui.top^$all
-||derioswinf.org^$all
-||host-coin-file-17.com^$all
-||5.255.104.227^$all
-||81.161.229.110^$all
-||ameis.andalanmutuenergi.com^$all
