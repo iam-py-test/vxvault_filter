@@ -5,8 +5,8 @@
 ! Last updated: 11/11/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
-||ezisc.com^$all
 ||istanbulyazilim.net^$all
+||ezisc.com^$all
 ||uaery.top^$all
 ||fresherlights.com^$all
 ||178.62.211.84^$all
@@ -52,4 +52,3 @@
 ||itomail.ug^$all
 ||79.110.62.66^$all
 ||84.38.135.157^$all
-||85.209.88.29^$all
