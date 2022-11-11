@@ -70,7 +70,7 @@ all_urlsever = open("ubolist_full.txt",'w')
 all_urlsever.write(all_urls_ever)
 all_urlsever.close()
 
-safedomains = ["google.com","yahoo.com","duckduckgo.com","wikipedia.org","cdn.discordapp.com","discord.com","discordapp.com","raw.githubusercontent.com","lh3.google.com","drive.google.com","mediafire.com","download.com","googleusercontent.com","github.com","gitlab.com","avatars.githubusercontent.com","transfer.sh","download2264.mediafire.com","download2329.mediafire.com","download2340.mediafire.com","bit.ly","tiny.one",'rotf.lol',"onedrive.live.com","www90.zippyshare.com","www34.zippyshare.com","cdn.filesend.jp","pastebin.com","download2273.mediafire.com","gitcdn.link","bitbucket.org","vxvault.net"]
+safedomains = open("domains_allowlist.txt").read().split("\n")
 donedomains = []
 domainsfile = open("domains_file.txt","w")
 domainsfile.write(domains)
