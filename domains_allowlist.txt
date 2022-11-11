@@ -1,0 +1,48 @@
+# safe domains
+google.com
+yahoo.com
+duckduckgo.com
+wikipedia.org
+discord.com
+vxvault.net
+abuse.ch
+
+
+# URL shorteners
+bit.ly
+tiny.one
+rotf.lol
+
+# file hosting
+cdn.discordapp.com
+discordapp.com
+raw.githubusercontent.com
+lh3.google.com
+drive.google.com
+mediafire.com
+download.com
+googleusercontent.com
+github.com
+gitlab.com
+avatars.githubusercontent.com
+transfer.sh
+download2264.mediafire.com
+download2329.mediafire.com
+download2340.mediafire.com
+download92.mediafire.com
+download2273.mediafire.com
+onedrive.live.com
+www90.zippyshare.com
+www34.zippyshare.com
+cdn.filesend.jp
+pastebin.com
+gitcdn.link
+bitbucket.org
+amazonaws.com
+aws.amazon.com
+gist.github.com
+gist.githubusercontent.com
+
+# website hosting root domains
+github.io
+webflow.io
