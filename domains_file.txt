@@ -5,6 +5,8 @@
 ! Last updated: 14/11/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||gvcaeorx.tk^$all
+||208.67.105.179^$all
 ||istanbulyazilim.net^$all
 ||ezisc.com^$all
 ||uaery.top^$all
@@ -50,4 +52,3 @@
 ||192.3.136.187^$all
 ||88.198.98.203^$all
 ||itomail.ug^$all
-||79.110.62.66^$all
