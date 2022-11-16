@@ -5,6 +5,9 @@
 ! Last updated: 16/11/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||cnom.sante.gov.ml^$all
+||31.42.177.59^$all
+||85.208.136.89^$all
 ||89.208.104.172^$all
 ||gvcaeorx.tk^$all
 ||208.67.105.179^$all
@@ -50,5 +53,3 @@
 ||manomav.com^$all
 ||84.38.130.219^$all
 ||192.3.136.187^$all
-||88.198.98.203^$all
-||itomail.ug^$all
