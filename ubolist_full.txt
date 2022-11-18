@@ -154,3 +154,5 @@
 ||31.42.177.59/wevtutil.exe^$all
 ||31.42.177.59/kurwa.exe^$all
 ||85.208.136.89/Explorer/vbc.exe^$all
+||194.180.48.203/Dspvxt.jpeg^$all
+||privacy-tools-for-you-453.com/downloads/toolspab4.exe^$all
