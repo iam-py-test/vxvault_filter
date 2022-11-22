@@ -156,3 +156,4 @@
 ||85.208.136.89/Explorer/vbc.exe^$all
 ||194.180.48.203/Dspvxt.jpeg^$all
 ||privacy-tools-for-you-453.com/downloads/toolspab4.exe^$all
+||cdn.discordapp.com/attachments/1013922792204415100/1029136565533933638/Setup.exe^$all
