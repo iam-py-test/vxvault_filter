@@ -158,3 +158,6 @@
 ||privacy-tools-for-you-453.com/downloads/toolspab4.exe^$all
 ||cdn.discordapp.com/attachments/1013922792204415100/1029136565533933638/Setup.exe^$all
 ||info123info.site/clip1.exe^$all
+||github.com/Chelloxy/Do-not-Try-this-at-Home/raw/main/Temp3.exe^$all
+||github.com/Chelloxy/Do-not-Try-this-at-Home/raw/main/Temp2.exe^$all
+||github.com/Chelloxy/Do-not-Try-this-at-Home/raw/main/Temp1.exe^$all

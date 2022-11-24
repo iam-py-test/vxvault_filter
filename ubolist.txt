@@ -6,7 +6,10 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 ! VX Vault last 100 Links
-! Thu, 24 Nov 2022 03:01:33 +0000
+! Thu, 24 Nov 2022 20:28:02 +0000
+||github.com/Chelloxy/Do-not-Try-this-at-Home/raw/main/Temp3.exe^$all
+||github.com/Chelloxy/Do-not-Try-this-at-Home/raw/main/Temp2.exe^$all
+||github.com/Chelloxy/Do-not-Try-this-at-Home/raw/main/Temp1.exe^$all
 ||info123info.site/clip1.exe^$all
 ||cdn.discordapp.com/attachments/1013922792204415100/1029136565533933638/Setup.exe^$all
 ||194.180.48.203/Dspvxt.jpeg^$all
@@ -105,6 +108,3 @@
 ||178.20.45.52/pes.exe^$all
 ||178.20.45.52/sec/pes.exe^$all
 ||216.250.251.106/32/vbc.exe^$all
-||194.38.23.170/loader/uploads/new.exe^$all
-||manomav.com/12/TrdngAnr6339.exe^$all
-||manomav.com/12/TrdngAnlzr9949.exe^$all

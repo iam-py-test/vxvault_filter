@@ -53,4 +53,3 @@
 ||delicatedownload.co.uk^$all
 ||178.20.45.52^$all
 ||216.250.251.106^$all
-||manomav.com^$all
