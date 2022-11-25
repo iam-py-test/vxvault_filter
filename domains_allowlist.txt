@@ -6,7 +6,7 @@ wikipedia.org
 discord.com
 vxvault.net
 abuse.ch
-
+zendesk.com
 
 # URL shorteners
 bit.ly
@@ -42,7 +42,11 @@ amazonaws.com
 aws.amazon.com
 gist.github.com
 gist.githubusercontent.com
+p20.zdusercontent.com
+zdusercontent.com
+github.zendesk.com
 
 # website hosting root domains
 github.io
 webflow.io
+wordpress.org
