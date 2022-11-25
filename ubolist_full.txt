@@ -161,3 +161,5 @@
 ||github.com/Chelloxy/Do-not-Try-this-at-Home/raw/main/Temp3.exe^$all
 ||github.com/Chelloxy/Do-not-Try-this-at-Home/raw/main/Temp2.exe^$all
 ||github.com/Chelloxy/Do-not-Try-this-at-Home/raw/main/Temp1.exe^$all
+||192.3.101.26/30/vbc.exe^$all
+||77.73.133.113/lego/okok.exe^$all
