@@ -19,7 +19,7 @@ jobs:
         pip3 install requests
         python compile.py
     - name: Commit & Push
-      uses: actions-x/commit@v5
+      uses: actions-x/commit@v6
       with:
           email: updatebot@iam-py-test.github.io
           name: Update bot
