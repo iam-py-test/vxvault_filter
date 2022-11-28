@@ -163,3 +163,7 @@
 ||github.com/Chelloxy/Do-not-Try-this-at-Home/raw/main/Temp1.exe^$all
 ||192.3.101.26/30/vbc.exe^$all
 ||77.73.133.113/lego/okok.exe^$all
+||198.23.188.139/220/vbc.exe^$all
+||198.23.188.139/190/vbc.exe^$all
+||198.23.188.139/160/vbc.exe^$all
+||198.23.188.139/180/vbc.exe^$all
