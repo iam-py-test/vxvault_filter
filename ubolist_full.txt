@@ -167,3 +167,4 @@
 ||198.23.188.139/190/vbc.exe^$all
 ||198.23.188.139/160/vbc.exe^$all
 ||198.23.188.139/180/vbc.exe^$all
+||techhint24.com/new/Chrome.exe^$all
