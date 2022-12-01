@@ -168,3 +168,7 @@
 ||198.23.188.139/160/vbc.exe^$all
 ||198.23.188.139/180/vbc.exe^$all
 ||techhint24.com/new/Chrome.exe^$all
+||77.73.133.113/lego/barebones1.exe^$all
+||mrfreeman.shop/DgxuGixWrsAdtx/wevtutil.exe^$all
+||jonnyomar.xyz/nppshell32.exe^$all
+||jonnyomar.xyz/nppshell.exe^$all
