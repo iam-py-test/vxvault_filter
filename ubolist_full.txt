@@ -172,3 +172,4 @@
 ||mrfreeman.shop/DgxuGixWrsAdtx/wevtutil.exe^$all
 ||jonnyomar.xyz/nppshell32.exe^$all
 ||jonnyomar.xyz/nppshell.exe^$all
+||91.213.50.36/files/spacemen.exe^$all

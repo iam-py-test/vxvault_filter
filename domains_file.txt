@@ -2,9 +2,10 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 ! Script last updated: 10/11/2022
 ! Expires: 1 day
-! Last updated: 04/12/2022
+! Last updated: 05/12/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||91.213.50.36^$all
 ||77.73.133.113^$all
 ||mrfreeman.shop^$all
 ||jonnyomar.xyz^$all
@@ -53,4 +54,3 @@
 ||bontiakhotel.net^$all
 ||45.155.165.63^$all
 ||194.38.23.170^$all
-||185.17.0.86^$all
