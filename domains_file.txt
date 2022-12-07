@@ -5,6 +5,7 @@
 ! Last updated: 07/12/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||juggenbande.site^$all
 ||91.213.50.36^$all
 ||77.73.133.113^$all
 ||mrfreeman.shop^$all
@@ -53,4 +54,3 @@
 ||185.147.34.178^$all
 ||bontiakhotel.net^$all
 ||45.155.165.63^$all
-||194.38.23.170^$all
