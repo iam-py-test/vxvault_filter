@@ -5,7 +5,7 @@ from hashlib import sha256
 list = requests.get("http://vxvault.net/URL_List.php")
 ubolist = """! Title: VXVault filter for uBlock Origin (unofficial)
 ! Description: VXVault's latest links compiled into a uBlock Origin compatible filter. All credit to VXVault for finding these urls
-! Script last updated: 10/11/2022
+! Script last updated: 9/12/2022
 ! Expires: 1 day
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
@@ -13,12 +13,18 @@ ubolist = """! Title: VXVault filter for uBlock Origin (unofficial)
 """.format(date.today().strftime("%d/%m/%Y"))
 domains = """! Title: VXVault domains (unofficial)
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
-! Script last updated: 10/11/2022
+! Script last updated: 9/12/2022
 ! Expires: 1 day
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 """.format(date.today().strftime("%d/%m/%Y"))
+HOSTs_header = """# VXVault domains (unofficial)
+#  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
+# Homepage: https://github.com/iam-py-test/vxvault_filter
+# Last updated: {}
+""".format(date.today().strftime("%d/%m/%Y"))
+
 try:
     all_urls_ever = open("ubolist_full.txt").read()
 except:
@@ -74,11 +80,14 @@ safedomains = open("domains_allowlist.txt").read().split("\n")
 donedomains = []
 domainsfile = open("domains_file.txt","w")
 domainsfile.write(domains)
+hostsfile = open("hosts.txt",'w')
+hostsfile.write(HOSTs_header)
 for url in lines:
     try:
         domain = urlparse(url).netloc
         if domain not in safedomains and domain not in donedomains and domain != "" and line != "VX Vault last 100 Links":
             domainsfile.write("||{}^$all\n".format(domain))
+            hostsfile.write("0.0.0.0 {}\n".format(domain))
             donedomains.append(domain)
     except:
         pass
