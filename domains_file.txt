@@ -1,10 +1,11 @@
 ! Title: VXVault domains (unofficial)
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
-! Script last updated: 10/11/2022
+! Script last updated: 9/12/2022
 ! Expires: 1 day
 ! Last updated: 09/12/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||ripple-wells-2022.net^$all
 ||juggenbande.site^$all
 ||91.213.50.36^$all
 ||77.73.133.113^$all
@@ -48,9 +49,3 @@
 ||193.31.116.239^$all
 ||45.83.122.242^$all
 ||147.182.192.85^$all
-||85.192.63.81^$all
-||cleaning.homesecuritypc.com^$all
-||79.110.62.23^$all
-||185.147.34.178^$all
-||bontiakhotel.net^$all
-||45.155.165.63^$all

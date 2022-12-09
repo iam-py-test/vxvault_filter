@@ -175,3 +175,9 @@
 ||91.213.50.36/files/spacemen.exe^$all
 ||juggenbande.site/bmbdeathrow/whoismoke/MemoryLoader.exe^$all
 ||juggenbande.site/bmbdeathrow/whoismoke/Filthy.exe^$all
+||ripple-wells-2022.net/yzoyoebw6fqrey/iF3JduUnN5dx.exe^$all
+||ripple-wells-2022.net/yzoyoebw6fqrey/nppshell32.exe^$all
+||ripple-wells-2022.net/yzoyoebw6fqrey/nppshell.exe^$all
+||ripple-wells-2022.net/n8exrcvvse1m2/syncfiles.dll^$all
+||ripple-wells-2022.net/n8exrcvvse1m2/Emit64.exe^$all
+||ripple-wells-2022.net/n8exrcvvse1m2/avicapn32.exe^$all

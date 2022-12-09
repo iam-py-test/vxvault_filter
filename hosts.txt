@@ -1,0 +1,48 @@
+# VXVault domains (unofficial)
+#  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
+# Homepage: https://github.com/iam-py-test/vxvault_filter
+# Last updated: 09/12/2022
+0.0.0.0 ripple-wells-2022.net
+0.0.0.0 juggenbande.site
+0.0.0.0 91.213.50.36
+0.0.0.0 77.73.133.113
+0.0.0.0 mrfreeman.shop
+0.0.0.0 jonnyomar.xyz
+0.0.0.0 198.23.188.139
+0.0.0.0 techhint24.com
+0.0.0.0 192.3.101.26
+0.0.0.0 info123info.site
+0.0.0.0 194.180.48.203
+0.0.0.0 uaery.top
+0.0.0.0 guluiiiimnstrannaer.net
+0.0.0.0 privacy-tools-for-you-453.com
+0.0.0.0 cnom.sante.gov.ml
+0.0.0.0 31.42.177.59
+0.0.0.0 85.208.136.89
+0.0.0.0 89.208.104.172
+0.0.0.0 gvcaeorx.tk
+0.0.0.0 208.67.105.179
+0.0.0.0 istanbulyazilim.net
+0.0.0.0 ezisc.com
+0.0.0.0 fresherlights.com
+0.0.0.0 178.62.211.84
+0.0.0.0 jhtmuw1v.beget.tech
+0.0.0.0 mamamiya137.ru
+0.0.0.0 cghfdyj.b-cdn.net
+0.0.0.0 sarlmagsub.com
+0.0.0.0 185.223.93.133
+0.0.0.0 23.88.123.223
+0.0.0.0 45.83.123.158
+0.0.0.0 217.114.43.68
+0.0.0.0 103.145.253.70
+0.0.0.0 45.139.105.159
+0.0.0.0 198.23.187.168
+0.0.0.0 111.90.151.174:7777
+0.0.0.0 bitcoinpass.ru
+0.0.0.0 77.73.133.31
+0.0.0.0 gtok.axfree.com
+0.0.0.0 one.liteshare.co
+0.0.0.0 huntingknives.shop
+0.0.0.0 193.31.116.239
+0.0.0.0 45.83.122.242
+0.0.0.0 147.182.192.85
