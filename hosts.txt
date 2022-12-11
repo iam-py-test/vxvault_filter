@@ -1,7 +1,8 @@
 # VXVault domains (unofficial)
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 10/12/2022
+# Last updated: 11/12/2022
+0.0.0.0 35.235.126.33
 0.0.0.0 ripple-wells-2022.net
 0.0.0.0 juggenbande.site
 0.0.0.0 91.213.50.36
@@ -45,4 +46,3 @@
 0.0.0.0 huntingknives.shop
 0.0.0.0 193.31.116.239
 0.0.0.0 45.83.122.242
-0.0.0.0 147.182.192.85

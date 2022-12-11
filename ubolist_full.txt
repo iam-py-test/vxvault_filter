@@ -181,3 +181,7 @@
 ||ripple-wells-2022.net/n8exrcvvse1m2/syncfiles.dll^$all
 ||ripple-wells-2022.net/n8exrcvvse1m2/Emit64.exe^$all
 ||ripple-wells-2022.net/n8exrcvvse1m2/avicapn32.exe^$all
+||35.235.126.33/cia.windows.arm.exe^$all
+||35.235.126.33/cia.windows.amd64.exe^$all
+||35.235.126.33/cia.linux.amd64^$all
+||35.235.126.33/cia.windows.386.exe^$all
