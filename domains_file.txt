@@ -5,6 +5,7 @@
 ! Last updated: 12/12/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||80.76.51.212^$all
 ||35.235.126.33^$all
 ||ripple-wells-2022.net^$all
 ||juggenbande.site^$all
@@ -42,10 +43,3 @@
 ||45.139.105.159^$all
 ||198.23.187.168^$all
 ||111.90.151.174:7777^$all
-||bitcoinpass.ru^$all
-||77.73.133.31^$all
-||gtok.axfree.com^$all
-||one.liteshare.co^$all
-||huntingknives.shop^$all
-||193.31.116.239^$all
-||45.83.122.242^$all
