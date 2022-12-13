@@ -193,3 +193,4 @@
 ||bitbucket.org/lucifer61156/thisisforeducationalpurposesonly/raw/bc18553af2861543b406b0ca967d1ff48501f86a/CLEP.exe^$all
 ||bitbucket.org/lucifer61156/thisisforeducationalpurposesonly/raw/bc18553af2861543b406b0ca967d1ff48501f86a/DevSt.exe^$all
 ||80.76.51.212/files/adsme.exe^$all
+||divmainbot.pages.dev/xxb.exe^$all
