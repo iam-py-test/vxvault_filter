@@ -1,7 +1,7 @@
 # VXVault domains (unofficial)
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 14/12/2022
+# Last updated: 15/12/2022
 0.0.0.0 divmainbot.pages.dev
 0.0.0.0 80.76.51.212
 0.0.0.0 35.235.126.33
