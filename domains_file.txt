@@ -5,6 +5,9 @@
 ! Last updated: 19/12/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||adobetmcdn.net^$all
+||89.208.104.172^$all
+||77.73.134.24^$all
 ||divmainbot.pages.dev^$all
 ||80.76.51.212^$all
 ||35.235.126.33^$all
@@ -25,7 +28,6 @@
 ||cnom.sante.gov.ml^$all
 ||31.42.177.59^$all
 ||85.208.136.89^$all
-||89.208.104.172^$all
 ||gvcaeorx.tk^$all
 ||208.67.105.179^$all
 ||istanbulyazilim.net^$all
@@ -42,5 +44,3 @@
 ||217.114.43.68^$all
 ||103.145.253.70^$all
 ||45.139.105.159^$all
-||198.23.187.168^$all
-||111.90.151.174:7777^$all

@@ -194,3 +194,7 @@
 ||bitbucket.org/lucifer61156/thisisforeducationalpurposesonly/raw/bc18553af2861543b406b0ca967d1ff48501f86a/DevSt.exe^$all
 ||80.76.51.212/files/adsme.exe^$all
 ||divmainbot.pages.dev/xxb.exe^$all
+||adobetmcdn.net/healthmanagement.exe^$all
+||cdn.discordapp.com/attachments/489454962405802007/495984558177517568/system.exe^$all
+||89.208.104.172/Amadey_.exe^$all
+||77.73.134.24/Clip1.exe^$all

@@ -2,6 +2,9 @@
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
 # Last updated: 19/12/2022
+0.0.0.0 adobetmcdn.net
+0.0.0.0 89.208.104.172
+0.0.0.0 77.73.134.24
 0.0.0.0 divmainbot.pages.dev
 0.0.0.0 80.76.51.212
 0.0.0.0 35.235.126.33
@@ -22,7 +25,6 @@
 0.0.0.0 cnom.sante.gov.ml
 0.0.0.0 31.42.177.59
 0.0.0.0 85.208.136.89
-0.0.0.0 89.208.104.172
 0.0.0.0 gvcaeorx.tk
 0.0.0.0 208.67.105.179
 0.0.0.0 istanbulyazilim.net
@@ -39,5 +41,3 @@
 0.0.0.0 217.114.43.68
 0.0.0.0 103.145.253.70
 0.0.0.0 45.139.105.159
-0.0.0.0 198.23.187.168
-0.0.0.0 111.90.151.174:7777
