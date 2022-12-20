@@ -2,6 +2,7 @@
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
 # Last updated: 20/12/2022
+0.0.0.0 37.77.239.239:8752
 0.0.0.0 adobetmcdn.net
 0.0.0.0 89.208.104.172
 0.0.0.0 77.73.134.24
@@ -37,7 +38,3 @@
 0.0.0.0 sarlmagsub.com
 0.0.0.0 185.223.93.133
 0.0.0.0 23.88.123.223
-0.0.0.0 45.83.123.158
-0.0.0.0 217.114.43.68
-0.0.0.0 103.145.253.70
-0.0.0.0 45.139.105.159

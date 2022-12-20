@@ -198,3 +198,8 @@
 ||cdn.discordapp.com/attachments/489454962405802007/495984558177517568/system.exe^$all
 ||89.208.104.172/Amadey_.exe^$all
 ||77.73.134.24/Clip1.exe^$all
+||37.77.239.239/crypted/Pr0xyWifeStealer.exe^$all
+||37.77.239.239/crypted/ransom.EXE^$all
+||37.77.239.239/crypted/nVidiaControllSetup.exe^$all
+||37.77.239.239/crypted/server5.EXE^$all
+||37.77.239.239/crypted/stealer.EXE^$all
