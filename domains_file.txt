@@ -5,6 +5,7 @@
 ! Last updated: 26/12/2022
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||188.93.233.99^$all
 ||179.43.142.79^$all
 ||37.77.239.239:8752^$all
 ||adobetmcdn.net^$all
@@ -41,4 +42,3 @@
 ||cghfdyj.b-cdn.net^$all
 ||sarlmagsub.com^$all
 ||185.223.93.133^$all
-||23.88.123.223^$all
