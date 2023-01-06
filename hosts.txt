@@ -1,7 +1,7 @@
 # VXVault domains (unofficial)
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 05/01/2023
+# Last updated: 06/01/2023
 0.0.0.0 orderedami.com
 0.0.0.0 nazarene-fire.000webhostapp.com
 0.0.0.0 188.93.233.99
