@@ -2,6 +2,8 @@ import requests
 from datetime import date
 from urllib.parse import urlparse
 from hashlib import sha256
+import re
+
 list = requests.get("http://vxvault.net/URL_List.php")
 ubolist = """! Title: VXVault filter for uBlock Origin (unofficial)
 ! Description: VXVault's latest links compiled into a uBlock Origin compatible filter. All credit to VXVault for finding these urls
@@ -24,6 +26,13 @@ HOSTs_header = """# VXVault domains (unofficial)
 # Homepage: https://github.com/iam-py-test/vxvault_filter
 # Last updated: {}
 """.format(date.today().strftime("%d/%m/%Y"))
+
+# https://www.geeksforgeeks.org/how-to-validate-an-ip-address-using-regex/
+is_ip_v4 = "^((25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.){3}(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])$"
+is_ip_v6 = "((([0-9a-fA-F]){1,4})\\:){7}"\
+             "([0-9a-fA-F]){1,4}"
+is_ip_v4_reg = re.compile(is_ip_v4)
+is_ip_v6_reg = re.compile(is_ip_v6)
 
 try:
     all_urls_ever = open("ubolist_full.txt").read()
@@ -66,7 +75,7 @@ for line in lines:
             except Exception as err:
                 print("ERR: ",err)
     else:
-        if line != "" and "<pre>" not in line:
+        if line != "" and "<pre>" not in line and "</pre>" not in line:
             ubolist += "! " + line + "\n"
 endfile = open("ubolist.txt","w")
 endfile.write(ubolist)
@@ -87,7 +96,8 @@ for url in lines:
         domain = urlparse(url).netloc
         if domain not in safedomains and domain not in donedomains and domain != "" and line != "VX Vault last 100 Links":
             domainsfile.write("||{}^$all\n".format(domain))
-            hostsfile.write("0.0.0.0 {}\n".format(domain))
+            if re.search(is_ip_v4_reg,domain) == None and re.search(is_ip_v6_reg,domain) == None:
+                hostsfile.write("0.0.0.0 {}\n".format(domain))
             donedomains.append(domain)
     except:
         pass
