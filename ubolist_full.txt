@@ -207,3 +207,4 @@
 ||188.93.233.99/n8exrcvvse1m2/avicapn32.exe^$all
 ||orderedami.com/svcrun.exe^$all
 ||nazarene-fire.000webhostapp.com/lio.png^$all
+||h166794.srv12.test-hf.su/42.exe^$all
