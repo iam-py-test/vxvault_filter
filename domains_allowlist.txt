@@ -7,6 +7,7 @@ discord.com
 vxvault.net
 abuse.ch
 zendesk.com
+facebook.com
 
 # URL shorteners
 bit.ly
@@ -45,6 +46,8 @@ gist.githubusercontent.com
 p20.zdusercontent.com
 zdusercontent.com
 github.zendesk.com
+lh3.googleusercontent.com
+codeberg.org
 
 # website hosting root domains
 github.io
