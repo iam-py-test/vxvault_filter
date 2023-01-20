@@ -5,6 +5,7 @@
 ! Last updated: 20/01/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||77.73.134.24^$all
 ||grantable-excesses.000webhostapp.com^$all
 ||45.15.159.230^$all
 ||h166794.srv12.test-hf.su^$all
@@ -15,7 +16,6 @@
 ||37.77.239.239:8752^$all
 ||adobetmcdn.net^$all
 ||89.208.104.172^$all
-||77.73.134.24^$all
 ||divmainbot.pages.dev^$all
 ||80.76.51.212^$all
 ||35.235.126.33^$all

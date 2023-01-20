@@ -210,3 +210,4 @@
 ||h166794.srv12.test-hf.su/42.exe^$all
 ||grantable-excesses.000webhostapp.com/WindowsServices.exe^$all
 ||45.15.159.230/avicapn32.exe^$all
+||77.73.134.24/Clip2.exe^$all
