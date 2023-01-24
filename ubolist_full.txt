@@ -211,3 +211,5 @@
 ||grantable-excesses.000webhostapp.com/WindowsServices.exe^$all
 ||45.15.159.230/avicapn32.exe^$all
 ||77.73.134.24/Clip2.exe^$all
+||137.175.17.190/mogu/xmg.x86^$all
+||137.175.17.190/mogu/xmg.arm^$all

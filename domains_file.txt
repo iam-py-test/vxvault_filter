@@ -2,9 +2,10 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 ! Script last updated: 9/12/2022
 ! Expires: 1 day
-! Last updated: 23/01/2023
+! Last updated: 24/01/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||137.175.17.190^$all
 ||77.73.134.24^$all
 ||grantable-excesses.000webhostapp.com^$all
 ||45.15.159.230^$all
@@ -43,4 +44,3 @@
 ||fresherlights.com^$all
 ||178.62.211.84^$all
 ||jhtmuw1v.beget.tech^$all
-||mamamiya137.ru^$all
