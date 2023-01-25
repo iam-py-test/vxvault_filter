@@ -1,7 +1,7 @@
 # VXVault domains (unofficial)
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 24/01/2023
+# Last updated: 25/01/2023
 0.0.0.0 grantable-excesses.000webhostapp.com
 0.0.0.0 h166794.srv12.test-hf.su
 0.0.0.0 orderedami.com
