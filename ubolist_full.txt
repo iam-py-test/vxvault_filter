@@ -215,3 +215,4 @@
 ||137.175.17.190/mogu/xmg.arm^$all
 ||72.251.235.155/rt/dp/2^$all
 ||72.251.235.155/rt/dp/1^$all
+||unionbindinqcompany.it/vbs.exe^$all
