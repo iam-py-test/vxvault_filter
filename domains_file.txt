@@ -5,6 +5,8 @@
 ! Last updated: 27/01/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
+||144.168.243.177^$all
+||103.133.214.139^$all
 ||unionbindinqcompany.it^$all
 ||77.73.134.24^$all
 ||72.251.235.155^$all

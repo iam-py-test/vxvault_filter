@@ -216,3 +216,5 @@
 ||72.251.235.155/rt/dp/2^$all
 ||72.251.235.155/rt/dp/1^$all
 ||unionbindinqcompany.it/vbs.exe^$all
+||144.168.243.177/113/vbc.exe^$all
+||103.133.214.139/2/NINJA.exe^$all
