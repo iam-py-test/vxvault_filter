@@ -218,3 +218,5 @@
 ||unionbindinqcompany.it/vbs.exe^$all
 ||144.168.243.177/113/vbc.exe^$all
 ||103.133.214.139/2/NINJA.exe^$all
+||h167159.srv11.test-hf.su/53.exe^$all
+||h167159.srv11.test-hf.su/52.exe^$all
