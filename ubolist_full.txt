@@ -220,3 +220,4 @@
 ||103.133.214.139/2/NINJA.exe^$all
 ||h167159.srv11.test-hf.su/53.exe^$all
 ||h167159.srv11.test-hf.su/52.exe^$all
+||uploadkon.ir/uploads/280e09_22no.rar^$all
