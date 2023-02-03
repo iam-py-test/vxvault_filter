@@ -2,6 +2,7 @@
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
 # Last updated: 03/02/2023
+0.0.0.0 s3rrrv3r.xyz
 0.0.0.0 qtvotqx-krf-6.ml
 0.0.0.0 uploadkon.ir
 0.0.0.0 h167159.srv11.test-hf.su
