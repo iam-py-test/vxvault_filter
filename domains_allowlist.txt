@@ -48,6 +48,7 @@ zdusercontent.com
 github.zendesk.com
 lh3.googleusercontent.com
 codeberg.org
+uploadkon.ir
 
 # website hosting root domains
 github.io
