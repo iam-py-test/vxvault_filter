@@ -27,4 +27,3 @@
 0.0.0.0 cnom.sante.gov.ml
 0.0.0.0 gvcaeorx.tk
 0.0.0.0 istanbulyazilim.net
-0.0.0.0 ezisc.com
