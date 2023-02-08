@@ -233,3 +233,4 @@
 ||cryptoidea.help/downloads/metamask.exe^$all
 ||cdn.discordapp.com/attachments/1052616590480380017/1052617391454040144/autorun.exe^$all
 ||84.21.172.35/polish.exe^$all
+||dl.dropboxusercontent.com/s/c1hzli34bo5kxwg/update.exe?dl=0^$all
