@@ -49,6 +49,7 @@ github.zendesk.com
 lh3.googleusercontent.com
 codeberg.org
 uploadkon.ir
+dl.dropboxusercontent.com
 
 # website hosting root domains
 github.io
