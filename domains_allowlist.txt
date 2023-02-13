@@ -50,6 +50,7 @@ lh3.googleusercontent.com
 codeberg.org
 uploadkon.ir
 dl.dropboxusercontent.com
+filepost.io
 
 # website hosting root domains
 github.io
