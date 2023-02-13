@@ -235,3 +235,5 @@
 ||84.21.172.35/polish.exe^$all
 ||dl.dropboxusercontent.com/s/c1hzli34bo5kxwg/update.exe?dl=0^$all
 ||panel984257.site/Baasbq.dat^$all
+||67.198.237.222/k20/k20sh4^$all
+||67.198.237.222/k20/k20x86^$all
