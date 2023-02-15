@@ -1,7 +1,7 @@
 # VXVault domains (unofficial)
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 14/02/2023
+# Last updated: 15/02/2023
 0.0.0.0 panel984257.site
 0.0.0.0 farmriterural.com.au
 0.0.0.0 cryptoidea.help
