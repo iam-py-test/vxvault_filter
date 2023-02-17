@@ -237,3 +237,4 @@
 ||panel984257.site/Baasbq.dat^$all
 ||67.198.237.222/k20/k20sh4^$all
 ||67.198.237.222/k20/k20x86^$all
+||62.204.41.176/putingod.exe^$all
