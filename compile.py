@@ -13,7 +13,7 @@ ubolist = """! Title: VXVault filter for uBlock Origin (unofficial)
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
-""".format(date.today().strftime("%d/%m/%Y"))
+""".format(datetime.date.today().strftime("%d/%m/%Y"))
 domains = """! Title: VXVault domains (unofficial)
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 ! Script last updated: 9/12/2022
