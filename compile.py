@@ -1,8 +1,9 @@
 import requests
-from datetime import date
+import datetime
 from urllib.parse import urlparse
 from hashlib import sha256
-import re
+import re,json
+import socket
 
 list = requests.get("http://vxvault.net/URL_List.php")
 ubolist = """! Title: VXVault filter for uBlock Origin (unofficial)
@@ -20,12 +21,12 @@ domains = """! Title: VXVault domains (unofficial)
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
-""".format(date.today().strftime("%d/%m/%Y"))
+""".format(datetime.date.today().strftime("%d/%m/%Y"))
 HOSTs_header = """# VXVault domains (unofficial)
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
 # Last updated: {}
-""".format(date.today().strftime("%d/%m/%Y"))
+""".format(datetime.date.today().strftime("%d/%m/%Y"))
 
 # https://www.geeksforgeeks.org/how-to-validate-an-ip-address-using-regex/
 is_ip_v4 = "^((25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.){3}(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])$"
@@ -33,6 +34,12 @@ is_ip_v6 = "((([0-9a-fA-F]){1,4})\\:){7}"\
              "([0-9a-fA-F]){1,4}"
 is_ip_v4_reg = re.compile(is_ip_v4)
 is_ip_v6_reg = re.compile(is_ip_v6)
+
+def isalive(domain):
+  try:
+    return socket.gethostbyname(domain) != None
+  except:
+    return False
 
 try:
     all_urls_ever = open("ubolist_full.txt").read()
@@ -42,6 +49,10 @@ except:
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 """
+try:
+  seendomains = json.loads(open("seendomains.json").read())
+except:
+  seendomains = {}
 
 sha256s = ""
 all_u = []
@@ -99,6 +110,10 @@ for url in lines:
             if re.search(is_ip_v4_reg,domain) == None and re.search(is_ip_v6_reg,domain) == None:
                 hostsfile.write("0.0.0.0 {}\n".format(domain))
             donedomains.append(domain)
+            if domain not in seendomains:
+              seendomains[domain] = {"first":datetime.datetime.now().timestamp(),"last":datetime.datetime.now().timestamp()}
+            seendomains[domain]["last"] = datetime.datetime.now().timestamp()
+            seendomains[domain]["alive"] = isalive(domain)
     except:
         pass
 domainsfile.close()
@@ -129,7 +144,12 @@ yara_rule = """rule VXVault_match
    condition:
         any of them
 [cb]
-""".format(date.today().strftime("%d/%m/%Y"),yara_urls).replace("[ob]","{").replace("[cb]","}")
+""".format(datetime.date.today().strftime("%d/%m/%Y"),yara_urls).replace("[ob]","{").replace("[cb]","}")
 outyara = open("rule.yar","w")
 outyara.write(yara_rule)
 outyara.close()
+
+outdomaininfo = open("seendomains.json",'w')
+outdomaininfo.write(seendomains)
+outdomaininfo.close()
+
