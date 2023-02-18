@@ -1,19 +1,15 @@
-! Title: VXVault domains (unofficial)
-! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
-! Script last updated: 9/12/2022
+! Title: VXVault domains longlived (unofficial)
 ! Expires: 1 day
-! Last updated: 18/02/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
+! Last updated: 18/02/2023
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
-||panel984257.site^$all
 ||84.21.172.35^$all
 ||185.17.0.54^$all
 ||167.235.69.31^$all
 ||195.201.23.180^$all
 ||farmriterural.com.au^$all
-||cryptoidea.help^$all
 ||107.189.5.161^$all
 ||s3rrrv3r.xyz^$all
 ||qtvotqx-krf-6.ml^$all
@@ -31,28 +27,20 @@
 ||nazarene-fire.000webhostapp.com^$all
 ||188.93.233.99^$all
 ||179.43.142.79^$all
-||37.77.239.239:8752^$all
 ||adobetmcdn.net^$all
 ||89.208.104.172^$all
 ||divmainbot.pages.dev^$all
 ||80.76.51.212^$all
 ||35.235.126.33^$all
 ||ripple-wells-2022.net^$all
-||juggenbande.site^$all
 ||91.213.50.36^$all
 ||77.73.133.113^$all
-||mrfreeman.shop^$all
-||jonnyomar.xyz^$all
 ||198.23.188.139^$all
-||techhint24.com^$all
 ||192.3.101.26^$all
-||info123info.site^$all
 ||194.180.48.203^$all
-||uaery.top^$all
 ||guluiiiimnstrannaer.net^$all
 ||privacy-tools-for-you-453.com^$all
 ||cnom.sante.gov.ml^$all
 ||31.42.177.59^$all
 ||85.208.136.89^$all
-||gvcaeorx.tk^$all
 ||208.67.105.179^$all
