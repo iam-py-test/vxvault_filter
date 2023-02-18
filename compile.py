@@ -12,7 +12,7 @@ ubolist = """! Title: VXVault filter for uBlock Origin (unofficial)
 ! Expires: 1 day
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Data from http://vxvault.net/
+! Data from http://vxvault.net/. All credit to them for finding these URLs
 """.format(datetime.date.today().strftime("%d/%m/%Y"))
 domains = """! Title: VXVault domains (unofficial)
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
@@ -20,12 +20,19 @@ domains = """! Title: VXVault domains (unofficial)
 ! Expires: 1 day
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Data from http://vxvault.net/
+! Data from http://vxvault.net/. All credit to them for finding these URLs
 """.format(datetime.date.today().strftime("%d/%m/%Y"))
 HOSTs_header = """# VXVault domains (unofficial)
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
 # Last updated: {}
+# Data from http://vxvault.net/. All credit to them for finding these URLs
+""".format(datetime.date.today().strftime("%d/%m/%Y"))
+LONG_LIVED_HEADER = """! Title: VXVault domains longlived (unofficial)
+! Expires: 1 day
+! Homepage: https://github.com/iam-py-test/vxvault_filter
+! Last updated: {}
+! Data from http://vxvault.net/. All credit to them for finding these URLs
 """.format(datetime.date.today().strftime("%d/%m/%Y"))
 
 # https://www.geeksforgeeks.org/how-to-validate-an-ip-address-using-regex/
@@ -117,6 +124,15 @@ for url in lines:
     except:
         pass
 domainsfile.close()
+
+longlived = LONG_LIVED_HEADER
+for domain in seendomains:
+  if seendomains[domain]["alive"] == True:
+    longlived += f"||{domain}^$all\n"
+longlivedfile = open("longlived.txt",'w')
+longlivedfile.write(longlived)
+longlivedfile.close()
+  
 
 with open("sha256s.txt","a") as f:
     try:
