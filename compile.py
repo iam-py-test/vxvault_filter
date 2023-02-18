@@ -150,6 +150,6 @@ outyara.write(yara_rule)
 outyara.close()
 
 outdomaininfo = open("seendomains.json",'w')
-outdomaininfo.write(seendomains)
+outdomaininfo.write(json.dumps(seendomains))
 outdomaininfo.close()
 
