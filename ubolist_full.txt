@@ -238,3 +238,8 @@
 ||67.198.237.222/k20/k20sh4^$all
 ||67.198.237.222/k20/k20x86^$all
 ||62.204.41.176/putingod.exe^$all
+||195.74.86.227/five.exe^$all
+||163.123.143.4/download/Service_soft.bmp^$all
+||194.110.203.101/puta/brazilx86.exe^$all
+||hugersi.com/dl/6523.exe^$all
+||privacy-tools-for-you-453.com/downloads/lab.exe^$all

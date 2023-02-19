@@ -3,6 +3,8 @@
 # Homepage: https://github.com/iam-py-test/vxvault_filter
 # Last updated: 19/02/2023
 # Data from http://vxvault.net/. All credit to them for finding these URLs
+0.0.0.0 hugersi.com
+0.0.0.0 privacy-tools-for-you-453.com
 0.0.0.0 panel984257.site
 0.0.0.0 farmriterural.com.au
 0.0.0.0 cryptoidea.help
@@ -25,6 +27,4 @@
 0.0.0.0 info123info.site
 0.0.0.0 uaery.top
 0.0.0.0 guluiiiimnstrannaer.net
-0.0.0.0 privacy-tools-for-you-453.com
 0.0.0.0 cnom.sante.gov.ml
-0.0.0.0 gvcaeorx.tk
