@@ -51,6 +51,7 @@ codeberg.org
 uploadkon.ir
 dl.dropboxusercontent.com
 filepost.io
+download2327.mediafire.com
 
 # website hosting root domains
 github.io
