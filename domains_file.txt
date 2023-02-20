@@ -5,10 +5,12 @@
 ! Last updated: 20/02/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
+||hugersi.com^$all
+||79.137.207.113^$all
+||193.38.55.218^$all
 ||195.74.86.227^$all
 ||163.123.143.4^$all
 ||194.110.203.101^$all
-||hugersi.com^$all
 ||privacy-tools-for-you-453.com^$all
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -56,5 +58,3 @@
 ||uaery.top^$all
 ||guluiiiimnstrannaer.net^$all
 ||cnom.sante.gov.ml^$all
-||31.42.177.59^$all
-||85.208.136.89^$all

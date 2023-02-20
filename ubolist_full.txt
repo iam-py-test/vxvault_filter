@@ -243,3 +243,5 @@
 ||194.110.203.101/puta/brazilx86.exe^$all
 ||hugersi.com/dl/6523.exe^$all
 ||privacy-tools-for-you-453.com/downloads/lab.exe^$all
+||79.137.207.113/1.exe^$all
+||193.38.55.218/1.exe^$all
