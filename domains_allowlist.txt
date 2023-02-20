@@ -52,6 +52,7 @@ uploadkon.ir
 dl.dropboxusercontent.com
 filepost.io
 download2327.mediafire.com
+tmpfiles.org
 
 # website hosting root domains
 github.io
