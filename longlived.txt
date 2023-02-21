@@ -50,3 +50,5 @@
 ||hugersi.com^$all
 ||79.137.207.113^$all
 ||193.38.55.218^$all
+||www.franceconsobanque.fr^$all
+||merafm.com^$all

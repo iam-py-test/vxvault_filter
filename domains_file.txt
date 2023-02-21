@@ -5,6 +5,10 @@
 ! Last updated: 21/02/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
+||uaery.top^$all
+||jiqaz.com^$all
+||www.franceconsobanque.fr^$all
+||merafm.com^$all
 ||hugersi.com^$all
 ||79.137.207.113^$all
 ||193.38.55.218^$all
@@ -55,6 +59,3 @@
 ||192.3.101.26^$all
 ||info123info.site^$all
 ||194.180.48.203^$all
-||uaery.top^$all
-||guluiiiimnstrannaer.net^$all
-||cnom.sante.gov.ml^$all

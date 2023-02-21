@@ -245,3 +245,8 @@
 ||privacy-tools-for-you-453.com/downloads/lab.exe^$all
 ||79.137.207.113/1.exe^$all
 ||193.38.55.218/1.exe^$all
+||github.com/Crysiz2631/sup/raw/main/Software_Requirements.exe^$all
+||jiqaz.com/files/1/build3.exe^$all
+||www.franceconsobanque.fr/wp-admin/images/css/design/fabric/bo/Uqvfulhohfm.bmp^$all
+||gitlab.com/oxx980/1234/-/raw/main/buildnew.exe^$all
+||merafm.com/wp-content/uploads/2021/02/paf/Talking-Points-with-China-PLAAF.exe^$all
