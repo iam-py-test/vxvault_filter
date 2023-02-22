@@ -250,3 +250,4 @@
 ||www.franceconsobanque.fr/wp-admin/images/css/design/fabric/bo/Uqvfulhohfm.bmp^$all
 ||gitlab.com/oxx980/1234/-/raw/main/buildnew.exe^$all
 ||merafm.com/wp-content/uploads/2021/02/paf/Talking-Points-with-China-PLAAF.exe^$all
+||193.233.20.19/mi/sonto.exe^$all

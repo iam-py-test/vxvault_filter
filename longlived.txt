@@ -1,7 +1,7 @@
 ! Title: VXVault domains longlived (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 21/02/2023
+! Last updated: 22/02/2023
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -11,7 +11,6 @@
 ||195.201.23.180^$all
 ||farmriterural.com.au^$all
 ||107.189.5.161^$all
-||s3rrrv3r.xyz^$all
 ||qtvotqx-krf-6.ml^$all
 ||h167159.srv11.test-hf.su^$all
 ||144.168.243.177^$all
@@ -52,3 +51,4 @@
 ||193.38.55.218^$all
 ||www.franceconsobanque.fr^$all
 ||merafm.com^$all
+||193.233.20.19^$all
