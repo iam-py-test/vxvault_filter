@@ -251,3 +251,7 @@
 ||gitlab.com/oxx980/1234/-/raw/main/buildnew.exe^$all
 ||merafm.com/wp-content/uploads/2021/02/paf/Talking-Points-with-China-PLAAF.exe^$all
 ||193.233.20.19/mi/sonto.exe^$all
+||bbc-s.news/12333.exe^$all
+||a0782451.xsph.ru/vr/st/Reb.exe^$all
+||94.142.138.116/dashboard/installer.exe^$all
+||94.142.138.116/dashboard/pay/new.exe.exe^$all

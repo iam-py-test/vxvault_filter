@@ -1,8 +1,10 @@
 # VXVault domains (unofficial)
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 22/02/2023
+# Last updated: 23/02/2023
 # Data from http://vxvault.net/. All credit to them for finding these URLs
+0.0.0.0 bbc-s.news
+0.0.0.0 a0782451.xsph.ru
 0.0.0.0 uaery.top
 0.0.0.0 jiqaz.com
 0.0.0.0 www.franceconsobanque.fr
@@ -28,4 +30,3 @@
 0.0.0.0 mrfreeman.shop
 0.0.0.0 jonnyomar.xyz
 0.0.0.0 techhint24.com
-0.0.0.0 info123info.site
