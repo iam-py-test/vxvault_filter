@@ -259,3 +259,5 @@
 ||bitbucket.org/thisisaworkspace/bumogak/raw/cf339d8869a4980f17da4d2a7ca92d4cd8dfa47b/LEMON.exe^$all
 ||bitbucket.org/thisisaworkspace/bumogak/raw/cf339d8869a4980f17da4d2a7ca92d4cd8dfa47b/DEV.exe^$all
 ||bitbucket.org/thisisaworkspace/bumogak/raw/cf339d8869a4980f17da4d2a7ca92d4cd8dfa47b/DCKA.exe^$all
+||cdn.discordapp.com/attachments/1066774563054157866/1067847877860270181/Ace.exe^$all
+||77.73.134.35/bebra.exe^$all

@@ -2,13 +2,14 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 ! Script last updated: 9/12/2022
 ! Expires: 1 day
-! Last updated: 27/02/2023
+! Last updated: 28/02/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
+||77.73.134.35^$all
+||77.73.134.24^$all
 ||bbc-s.news^$all
 ||a0782451.xsph.ru^$all
 ||94.142.138.116^$all
-||77.73.134.24^$all
 ||193.233.20.19^$all
 ||uaery.top^$all
 ||jiqaz.com^$all
@@ -59,4 +60,3 @@
 ||mrfreeman.shop^$all
 ||jonnyomar.xyz^$all
 ||198.23.188.139^$all
-||techhint24.com^$all
