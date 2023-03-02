@@ -261,3 +261,6 @@
 ||bitbucket.org/thisisaworkspace/bumogak/raw/cf339d8869a4980f17da4d2a7ca92d4cd8dfa47b/DCKA.exe^$all
 ||cdn.discordapp.com/attachments/1066774563054157866/1067847877860270181/Ace.exe^$all
 ||77.73.134.35/bebra.exe^$all
+||zexeq.com/files/1/build3.exe^$all
+||eboka.vip/stream.exe^$all
+||cdn.discordapp.com/attachments/483916447823822851/1079722023502217216/EasyCrypterSupport.exe^$all
