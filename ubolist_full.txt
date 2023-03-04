@@ -265,3 +265,4 @@
 ||eboka.vip/stream.exe^$all
 ||cdn.discordapp.com/attachments/483916447823822851/1079722023502217216/EasyCrypterSupport.exe^$all
 ||oof00.com/666/106.exe^$all
+||oof00.com/666/105.exe^$all
