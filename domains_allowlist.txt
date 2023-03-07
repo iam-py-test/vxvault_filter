@@ -53,6 +53,8 @@ dl.dropboxusercontent.com
 filepost.io
 download2327.mediafire.com
 tmpfiles.org
+pomf.cat
+a.pomf.cat
 
 # website hosting root domains
 github.io
