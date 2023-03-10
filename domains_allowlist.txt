@@ -55,6 +55,7 @@ download2327.mediafire.com
 tmpfiles.org
 pomf.cat
 a.pomf.cat
+pastebin.pl
 
 # website hosting root domains
 github.io
