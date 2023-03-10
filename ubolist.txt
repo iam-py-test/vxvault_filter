@@ -6,7 +6,9 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
 ! VX Vault last 100 Links
-! Fri, 10 Mar 2023 13:02:36 +0000
+! Fri, 10 Mar 2023 20:22:10 +0000
+||80.66.75.36/p-Qfdyajl.exe^$all
+||80.66.75.36/a-Yfgvvxyduvu.exe^$all
 ||ji.jhia6gyygcc.com/m/ss27.exe^$all
 ||www.cpasdrole.com/handdiy6/handdiy_6.exe^$all
 ||tornomoita.com/RoMunITrLKUraN4728294.exe^$all
@@ -106,5 +108,3 @@
 ||bitbucket.org/lucifer61156/thisisforeducationalpurposesonly/raw/bc18553af2861543b406b0ca967d1ff48501f86a/LIMMin.exe^$all
 ||bitbucket.org/lucifer61156/thisisforeducationalpurposesonly/raw/bc18553af2861543b406b0ca967d1ff48501f86a/DEVMin.exe^$all
 ||bitbucket.org/lucifer61156/thisisforeducationalpurposesonly/raw/bc18553af2861543b406b0ca967d1ff48501f86a/CLEP.exe^$all
-||bitbucket.org/lucifer61156/thisisforeducationalpurposesonly/raw/bc18553af2861543b406b0ca967d1ff48501f86a/DevSt.exe^$all
-||80.76.51.212/files/adsme.exe^$all

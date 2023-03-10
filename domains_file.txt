@@ -5,6 +5,7 @@
 ! Last updated: 10/03/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
+||80.66.75.36^$all
 ||ji.jhia6gyygcc.com^$all
 ||www.cpasdrole.com^$all
 ||tornomoita.com^$all
@@ -62,4 +63,3 @@
 ||adobetmcdn.net^$all
 ||89.208.104.172^$all
 ||divmainbot.pages.dev^$all
-||80.76.51.212^$all

@@ -64,3 +64,4 @@
 ||www.imagn.world^$all
 ||15.204.49.145^$all
 ||ji.jhia6gyygcc.com^$all
+||80.66.75.36^$all
