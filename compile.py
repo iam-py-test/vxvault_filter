@@ -84,7 +84,7 @@ for line in lines:
         if "||" + urlparse(line).hostname +  urlparse(line).path + queryparam not in fdata and fdata != "":
             try:
                r = requests.get(line)
-               if r.status_code == 404 or r.status_code == 403: # if it is 404, then it probably isn't returning malware. Same with 403; I can not remember ever getting a 403 on a malware download URL
+               if r.status_code == 404: # if it is 404, then it probably isn't returning malware
                 continue
                print("LINE: ",line)
                payhash = sha256(r.content).hexdigest()
