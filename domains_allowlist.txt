@@ -56,8 +56,28 @@ tmpfiles.org
 pomf.cat
 a.pomf.cat
 pastebin.pl
+gofile.io
+hastebin.com
 
 # website hosting root domains
 github.io
 webflow.io
 wordpress.org
+mod.land
+cli.rs
+wip.la
+cluster.ws
+thedev.id
+is-a.dev
+is-a-good.dev
+eu.org
+freesubdomains.org
+open-domains.net
+js.cool
+developer.li
+is-an.app
+may-be.gay
+dee.al
+jsid.dev
+vercel.com
+netlify.com
