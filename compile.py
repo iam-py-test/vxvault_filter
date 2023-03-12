@@ -121,8 +121,7 @@ for url in lines:
                 hostsfile.write("0.0.0.0 {}\n".format(domain))
             donedomains.append(domain)
             if domain not in seendomains:
-              seendomains[domain] = {"first":datetime.datetime.now().timestamp(),"last":datetime.datetime.now().timestamp()}
-            seendomains[domain]["last"] = datetime.datetime.now().timestamp()
+              seendomains[domain] = {}
             seendomains[domain]["alive"] = isalive(domain)
     except:
         pass
