@@ -2,9 +2,11 @@
 ! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 ! Script last updated: 9/12/2022
 ! Expires: 1 day
-! Last updated: 12/03/2023
+! Last updated: 13/03/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
+||185.106.94.190^$all
+||77.73.134.24^$all
 ||80.66.75.36^$all
 ||ji.jhia6gyygcc.com^$all
 ||www.cpasdrole.com^$all
@@ -15,7 +17,6 @@
 ||194.87.35.101^$all
 ||tap-taptap.com^$all
 ||oof00.com^$all
-||77.73.134.24^$all
 ||uaery.top^$all
 ||zexeq.com^$all
 ||eboka.vip^$all
