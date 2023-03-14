@@ -280,3 +280,4 @@
 ||80.66.75.36/p-Qfdyajl.exe^$all
 ||80.66.75.36/a-Yfgvvxyduvu.exe^$all
 ||185.106.94.190/file1.exe^$all
+||cdn.discordapp.com/attachments/849373097303080960/1077991259299393606/Cleaner8.exe^$all
