@@ -1,7 +1,7 @@
 ! Title: VXVault domains longlived (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 15/03/2023
+! Last updated: 16/03/2023
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -58,7 +58,6 @@
 ||77.73.134.35^$all
 ||eboka.vip^$all
 ||194.87.35.101^$all
-||www.cpasdrole.com^$all
 ||tornomoita.com^$all
 ||a.dowgmua.com^$all
 ||www.imagn.world^$all
@@ -67,3 +66,4 @@
 ||80.66.75.36^$all
 ||185.106.94.190^$all
 ||46.3.197.29^$all
+||95.214.55.109^$all
