@@ -284,3 +284,5 @@
 ||46.3.197.29/bins/sora.x86^$all
 ||95.214.55.109/bins/zwx86_64^$all
 ||208.67.105.179/robinzx.exe^$all
+||cdn.discordapp.com/attachments/1072409919527067670/1085902945905811507/fleint.exe^$all
+||insellerate.net/doc/taskshostw.exe^$all
