@@ -58,6 +58,7 @@ a.pomf.cat
 pastebin.pl
 gofile.io
 hastebin.com
+paste.yunohost.org
 
 # website hosting root domains
 github.io
