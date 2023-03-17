@@ -1,3 +1,4 @@
 [attr]adb   linguist-detectable linguist-language=AdBlock
 ubolist*.txt adb
 domains_file.txt adb
+longlived.txt adb
