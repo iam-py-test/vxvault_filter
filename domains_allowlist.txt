@@ -59,6 +59,7 @@ pastebin.pl
 gofile.io
 hastebin.com
 paste.yunohost.org
+wetransfer.com
 
 # website hosting root domains
 github.io
