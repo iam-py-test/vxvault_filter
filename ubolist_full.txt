@@ -286,3 +286,5 @@
 ||208.67.105.179/robinzx.exe^$all
 ||cdn.discordapp.com/attachments/1072409919527067670/1085902945905811507/fleint.exe^$all
 ||insellerate.net/doc/taskshostw.exe^$all
+||ji.jhia6gy44dd.com/m/ss47.exe^$all
+||79.137.203.144/white.exe^$all
