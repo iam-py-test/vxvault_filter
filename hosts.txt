@@ -1,7 +1,7 @@
 # VXVault domains (unofficial)
 #  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 02/04/2023
+# Last updated: 03/04/2023
 # Data from http://vxvault.net/. All credit to them for finding these URLs
 0.0.0.0 ji.jhia6gy44dd.com
 0.0.0.0 insellerate.net
