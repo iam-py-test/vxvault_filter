@@ -1,39 +1,54 @@
-import requests
-import datetime
+import re, json, socket, datetime
 from urllib.parse import urlparse
 from hashlib import sha256
-import re, json
-import socket
 
-list = requests.get("http://vxvault.net/URL_List.php")
-ubolist = """! Title: VXVault filterlist (unofficial)
-! Description: VXVault's latest 100 links compiled into a uBlock Origin compatible filter. All credit to VXVault for finding these urls
-! Script last updated: 4/4/2023
+import requests
+
+# static 
+LIST_URL = "http://vxvault.net/URL_List.php"
+HOMEPAGE_URL = "https://github.com/iam-py-test/vxvault_filter"
+SCRIPT_LAST_UPDATED = "4/4/2023" # change when script updated
+ALLOWLIST_FILE_NAME = "domains_allowlist.txt"
+CREDIT_LINE = f"Data from {LIST_URL}. All credit to VXVault for finding these URLs"
+DOMAINS_DESC = f"A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls"
+
+# global vars
+current_date = datetime.date.today().strftime("%d/%m/%Y")
+
+try:
+    ulist = requests.get(LIST_URL)
+except Exception as err:
+    print(f"Unable to fetch URL list from {LIST_URL} due to error: {err}")
+    sys.exit(1)
+
+ubolist = f"""! Title: VXVault filterlist (unofficial)
+! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
+! Script last updated: {SCRIPT_LAST_UPDATED}
 ! Expires: 1 day
-! Last updated: {}
-! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Data from http://vxvault.net/. All credit to them for finding these URLs
-""".format(datetime.date.today().strftime("%d/%m/%Y"))
-domains = """! Title: VXVault domains (unofficial)
-! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding these urls
-! Script last updated: 9/12/2022
+! Last updated: {current_date}
+! Homepage: {HOMEPAGE_URL}
+! {CREDIT_LINE}
+"""
+domains = f"""! Title: VXVault domains (unofficial)
+! Description: {DOMAINS_DESC}
+! Script last updated: {SCRIPT_LAST_UPDATED}
 ! Expires: 1 day
-! Last updated: {}
-! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Data from http://vxvault.net/. All credit to them for finding these URLs
-""".format(datetime.date.today().strftime("%d/%m/%Y"))
-HOSTs_header = """# VXVault domains (unofficial)
-#  A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
-# Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: {}
-# Data from http://vxvault.net/. All credit to them for finding these URLs
-""".format(datetime.date.today().strftime("%d/%m/%Y"))
-LONG_LIVED_HEADER = """! Title: VXVault domains longlived (unofficial)
+! Last updated: {current_date}
+! Homepage: {HOMEPAGE_URL}
+! {CREDIT_LINE}
+"""
+HOSTs_header = f"""# VXVault domains (unofficial)
+# {DOMAINS_DESC}
+# Homepage: {HOMEPAGE_URL}
+# Last updated: {current_date}
+# {CREDIT_LINE}
+"""
+LONG_LIVED_HEADER = f"""! Title: VXVault domains longlived (unofficial)
 ! Expires: 1 day
-! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: {}
-! Data from http://vxvault.net/. All credit to them for finding these URLs
-""".format(datetime.date.today().strftime("%d/%m/%Y"))
+! Homepage: {HOMEPAGE_URL}
+! Last updated: {current_date}
+! {CREDIT_LINE}
+"""
 
 # https://www.geeksforgeeks.org/how-to-validate-an-ip-address-using-regex/
 is_ip_v4 = "^((25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.){3}(25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])$"
@@ -51,10 +66,10 @@ def isalive(domain):
 try:
     all_urls_ever = open("ubolist_full.txt", encoding="UTF-8").read()
 except:
-    all_urls_ever = """! Title: VXVault filterlist (unofficial)
+    all_urls_ever = f"""! Title: VXVault filterlist (unofficial)
 ! Expires: 1 day
-! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Data from http://vxvault.net/
+! Homepage: {HOMEPAGE_URL}
+! {CREDIT_LINE}
 """
 try:
   seendomains = json.loads(open("seendomains.json", encoding="UTF-8").read())
@@ -71,17 +86,18 @@ try:
     fdata = open("ubolist.txt", encoding="UTF-8").read()
 except:
     fdata = ""
-lines = list.text.split("\r\n")
+lines = ulist.text.split("\r\n")
 for line in lines:
     if line.startswith("http"):
         all_u.append(line)
         queryparam = ""
-        if urlparse(line).query != "":
-            queryparam = "?" + urlparse(line).query
-        ubolist += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all\n"
-        if "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all" not in all_urls_ever:
-            all_urls_ever += "||" + urlparse(line).hostname +  urlparse(line).path + queryparam + "^$all\n"
-        if "||" + urlparse(line).hostname +  urlparse(line).path + queryparam not in fdata and fdata != "":
+        parsedurl = urlparse(line)
+        if parsedurl.query != "":
+            queryparam = "?" + parsedurl.query
+        ubolist += "||" + parsedurl.hostname +  parsedurl.path + queryparam + "^$all\n"
+        if "||" + parsedurl.hostname +  parsedurl.path + queryparam + "^$all" not in all_urls_ever:
+            all_urls_ever += "||" + parsedurl.hostname +  parsedurl.path + queryparam + "^$all\n"
+        if "||" + parsedurl.hostname +  parsedurl.path + queryparam not in fdata and fdata != "":
             try:
                r = requests.get(line)
                if r.status_code == 404: # if it is 404, then it probably isn't returning malware
@@ -106,7 +122,7 @@ all_urlsever = open("ubolist_full.txt",'w', encoding="UTF-8")
 all_urlsever.write(all_urls_ever)
 all_urlsever.close()
 
-safedomains = open("domains_allowlist.txt", encoding="UTF-8").read().split("\n")
+safedomains = open(ALLOWLIST_FILE_NAME, encoding="UTF-8").read().split("\n")
 donedomains = []
 domainsfile = open("domains_file.txt","w", encoding="UTF-8")
 domainsfile.write(domains)
@@ -162,7 +178,7 @@ yara_rule = """rule VXVault_match
    condition:
         any of them
 [cb]
-""".format(datetime.date.today().strftime("%d/%m/%Y"),yara_urls).replace("[ob]","{").replace("[cb]","}")
+""".format(current_date, yara_urls).replace("[ob]","{").replace("[cb]","}")
 outyara = open("rule.yar","w", encoding="UTF-8")
 outyara.write(yara_rule)
 outyara.close()
