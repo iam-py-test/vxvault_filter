@@ -2,7 +2,7 @@
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Last updated: 04/04/2023
-! Data from http://vxvault.net/. All credit to them for finding these URLs
+! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
 ||84.21.172.35^$all
