@@ -2,20 +2,20 @@ import requests
 import datetime
 from urllib.parse import urlparse
 from hashlib import sha256
-import re,json
+import re, json
 import socket
 
 list = requests.get("http://vxvault.net/URL_List.php")
-ubolist = """! Title: VXVault filter for uBlock Origin (unofficial)
-! Description: VXVault's latest links compiled into a uBlock Origin compatible filter. All credit to VXVault for finding these urls
-! Script last updated: 9/12/2022
+ubolist = """! Title: VXVault filterlist (unofficial)
+! Description: VXVault's latest 100 links compiled into a uBlock Origin compatible filter. All credit to VXVault for finding these urls
+! Script last updated: 4/4/2023
 ! Expires: 1 day
 ! Last updated: {}
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
 """.format(datetime.date.today().strftime("%d/%m/%Y"))
 domains = """! Title: VXVault domains (unofficial)
-! Description: A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
+! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding these urls
 ! Script last updated: 9/12/2022
 ! Expires: 1 day
 ! Last updated: {}
@@ -23,7 +23,7 @@ domains = """! Title: VXVault domains (unofficial)
 ! Data from http://vxvault.net/. All credit to them for finding these URLs
 """.format(datetime.date.today().strftime("%d/%m/%Y"))
 HOSTs_header = """# VXVault domains (unofficial)
-#  A version of VxVault.net's latest malware urls containing only the domains of the offending urls. All credit to VXVault for finding these urls
+#  A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
 # Last updated: {}
 # Data from http://vxvault.net/. All credit to them for finding these URLs
@@ -49,26 +49,26 @@ def isalive(domain):
     return False
 
 try:
-    all_urls_ever = open("ubolist_full.txt").read()
+    all_urls_ever = open("ubolist_full.txt", encoding="UTF-8").read()
 except:
-    all_urls_ever = """! Title: VXVault filter for uBlock Origin (unofficial)
+    all_urls_ever = """! Title: VXVault filterlist (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/
 """
 try:
-  seendomains = json.loads(open("seendomains.json").read())
+  seendomains = json.loads(open("seendomains.json", encoding="UTF-8").read())
 except:
   seendomains = {}
 
 sha256s = ""
 all_u = []
 try:
-    done_hashes = open("sha256s.txt").read().split("\n")
+    done_hashes = open("sha256s.txt", encoding="UTF-8").read().split("\n")
 except:
     done_hashes = []
 try:
-    fdata = open("ubolist.txt").read()
+    fdata = open("ubolist.txt", encoding="UTF-8").read()
 except:
     fdata = ""
 lines = list.text.split("\r\n")
@@ -96,21 +96,21 @@ for line in lines:
             except Exception as err:
                 print("ERR: ",err)
     else:
-        if line != "" and "<pre>" not in line and "</pre>" not in line:
+        if line != "" and "<pre>" not in line and "</pre>" not in line and line != "! VX Vault last 100 Links":
             ubolist += "! " + line + "\n"
-endfile = open("ubolist.txt","w")
+endfile = open("ubolist.txt","w", encoding="UTF-8")
 endfile.write(ubolist)
 endfile.close()
 
-all_urlsever = open("ubolist_full.txt",'w')
+all_urlsever = open("ubolist_full.txt",'w', encoding="UTF-8")
 all_urlsever.write(all_urls_ever)
 all_urlsever.close()
 
-safedomains = open("domains_allowlist.txt").read().split("\n")
+safedomains = open("domains_allowlist.txt", encoding="UTF-8").read().split("\n")
 donedomains = []
-domainsfile = open("domains_file.txt","w")
+domainsfile = open("domains_file.txt","w", encoding="UTF-8")
 domainsfile.write(domains)
-hostsfile = open("hosts.txt",'w')
+hostsfile = open("hosts.txt",'w', encoding="UTF-8")
 hostsfile.write(HOSTs_header)
 for url in lines:
     try:
@@ -131,12 +131,12 @@ longlived = LONG_LIVED_HEADER
 for domain in seendomains:
   if seendomains[domain]["alive"] == True:
     longlived += f"||{domain}^$all\n"
-longlivedfile = open("longlived.txt",'w')
+longlivedfile = open("longlived.txt",'w', encoding="UTF-8")
 longlivedfile.write(longlived)
 longlivedfile.close()
   
 
-with open("sha256s.txt","a") as f:
+with open("sha256s.txt","a", encoding="UTF-8") as f:
     try:
         import random
         import requests
@@ -163,11 +163,11 @@ yara_rule = """rule VXVault_match
         any of them
 [cb]
 """.format(datetime.date.today().strftime("%d/%m/%Y"),yara_urls).replace("[ob]","{").replace("[cb]","}")
-outyara = open("rule.yar","w")
+outyara = open("rule.yar","w", encoding="UTF-8")
 outyara.write(yara_rule)
 outyara.close()
 
-outdomaininfo = open("seendomains.json",'w')
+outdomaininfo = open("seendomains.json",'w', encoding="UTF-8")
 outdomaininfo.write(json.dumps(seendomains))
 outdomaininfo.close()
 
