@@ -5,7 +5,6 @@
 ! Last updated: 05/04/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
-||filebin.net^$all
 ||103.170.255.139^$all
 ||ji.jhia6gy44dd.com^$all
 ||79.137.203.144^$all

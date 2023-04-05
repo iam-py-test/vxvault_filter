@@ -3,7 +3,6 @@
 # Homepage: https://github.com/iam-py-test/vxvault_filter
 # Last updated: 05/04/2023
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
-0.0.0.0 filebin.net
 0.0.0.0 ji.jhia6gy44dd.com
 0.0.0.0 insellerate.net
 0.0.0.0 ji.jhia6gyygcc.com
