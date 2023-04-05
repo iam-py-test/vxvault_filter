@@ -145,7 +145,7 @@ domainsfile.close()
 
 longlived = LONG_LIVED_HEADER
 for domain in seendomains:
-  if seendomains[domain]["alive"] == True:
+  if seendomains[domain]["alive"] == True and domain not in safedomains:
     longlived += f"||{domain}^$all\n"
 longlivedfile = open("longlived.txt",'w', encoding="UTF-8")
 longlivedfile.write(longlived)
