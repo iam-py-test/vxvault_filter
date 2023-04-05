@@ -58,6 +58,7 @@ gofile.io
 hastebin.com
 paste.yunohost.org
 wetransfer.com
+filebin.net
 
 # website hosting root domains
 github.io
