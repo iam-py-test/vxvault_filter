@@ -291,3 +291,7 @@
 ||103.170.255.139/B191206/vbc.exe^$all
 ||filebin.net/al5dqiowja8bpmov/explorer.exe^$all
 ||simplmizer.duckdns.org/GamingBooster.exe^$all
+||45.15.159.42/XSS1.exe^$all
+||intercross.shop/index/kXFpZBb.exe^$all
+||bitbucket.org/dushanbepromo/kingsoft/downloads/OriginalBuild.exe^$all
+||bitbucket.org/dushanbepromo/kingsoft/downloads/tmpF82D.tmp.exe^$all
