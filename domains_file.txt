@@ -2,9 +2,10 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 4/4/2023
 ! Expires: 1 day
-! Last updated: 11/04/2023
+! Last updated: 12/04/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||65.21.3.192^$all
 ||45.15.159.42^$all
 ||intercross.shop^$all
 ||simplmizer.duckdns.org^$all
@@ -67,4 +68,3 @@
 ||45.15.159.230^$all
 ||h166794.srv12.test-hf.su^$all
 ||orderedami.com^$all
-||nazarene-fire.000webhostapp.com^$all
