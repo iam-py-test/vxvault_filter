@@ -296,3 +296,4 @@
 ||bitbucket.org/dushanbepromo/kingsoft/downloads/OriginalBuild.exe^$all
 ||bitbucket.org/dushanbepromo/kingsoft/downloads/tmpF82D.tmp.exe^$all
 ||65.21.3.192/msiexp.exe^$all
+||asalroshani.ir/user/uni.exe^$all
