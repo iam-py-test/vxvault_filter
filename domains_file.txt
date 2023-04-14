@@ -2,9 +2,12 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 4/4/2023
 ! Expires: 1 day
-! Last updated: 13/04/2023
+! Last updated: 14/04/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||140.99.221.199^$all
+||www.ddtools.top^$all
+||www.tobimar.ro^$all
 ||asalroshani.ir^$all
 ||65.21.3.192^$all
 ||45.15.159.42^$all
@@ -65,6 +68,3 @@
 ||unionbindinqcompany.it^$all
 ||72.251.235.155^$all
 ||137.175.17.190^$all
-||grantable-excesses.000webhostapp.com^$all
-||45.15.159.230^$all
-||h166794.srv12.test-hf.su^$all
