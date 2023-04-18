@@ -302,3 +302,4 @@
 ||www.tobimar.ro/tmp/index.php^$all
 ||140.99.221.199/001.exe^$all
 ||ji.ghwiwwff.com/m/oskg25^$all
+||files.catbox.moe/xfcdu9.dll^$all
