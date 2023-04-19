@@ -303,3 +303,4 @@
 ||140.99.221.199/001.exe^$all
 ||ji.ghwiwwff.com/m/oskg25^$all
 ||files.catbox.moe/xfcdu9.dll^$all
+||cdn.discordapp.com/attachments/1098002440479064067/1098002456824270959/YeniLib.dll^$all
