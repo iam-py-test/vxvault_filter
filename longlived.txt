@@ -1,7 +1,7 @@
 ! Title: VXVault domains longlived (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 19/04/2023
+! Last updated: 20/04/2023
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -77,3 +77,6 @@
 ||www.tobimar.ro^$all
 ||ji.ghwiwwff.com^$all
 ||files.catbox.moe^$all
+||103.189.202.201^$all
+||85.217.144.143^$all
+||famileai.com^$all

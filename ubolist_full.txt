@@ -304,3 +304,10 @@
 ||ji.ghwiwwff.com/m/oskg25^$all
 ||files.catbox.moe/xfcdu9.dll^$all
 ||cdn.discordapp.com/attachments/1098002440479064067/1098002456824270959/YeniLib.dll^$all
+||cdn.discordapp.com/attachments/1096076829531574352/1096076987812036759/svchost.exe^$all
+||cdn.discordapp.com/attachments/1096076829531574352/1097477404122939422/XWorm.exe^$all
+||103.189.202.201/0000213/vbc.exe^$all
+||85.217.144.143/files/123.exe^$all
+||85.217.144.143/files/haddd.exe^$all
+||famileai.com/php/upsoft/zov.txt^$all
+||famileai.com/php/upsoft/milmonjey.txt^$all
