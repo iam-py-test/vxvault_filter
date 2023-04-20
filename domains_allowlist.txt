@@ -59,6 +59,8 @@ hastebin.com
 paste.yunohost.org
 wetransfer.com
 filebin.net
+files.catbox.moe
+catbox.moe
 
 # website hosting root domains
 github.io
