@@ -4,7 +4,6 @@
 # Last updated: 20/04/2023
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 0.0.0.0 famileai.com
-0.0.0.0 files.catbox.moe
 0.0.0.0 ji.ghwiwwff.com
 0.0.0.0 www.ddtools.top
 0.0.0.0 www.tobimar.ro

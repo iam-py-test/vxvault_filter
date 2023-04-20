@@ -76,7 +76,6 @@
 ||www.ddtools.top^$all
 ||www.tobimar.ro^$all
 ||ji.ghwiwwff.com^$all
-||files.catbox.moe^$all
 ||103.189.202.201^$all
 ||85.217.144.143^$all
 ||famileai.com^$all

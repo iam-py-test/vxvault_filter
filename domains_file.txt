@@ -8,7 +8,6 @@
 ||103.189.202.201^$all
 ||85.217.144.143^$all
 ||famileai.com^$all
-||files.catbox.moe^$all
 ||ji.ghwiwwff.com^$all
 ||140.99.221.199^$all
 ||www.ddtools.top^$all
