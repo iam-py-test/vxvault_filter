@@ -79,3 +79,4 @@
 ||103.189.202.201^$all
 ||85.217.144.143^$all
 ||famileai.com^$all
+||d2.okshop168.top^$all

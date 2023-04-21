@@ -3,6 +3,7 @@
 # Homepage: https://github.com/iam-py-test/vxvault_filter
 # Last updated: 21/04/2023
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+0.0.0.0 d2.okshop168.top
 0.0.0.0 famileai.com
 0.0.0.0 ji.ghwiwwff.com
 0.0.0.0 www.ddtools.top
@@ -34,4 +35,3 @@
 0.0.0.0 cryptoidea.help
 0.0.0.0 s3rrrv3r.xyz
 0.0.0.0 qtvotqx-krf-6.ml
-0.0.0.0 h167159.srv11.test-hf.su
