@@ -29,7 +29,7 @@ ubolist = f"""! Title: VXVault filterlist (unofficial)
 ! Homepage: {HOMEPAGE_URL}
 ! {CREDIT_LINE}
 """
-domains = f"""! Title: VXVault domains (unofficial)
+domains = f"""! Title: VXVault filterlist - domains (unofficial)
 ! Description: {DOMAINS_DESC}
 ! Script last updated: {SCRIPT_LAST_UPDATED}
 ! Expires: 1 day
@@ -37,13 +37,13 @@ domains = f"""! Title: VXVault domains (unofficial)
 ! Homepage: {HOMEPAGE_URL}
 ! {CREDIT_LINE}
 """
-HOSTs_header = f"""# VXVault domains (unofficial)
+HOSTs_header = f"""# VXVault domains - HOSTs(unofficial)
 # {DOMAINS_DESC}
 # Homepage: {HOMEPAGE_URL}
 # Last updated: {current_date}
 # {CREDIT_LINE}
 """
-LONG_LIVED_HEADER = f"""! Title: VXVault domains longlived (unofficial)
+LONG_LIVED_HEADER = f"""! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: {HOMEPAGE_URL}
 ! Last updated: {current_date}
@@ -66,7 +66,7 @@ def isalive(domain):
 try:
     all_urls_ever = open("ubolist_full.txt", encoding="UTF-8").read()
 except:
-    all_urls_ever = f"""! Title: VXVault filterlist (unofficial)
+    all_urls_ever = f"""! Title: VXVault filterlist - all URLs(unofficial)
 ! Expires: 1 day
 ! Homepage: {HOMEPAGE_URL}
 ! {CREDIT_LINE}
