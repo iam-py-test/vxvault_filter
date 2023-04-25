@@ -1,7 +1,7 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 24/04/2023
+# Last updated: 25/04/2023
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 0.0.0.0 x0.at
 0.0.0.0 beautifulqueen.com.br
@@ -35,5 +35,3 @@
 0.0.0.0 panel984257.site
 0.0.0.0 farmriterural.com.au
 0.0.0.0 cryptoidea.help
-0.0.0.0 s3rrrv3r.xyz
-0.0.0.0 qtvotqx-krf-6.ml
