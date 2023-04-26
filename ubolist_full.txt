@@ -316,3 +316,4 @@
 ||x0.at/wEjB.exe^$all
 ||85.217.144.143/files/FL2.exe^$all
 ||85.217.144.143/files/akhrygshdfhdfjgs.c.exe^$all
+||fakethedead.com/sethlocker.exe^$all
