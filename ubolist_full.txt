@@ -318,3 +318,4 @@
 ||85.217.144.143/files/akhrygshdfhdfjgs.c.exe^$all
 ||fakethedead.com/sethlocker.exe^$all
 ||maths271.000webhostapp.com/mmm.exe^$all
+||snippet.host/rpprwi/raw^$all
