@@ -1,9 +1,9 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 01/05/2023
+# Last updated: 02/05/2023
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
-0.0.0.0 snippet.host
+0.0.0.0 zenithgurukul.in
 0.0.0.0 maths271.000webhostapp.com
 0.0.0.0 fakethedead.com
 0.0.0.0 x0.at
@@ -35,4 +35,3 @@
 0.0.0.0 merafm.com
 0.0.0.0 hugersi.com
 0.0.0.0 privacy-tools-for-you-453.com
-0.0.0.0 panel984257.site
