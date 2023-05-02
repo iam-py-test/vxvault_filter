@@ -63,6 +63,7 @@ files.catbox.moe
 catbox.moe
 snippet.host
 snippetwtaasz6cid2he6vxcuwu3phck5uumidsbamkgmq3cuuydxiyd.onion
+cld.pt
 
 # website hosting root domains
 github.io
