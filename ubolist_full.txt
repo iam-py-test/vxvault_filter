@@ -321,3 +321,6 @@
 ||snippet.host/rpprwi/raw^$all
 ||zenithgurukul.in/v1.exe^$all
 ||85.217.144.143/files/HDCR.exe^$all
+||85.217.144.143/files/Had.exe^$all
+||85.217.144.143/files/5_6232986114823555269.exe^$all
+||cdn.discordapp.com/attachments/573050178412740619/644916837238439955/google_gift_card_generator.exe^$all
