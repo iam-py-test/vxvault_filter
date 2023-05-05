@@ -1,12 +1,12 @@
 ! Title: VXVault filterlist (unofficial)
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
-! Script last updated: 4/4/2023
+! Script last updated: 5/5/2023
 ! Expires: 1 day
 ! Last updated: 05/05/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Fri, 05 May 2023 20:19:47 +0000
+! Fri, 05 May 2023 23:26:27 +0000
 ||link.storjshare.io/jwgxwvintmbhhyz6izi7pm6fk3ga/na5la%2Fkanao%2Fpoweroff.exe?download=1^$all
 ||85.217.144.143/files/Had.exe^$all
 ||85.217.144.143/files/WSearch136Estcott.exe^$all

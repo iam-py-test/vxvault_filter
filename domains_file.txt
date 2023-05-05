@@ -1,6 +1,6 @@
 ! Title: VXVault filterlist - domains (unofficial)
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
-! Script last updated: 4/4/2023
+! Script last updated: 5/5/2023
 ! Expires: 1 day
 ! Last updated: 05/05/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
