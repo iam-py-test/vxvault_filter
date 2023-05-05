@@ -7,10 +7,12 @@ import requests
 # static 
 LIST_URL = "http://vxvault.net/URL_List.php"
 HOMEPAGE_URL = "https://github.com/iam-py-test/vxvault_filter"
-SCRIPT_LAST_UPDATED = "4/4/2023" # change when script updated
+SCRIPT_LAST_UPDATED = "5/5/2023" # change when script updated
 ALLOWLIST_FILE_NAME = "domains_allowlist.txt"
 CREDIT_LINE = f"Data from {LIST_URL}. All credit to VXVault for finding these URLs"
 DOMAINS_DESC = f"A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls"
+JUST_DOMAINS_FILE = "domains.txt"
+
 
 # global vars
 current_date = datetime.date.today().strftime("%d/%m/%Y")
@@ -142,6 +144,10 @@ for url in lines:
     except:
         pass
 domainsfile.close()
+
+justdomains = open(JUST_DOMAINS_FILE,'w',encoding="UTF-8")
+justdomains.write("\n".join(donedomains))
+justdomains.close()
 
 longlived = LONG_LIVED_HEADER
 for domain in seendomains:

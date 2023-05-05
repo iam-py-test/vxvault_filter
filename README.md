@@ -11,6 +11,7 @@ VXVault filterlist takes the [raw list](http://vxvault.net/URL_List.php) of new 
 This is just the URLs which VXVault currently has in their "raw" list. This does not filter for false positives and will not include older URLs.
 - [All URLs in uBo format](https://raw.githubusercontent.com/iam-py-test/vxvault_filter/main/ubolist_full.txt) <br>
 This includes all of the URLs which have been added the VXVault since when this list was created. Thus, this list includes dead URLs and false positives which have been removed upstream. However, this also has the benifit of blocking older URLs which have fallen off the main list (VXVault only includes the latest 100 entries in the raw export). 
+- [Domains](./domains.txt) <br>
 - [Domains in uBo format](https://raw.githubusercontent.com/iam-py-test/vxvault_filter/main/domains_file.txt) <br>
 This includes the domains of all the URLs currently listed in VXVault's raw export, with file hosting services and other safe domains excluded*.
 - [Domains in a HOSTs file](https://raw.githubusercontent.com/iam-py-test/vxvault_filter/main/hosts.txt) <br>
