@@ -130,6 +130,7 @@ domainsfile = open("domains_file.txt","w", encoding="UTF-8")
 domainsfile.write(domains)
 hostsfile = open("hosts.txt",'w', encoding="UTF-8")
 hostsfile.write(HOSTs_header)
+just_domains = []
 for url in lines:
     try:
         domain = urlparse(url).netloc
@@ -137,6 +138,7 @@ for url in lines:
             domainsfile.write("||{}^$all\n".format(domain))
             if re.search(is_ip_v4_reg,domain) == None and re.search(is_ip_v6_reg,domain) == None:
                 hostsfile.write("0.0.0.0 {}\n".format(domain))
+                just_domains.append(domain)
             donedomains.append(domain)
             if domain not in seendomains:
               seendomains[domain] = {}
@@ -146,7 +148,7 @@ for url in lines:
 domainsfile.close()
 
 justdomains = open(JUST_DOMAINS_FILE,'w',encoding="UTF-8")
-justdomains.write("\n".join(donedomains))
+justdomains.write("\n".join(just_domains))
 justdomains.close()
 
 longlived = LONG_LIVED_HEADER
