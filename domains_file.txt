@@ -2,10 +2,13 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 4/4/2023
 ! Expires: 1 day
-! Last updated: 04/05/2023
+! Last updated: 05/05/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||link.storjshare.io^$all
 ||85.217.144.143^$all
+||smartphoodapp.com^$all
+||rqnsomware.s3.us-east-2.amazonaws.com^$all
 ||zenithgurukul.in^$all
 ||maths271.000webhostapp.com^$all
 ||fakethedead.com^$all
@@ -53,9 +56,3 @@
 ||jiqaz.com^$all
 ||www.franceconsobanque.fr^$all
 ||merafm.com^$all
-||hugersi.com^$all
-||79.137.207.113^$all
-||193.38.55.218^$all
-||195.74.86.227^$all
-||163.123.143.4^$all
-||194.110.203.101^$all

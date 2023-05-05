@@ -1,7 +1,7 @@
 ! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 04/05/2023
+! Last updated: 05/05/2023
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -86,3 +86,6 @@
 ||fakethedead.com^$all
 ||maths271.000webhostapp.com^$all
 ||zenithgurukul.in^$all
+||link.storjshare.io^$all
+||smartphoodapp.com^$all
+||rqnsomware.s3.us-east-2.amazonaws.com^$all
