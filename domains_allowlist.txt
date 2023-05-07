@@ -64,6 +64,8 @@ catbox.moe
 snippet.host
 snippetwtaasz6cid2he6vxcuwu3phck5uumidsbamkgmq3cuuydxiyd.onion
 cld.pt
+link.storjshare.io
+storjshare.io
 
 # website hosting root domains
 github.io
