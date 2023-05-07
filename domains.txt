@@ -1,4 +1,3 @@
-link.storjshare.io
 smartphoodapp.com
 rqnsomware.s3.us-east-2.amazonaws.com
 zenithgurukul.in
@@ -30,4 +29,3 @@ bbc-s.news
 a0782451.xsph.ru
 jiqaz.com
 www.franceconsobanque.fr
-merafm.com

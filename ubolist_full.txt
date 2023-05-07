@@ -329,3 +329,4 @@
 ||smartphoodapp.com/miner.exe^$all
 ||rqnsomware.s3.us-east-2.amazonaws.com/malwr.exe^$all
 ||85.217.144.143/files/Lyla131.exe^$all
+||80.240.20.250/4D321^$all
