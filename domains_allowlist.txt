@@ -66,6 +66,8 @@ snippetwtaasz6cid2he6vxcuwu3phck5uumidsbamkgmq3cuuydxiyd.onion
 cld.pt
 link.storjshare.io
 storjshare.io
+cdn.jsdelivr.net
+cdn.statically.io
 
 # website hosting root domains
 github.io
