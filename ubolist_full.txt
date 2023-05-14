@@ -330,3 +330,5 @@
 ||rqnsomware.s3.us-east-2.amazonaws.com/malwr.exe^$all
 ||85.217.144.143/files/Lyla131.exe^$all
 ||80.240.20.250/4D321^$all
+||akrostools.com/baz_uniq.exe^$all
+||37.220.87.61/Clip1.exe^$all
