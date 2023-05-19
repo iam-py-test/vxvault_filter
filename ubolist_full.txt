@@ -332,3 +332,4 @@
 ||80.240.20.250/4D321^$all
 ||akrostools.com/baz_uniq.exe^$all
 ||37.220.87.61/Clip1.exe^$all
+||h169056.srv22.test-hf.su/135.exe^$all
