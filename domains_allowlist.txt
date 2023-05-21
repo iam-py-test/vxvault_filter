@@ -68,6 +68,7 @@ link.storjshare.io
 storjshare.io
 cdn.jsdelivr.net
 cdn.statically.io
+x0.at
 
 # website hosting root domains
 github.io
