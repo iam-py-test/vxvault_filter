@@ -333,3 +333,5 @@
 ||akrostools.com/baz_uniq.exe^$all
 ||37.220.87.61/Clip1.exe^$all
 ||h169056.srv22.test-hf.su/135.exe^$all
+||94.142.138.148/clp6.exe^$all
+||94.142.138.116/bebra.exe^$all
