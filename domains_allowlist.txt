@@ -69,6 +69,7 @@ storjshare.io
 cdn.jsdelivr.net
 cdn.statically.io
 x0.at
+snip.dssr.ch
 
 # website hosting root domains
 github.io
