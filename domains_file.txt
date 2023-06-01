@@ -2,9 +2,11 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 5/5/2023
 ! Expires: 1 day
-! Last updated: 31/05/2023
+! Last updated: 01/06/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||ji.jahhaega2qq.com^$all
+||ji.ase6gasdegkk.com^$all
 ||94.142.138.148^$all
 ||94.142.138.116^$all
 ||h169056.srv22.test-hf.su^$all
@@ -53,5 +55,3 @@
 ||uaery.top^$all
 ||zexeq.com^$all
 ||eboka.vip^$all
-||bbc-s.news^$all
-||a0782451.xsph.ru^$all

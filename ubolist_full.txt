@@ -335,3 +335,9 @@
 ||h169056.srv22.test-hf.su/135.exe^$all
 ||94.142.138.148/clp6.exe^$all
 ||94.142.138.116/bebra.exe^$all
+||raw.githubusercontent.com/xegefi/XOXO/main/WindowsDefender.exe^$all
+||cdn.discordapp.com/attachments/1053354068959051837/1113107209493155840/update.exe^$all
+||raw.githubusercontent.com/duantienty/client/main/kyovn.jpg^$all
+||raw.githubusercontent.com/duantienty/client/main/Client2.jpg^$all
+||ji.jahhaega2qq.com/m/p0aw25.exe^$all
+||ji.ase6gasdegkk.com/m/ss49.exe^$all
