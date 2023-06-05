@@ -341,3 +341,7 @@
 ||raw.githubusercontent.com/duantienty/client/main/Client2.jpg^$all
 ||ji.jahhaega2qq.com/m/p0aw25.exe^$all
 ||ji.ase6gasdegkk.com/m/ss49.exe^$all
+||192.210.215.42/860/cache_cleaner.exe^$all
+||koiniosportsde.com/bRzNAmYd/ddsc.exe^$all
+||79.137.195.246/client12/enc.exe^$all
+||79.137.195.246/client13/enc.exe^$all
