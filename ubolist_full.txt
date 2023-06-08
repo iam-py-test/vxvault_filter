@@ -346,3 +346,4 @@
 ||79.137.195.246/client12/enc.exe^$all
 ||79.137.195.246/client13/enc.exe^$all
 ||109.205.213.7/bins/UnHAnaAW.x86^$all
+||file.gta5cheatcode.world/dashboard/file/dxpserver.exe^$all
