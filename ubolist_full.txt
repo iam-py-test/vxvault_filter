@@ -347,3 +347,8 @@
 ||79.137.195.246/client13/enc.exe^$all
 ||109.205.213.7/bins/UnHAnaAW.x86^$all
 ||file.gta5cheatcode.world/dashboard/file/dxpserver.exe^$all
+||134.122.135.4/datelog.dll^$all
+||distroforex.com/crona.exe^$all
+||89.185.85.117/laupdate.exe^$all
+||filebin.net/zexd4wguldbgaetq/rh1.exe^$all
+||raw.githubusercontent.com/duantienty/client/main/tdc.jpg^$all
