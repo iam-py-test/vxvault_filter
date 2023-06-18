@@ -1,7 +1,7 @@
 ! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 17/06/2023
+! Last updated: 18/06/2023
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -95,7 +95,6 @@
 ||koiniosportsde.com^$all
 ||79.137.195.246^$all
 ||109.205.213.7^$all
-||file.gta5cheatcode.world^$all
 ||134.122.135.4^$all
 ||distroforex.com^$all
 ||89.185.85.117^$all
