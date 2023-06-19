@@ -360,3 +360,4 @@
 ||bluestaks.novationgroups.com/post/Upshotox64.exe^$all
 ||bluestaks.novationgroups.com/post/p5zl9bq82kjf7.exe^$all
 ||23.94.144.13/555/vbc.exe^$all
+||23.94.148.6/GIB.exe^$all
