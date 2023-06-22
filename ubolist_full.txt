@@ -365,3 +365,4 @@
 ||141.98.6.99/Uzlrz.exe^$all
 ||192.3.109.135/24/Dahost.exe^$all
 ||192.3.109.146/325/DaHost.exe^$all
+||sofancy.co.za/data/IqXYLXKzl6.exe^$all
