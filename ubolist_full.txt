@@ -368,3 +368,4 @@
 ||sofancy.co.za/data/IqXYLXKzl6.exe^$all
 ||45.66.230.149/offer/updChrome.exe^$all
 ||allansworthng.com/1/data64_2.exe^$all
+||103.95.196.149/mips^$all
