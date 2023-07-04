@@ -2,11 +2,12 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 5/5/2023
 ! Expires: 1 day
-! Last updated: 03/07/2023
+! Last updated: 04/07/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Mon, 03 Jul 2023 20:22:50 +0000
+! Tue, 04 Jul 2023 20:23:20 +0000
+||cdn.discordapp.com/attachments/1124469077491069010/1124473530491338752/inteldrv.exe^$all
 ||23.137.249.127/ddw23/pstol1.exe^$all
 ||103.95.196.149/mips^$all
 ||45.66.230.149/offer/updChrome.exe^$all
@@ -107,4 +108,3 @@
 ||cdn.discordapp.com/attachments/1072409919527067670/1085902945905811507/fleint.exe^$all
 ||insellerate.net/doc/taskshostw.exe^$all
 ||95.214.55.109/bins/zwx86_64^$all
-||77.73.134.35/bebra.exe^$all
