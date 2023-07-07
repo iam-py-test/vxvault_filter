@@ -2,11 +2,12 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 5/5/2023
 ! Expires: 1 day
-! Last updated: 06/07/2023
+! Last updated: 07/07/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
-||23.137.249.127^$all
+||91.234.99.110^$all
 ||103.95.196.149^$all
+||23.137.249.127^$all
 ||45.66.230.149^$all
 ||allansworthng.com^$all
 ||sofancy.co.za^$all
@@ -58,5 +59,3 @@
 ||103.170.255.139^$all
 ||ji.jhia6gy44dd.com^$all
 ||79.137.203.144^$all
-||insellerate.net^$all
-||95.214.55.109^$all

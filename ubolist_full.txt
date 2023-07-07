@@ -371,3 +371,5 @@
 ||103.95.196.149/mips^$all
 ||23.137.249.127/ddw23/pstol1.exe^$all
 ||cdn.discordapp.com/attachments/1124469077491069010/1124473530491338752/inteldrv.exe^$all
+||91.234.99.110/mipsel^$all
+||103.95.196.149/x86^$all
