@@ -1,7 +1,7 @@
 ! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 10/07/2023
+! Last updated: 11/07/2023
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -101,7 +101,6 @@
 ||51.79.49.73^$all
 ||africatechs.com^$all
 ||miateknik.com^$all
-||bluestaks.novationgroups.com^$all
 ||23.94.144.13^$all
 ||23.94.148.6^$all
 ||161.35.160.195^$all
@@ -114,3 +113,4 @@
 ||103.95.196.149^$all
 ||23.137.249.127^$all
 ||91.234.99.110^$all
+||87.121.47.63^$all

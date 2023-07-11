@@ -373,3 +373,5 @@
 ||cdn.discordapp.com/attachments/1124469077491069010/1124473530491338752/inteldrv.exe^$all
 ||91.234.99.110/mipsel^$all
 ||103.95.196.149/x86^$all
+||cdn.discordapp.com/attachments/906552604258082849/1127979465348218900/Output.bin^$all
+||87.121.47.63/lend/YoDo_Fake.exe^$all
