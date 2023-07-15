@@ -375,3 +375,4 @@
 ||103.95.196.149/x86^$all
 ||cdn.discordapp.com/attachments/906552604258082849/1127979465348218900/Output.bin^$all
 ||87.121.47.63/lend/YoDo_Fake.exe^$all
+||103.110.33.164/mips^$all
