@@ -376,3 +376,6 @@
 ||cdn.discordapp.com/attachments/906552604258082849/1127979465348218900/Output.bin^$all
 ||87.121.47.63/lend/YoDo_Fake.exe^$all
 ||103.110.33.164/mips^$all
+||raw.githubusercontent.com/duantienty/miner/main/Client.jpg^$all
+||raw.githubusercontent.com/duantienty/miner/main/Jcojp.jpg^$all
+||107.189.3.174/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.x86^$all
