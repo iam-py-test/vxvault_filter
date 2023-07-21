@@ -379,3 +379,5 @@
 ||raw.githubusercontent.com/duantienty/miner/main/Client.jpg^$all
 ||raw.githubusercontent.com/duantienty/miner/main/Jcojp.jpg^$all
 ||107.189.3.174/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.x86^$all
+||212.8.251.176/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.i686^$all
+||165.232.162.31/udp/taskhostamd.exe^$all
