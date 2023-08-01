@@ -1,8 +1,9 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 31/07/2023
+# Last updated: 01/08/2023
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+0.0.0.0 wtmc.com.pk
 0.0.0.0 ha5hfiles.xyz
 0.0.0.0 allansworthng.com
 0.0.0.0 sofancy.co.za
@@ -26,5 +27,3 @@
 0.0.0.0 famileai.com
 0.0.0.0 ji.ghwiwwff.com
 0.0.0.0 www.ddtools.top
-0.0.0.0 www.tobimar.ro
-0.0.0.0 asalroshani.ir
