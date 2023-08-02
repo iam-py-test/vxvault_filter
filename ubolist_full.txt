@@ -387,3 +387,4 @@
 ||wtmc.com.pk/TurnedYOU749sampls.exe^$all
 ||20.234.58.62/xClient.html^$all
 ||20.234.58.62/sd.exe^$all
+||erfolgsgruender.com/Profistiler763432_ping.exe^$all
