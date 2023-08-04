@@ -2,9 +2,11 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 5/5/2023
 ! Expires: 1 day
-! Last updated: 03/08/2023
+! Last updated: 04/08/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||africatechs.com^$all
+||193.233.255.9^$all
 ||erfolgsgruender.com^$all
 ||wtmc.com.pk^$all
 ||20.234.58.62^$all
@@ -27,7 +29,6 @@
 ||23.94.148.6^$all
 ||23.94.144.13^$all
 ||bluestaks.novationgroups.com^$all
-||africatechs.com^$all
 ||miateknik.com^$all
 ||51.79.49.73^$all
 ||134.122.135.4^$all
@@ -56,5 +57,3 @@
 ||d2.okshop168.top^$all
 ||103.189.202.201^$all
 ||famileai.com^$all
-||ji.ghwiwwff.com^$all
-||140.99.221.199^$all

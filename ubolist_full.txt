@@ -388,3 +388,5 @@
 ||20.234.58.62/xClient.html^$all
 ||20.234.58.62/sd.exe^$all
 ||erfolgsgruender.com/Profistiler763432_ping.exe^$all
+||africatechs.com/Amdaygo.exe^$all
+||193.233.255.9/lend/Documents-EnemyFrauz.exe^$all

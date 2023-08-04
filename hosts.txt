@@ -1,15 +1,15 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 03/08/2023
+# Last updated: 04/08/2023
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+0.0.0.0 africatechs.com
 0.0.0.0 erfolgsgruender.com
 0.0.0.0 wtmc.com.pk
 0.0.0.0 ha5hfiles.xyz
 0.0.0.0 allansworthng.com
 0.0.0.0 sofancy.co.za
 0.0.0.0 bluestaks.novationgroups.com
-0.0.0.0 africatechs.com
 0.0.0.0 miateknik.com
 0.0.0.0 distroforex.com
 0.0.0.0 file.gta5cheatcode.world
@@ -26,4 +26,3 @@
 0.0.0.0 beautifulqueen.com.br
 0.0.0.0 d2.okshop168.top
 0.0.0.0 famileai.com
-0.0.0.0 ji.ghwiwwff.com
