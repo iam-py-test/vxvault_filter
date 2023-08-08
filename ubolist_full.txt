@@ -390,3 +390,6 @@
 ||erfolgsgruender.com/Profistiler763432_ping.exe^$all
 ||africatechs.com/Amdaygo.exe^$all
 ||193.233.255.9/lend/Documents-EnemyFrauz.exe^$all
+||artmediastudio.ro/Amdau.exe^$all
+||github.com/ZiliBoba1488/TempFiles/raw/main/Client.exe^$all
+||gecitartandmore.com/purchaseorder.exe^$all
