@@ -393,3 +393,4 @@
 ||artmediastudio.ro/Amdau.exe^$all
 ||github.com/ZiliBoba1488/TempFiles/raw/main/Client.exe^$all
 ||gecitartandmore.com/purchaseorder.exe^$all
+||193.31.28.13/mips^$all
