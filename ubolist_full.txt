@@ -394,3 +394,4 @@
 ||github.com/ZiliBoba1488/TempFiles/raw/main/Client.exe^$all
 ||gecitartandmore.com/purchaseorder.exe^$all
 ||193.31.28.13/mips^$all
+||xn----8sbkbfthkmkkzmo6dvh.xn--p1ai/crypted.exe^$all
