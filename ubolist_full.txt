@@ -395,3 +395,4 @@
 ||gecitartandmore.com/purchaseorder.exe^$all
 ||193.31.28.13/mips^$all
 ||xn----8sbkbfthkmkkzmo6dvh.xn--p1ai/crypted.exe^$all
+||fidelbringas.com/amday.exe^$all
