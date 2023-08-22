@@ -396,3 +396,4 @@
 ||193.31.28.13/mips^$all
 ||xn----8sbkbfthkmkkzmo6dvh.xn--p1ai/crypted.exe^$all
 ||fidelbringas.com/amday.exe^$all
+||cdn.discordapp.com/attachments/1132800981114032168/1143214632329285752/main.exe^$all
