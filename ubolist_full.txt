@@ -397,3 +397,5 @@
 ||xn----8sbkbfthkmkkzmo6dvh.xn--p1ai/crypted.exe^$all
 ||fidelbringas.com/amday.exe^$all
 ||cdn.discordapp.com/attachments/1132800981114032168/1143214632329285752/main.exe^$all
+||47.111.23.242/m.txt^$all
+||cdn.discordapp.com/attachments/1143583597752766515/1143595419868336248/ProcessView.exe^$all
