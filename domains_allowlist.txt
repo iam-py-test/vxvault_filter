@@ -70,6 +70,9 @@ cdn.jsdelivr.net
 cdn.statically.io
 x0.at
 snip.dssr.ch
+# https://github.com/hagezi/dns-blocklists/issues/1473
+oshi.at
+temp.sh
 
 # website hosting root domains
 github.io
