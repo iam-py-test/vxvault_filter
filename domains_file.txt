@@ -2,9 +2,11 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 5/5/2023
 ! Expires: 1 day
-! Last updated: 11/09/2023
+! Last updated: 12/09/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||77.91.97.133^$all
+||77.91.97.56^$all
 ||47.111.23.242^$all
 ||fidelbringas.com^$all
 ||xn----8sbkbfthkmkkzmo6dvh.xn--p1ai^$all
@@ -59,5 +61,3 @@
 ||zenithgurukul.in^$all
 ||maths271.000webhostapp.com^$all
 ||fakethedead.com^$all
-||beautifulqueen.com.br^$all
-||d2.okshop168.top^$all

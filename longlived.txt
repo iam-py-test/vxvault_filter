@@ -1,7 +1,7 @@
 ! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 11/09/2023
+! Last updated: 12/09/2023
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -82,6 +82,7 @@
 ||beautifulqueen.com.br^$all
 ||maths271.000webhostapp.com^$all
 ||zenithgurukul.in^$all
+||smartphoodapp.com^$all
 ||rqnsomware.s3.us-east-2.amazonaws.com^$all
 ||80.240.20.250^$all
 ||akrostools.com^$all
@@ -125,3 +126,5 @@
 ||xn----8sbkbfthkmkkzmo6dvh.xn--p1ai^$all
 ||fidelbringas.com^$all
 ||47.111.23.242^$all
+||77.91.97.133^$all
+||77.91.97.56^$all
