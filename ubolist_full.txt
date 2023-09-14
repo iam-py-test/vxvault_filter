@@ -402,3 +402,5 @@
 ||77.91.97.133/index.php^$all
 ||77.91.97.133/regogo.exe^$all
 ||77.91.97.56/regogo.exe^$all
+||171.22.28.214/PolymodXT.exe^$all
+||subirfact.com/desktopditor.exe^$all
