@@ -1,8 +1,11 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 14/09/2023
+# Last updated: 15/09/2023
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+0.0.0.0 galandskiyher2.com
+0.0.0.0 ji.alie3ksgbb.com
+0.0.0.0 aszfiltration.com
 0.0.0.0 subirfact.com
 0.0.0.0 fidelbringas.com
 0.0.0.0 xn----8sbkbfthkmkkzmo6dvh.xn--p1ai
@@ -26,5 +29,3 @@
 0.0.0.0 smartphoodapp.com
 0.0.0.0 rqnsomware.s3.us-east-2.amazonaws.com
 0.0.0.0 zenithgurukul.in
-0.0.0.0 maths271.000webhostapp.com
-0.0.0.0 fakethedead.com

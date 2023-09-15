@@ -404,3 +404,13 @@
 ||77.91.97.56/regogo.exe^$all
 ||171.22.28.214/PolymodXT.exe^$all
 ||subirfact.com/desktopditor.exe^$all
+||galandskiyher2.com/downloads/toolspub4.exe^$all
+||galandskiyher2.com/downloads/toolspub3.exe^$all
+||galandskiyher2.com/downloads/toolspub2.exe^$all
+||ji.alie3ksgbb.com/m/ss29^$all
+||aszfiltration.com/storage/files/postmon.exe^$all
+||193.42.32.101/files/get3.exe^$all
+||193.42.32.101/files/UM.exe^$all
+||galandskiyher2.com/downloads/toolspub1.exe^$all
+||94.142.138.20/version_s/upd.exe^$all
+||128.199.11.249/minerxd.exe^$all
