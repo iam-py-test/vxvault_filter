@@ -414,3 +414,4 @@
 ||galandskiyher2.com/downloads/toolspub1.exe^$all
 ||94.142.138.20/version_s/upd.exe^$all
 ||128.199.11.249/minerxd.exe^$all
+||hndcakewalkers.com/update1.exe^$all
