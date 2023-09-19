@@ -415,3 +415,6 @@
 ||94.142.138.20/version_s/upd.exe^$all
 ||128.199.11.249/minerxd.exe^$all
 ||hndcakewalkers.com/update1.exe^$all
+||192.3.23.242/80/mtdocs.exe^$all
+||103.182.16.23/M189T/smss.exe^$all
+||103.182.16.23/s179m/smss.exe^$all
