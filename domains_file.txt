@@ -2,9 +2,12 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 5/5/2023
 ! Expires: 1 day
-! Last updated: 19/09/2023
+! Last updated: 20/09/2023
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||wispafoods.com^$all
+||cat.lobret.co.za^$all
+||192.3.179.157^$all
 ||192.3.23.242^$all
 ||103.182.16.23^$all
 ||hndcakewalkers.com^$all
@@ -67,5 +70,3 @@
 ||37.220.87.61^$all
 ||85.217.144.143^$all
 ||80.240.20.250^$all
-||smartphoodapp.com^$all
-||rqnsomware.s3.us-east-2.amazonaws.com^$all

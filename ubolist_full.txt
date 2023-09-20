@@ -418,3 +418,7 @@
 ||192.3.23.242/80/mtdocs.exe^$all
 ||103.182.16.23/M189T/smss.exe^$all
 ||103.182.16.23/s179m/smss.exe^$all
+||wispafoods.com/BestSoftware.exe^$all
+||cat.lobret.co.za/55aa5e.exe^$all
+||192.3.179.157/112/TiWorker.exe^$all
+||192.3.179.157/112/1/Rzcjkedka.exe^$all

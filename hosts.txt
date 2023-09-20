@@ -1,8 +1,10 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 19/09/2023
+# Last updated: 20/09/2023
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+0.0.0.0 wispafoods.com
+0.0.0.0 cat.lobret.co.za
 0.0.0.0 hndcakewalkers.com
 0.0.0.0 galandskiyher2.com
 0.0.0.0 ji.alie3ksgbb.com
@@ -27,5 +29,3 @@
 0.0.0.0 ji.ase6gasdegkk.com
 0.0.0.0 h169056.srv22.test-hf.su
 0.0.0.0 akrostools.com
-0.0.0.0 smartphoodapp.com
-0.0.0.0 rqnsomware.s3.us-east-2.amazonaws.com
