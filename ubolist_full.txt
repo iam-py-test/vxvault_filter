@@ -424,3 +424,5 @@
 ||192.3.179.157/112/1/Rzcjkedka.exe^$all
 ||103.228.126.17/mips^$all
 ||sterkinekor.co.zw/univer.exe^$all
+||217.196.96.84/conhost.exe^$all
+||217.196.96.84/svchost.exe^$all
