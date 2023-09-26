@@ -426,3 +426,4 @@
 ||sterkinekor.co.zw/univer.exe^$all
 ||217.196.96.84/conhost.exe^$all
 ||217.196.96.84/svchost.exe^$all
+||116.203.121.140/eee.exe^$all
