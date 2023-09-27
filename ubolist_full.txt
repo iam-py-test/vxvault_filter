@@ -427,3 +427,5 @@
 ||217.196.96.84/conhost.exe^$all
 ||217.196.96.84/svchost.exe^$all
 ||116.203.121.140/eee.exe^$all
+||37.221.93.230/file/1693511367-HealthProtocol.exe^$all
+||transfer.sh/get/vfbsSArbUR/nigwebb.txt^$all
