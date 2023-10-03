@@ -7,7 +7,7 @@ import requests
 # static 
 LIST_URL = "http://vxvault.net/URL_List.php"
 HOMEPAGE_URL = "https://github.com/iam-py-test/vxvault_filter"
-SCRIPT_LAST_UPDATED = "5/5/2023" # change when script updated
+SCRIPT_LAST_UPDATED = "3/10/2023" # change when script updated
 ALLOWLIST_FILE_NAME = "domains_allowlist.txt"
 CREDIT_LINE = f"Data from {LIST_URL}. All credit to VXVault for finding these URLs"
 DOMAINS_DESC = f"A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls"
@@ -133,7 +133,7 @@ hostsfile.write(HOSTs_header)
 just_domains = []
 for url in lines:
     try:
-        domain = urlparse(url).netloc
+        domain = urlparse(url).netloc.split(":")[0]
         if domain not in safedomains and domain not in donedomains and domain != "" and line != "VX Vault last 100 Links":
             domainsfile.write("||{}^$all\n".format(domain))
             if re.search(is_ip_v4_reg,domain) == None and re.search(is_ip_v6_reg,domain) == None:
