@@ -6,7 +6,7 @@
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Tue, 03 Oct 2023 11:06:03 +0000
+! Tue, 03 Oct 2023 20:18:11 +0000
 ||hack-x.su/file/installs.exe^$all
 ||stable4download.ocmtancmi2c5t.website/eee.exe^$all
 ||37.221.93.230/file/1693511367-HealthProtocol.exe^$all
