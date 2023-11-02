@@ -1,6 +1,7 @@
 # VXVault filterlist (unofficial)
 
-Several filterlists created from VXVault's URL list. All credit to VXVault for the original data. 
+Several filterlists created from VXVault's URL list. All credit to VXVault for the original data.<br>
+Note: [VXVault seems to have been last updated over a month ago](http://vxvault.net/ViriFiche.php?ID=45013)
 
 ### What is VXVault filterlist & why does it exist?
 
