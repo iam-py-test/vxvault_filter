@@ -87,7 +87,7 @@ thedev.id
 is-a.dev
 is-a-good.dev
 eu.org
-freesubdomains.org
+is-a-fullstack.dev
 open-domains.net
 js.cool
 developer.li
