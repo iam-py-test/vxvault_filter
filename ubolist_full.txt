@@ -431,3 +431,5 @@
 ||transfer.sh/get/vfbsSArbUR/nigwebb.txt^$all
 ||hack-x.su/file/installs.exe^$all
 ||stable4download.ocmtancmi2c5t.website/eee.exe^$all
+||amacey.com/x1g/sdfr^$all
+||185.172.128.8/ma.exe^$all
