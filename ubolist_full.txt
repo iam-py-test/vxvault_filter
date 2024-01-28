@@ -433,3 +433,11 @@
 ||stable4download.ocmtancmi2c5t.website/eee.exe^$all
 ||amacey.com/x1g/sdfr^$all
 ||185.172.128.8/ma.exe^$all
+||109.107.182.3/cost/lada.exe^$all
+||109.107.182.3/cost/networa.exe^$all
+||109.107.182.3/cost/vinu.exe^$all
+||109.107.182.3/cost/niks.exe^$all
+||109.107.182.3/cost/ko.exe^$all
+||185.172.128.8/hv.exe^$all
+||185.172.128.8/sc.exe^$all
+||185.172.128.8/cp.exe^$all

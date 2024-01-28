@@ -2,11 +2,20 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 27/01/2024
+! Last updated: 28/01/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Sat, 27 Jan 2024 20:18:17 +0000
+! Sun, 28 Jan 2024 20:17:24 +0000
+||109.107.182.3/cost/lada.exe^$all
+||109.107.182.3/cost/networa.exe^$all
+||109.107.182.3/cost/vinu.exe^$all
+||109.107.182.3/cost/niks.exe^$all
+||109.107.182.3/cost/ko.exe^$all
+||185.172.128.8/hv.exe^$all
+||185.172.128.8/sc.exe^$all
+||185.172.128.8/sc.exe^$all
+||185.172.128.8/cp.exe^$all
 ||amacey.com/x1g/sdfr^$all
 ||185.172.128.8/ma.exe^$all
 ||hack-x.su/file/installs.exe^$all
@@ -99,12 +108,3 @@
 ||raw.githubusercontent.com/duantienty/client/main/tdc.jpg^$all
 ||file.gta5cheatcode.world/dashboard/file/dxpserver.exe^$all
 ||file.gta5cheatcode.world/dashboard/file/dxpserver.exe^$all
-||109.205.213.7/bins/UnHAnaAW.x86^$all
-||192.210.215.42/860/cache_cleaner.exe^$all
-||koiniosportsde.com/bRzNAmYd/ddsc.exe^$all
-||79.137.195.246/client12/enc.exe^$all
-||79.137.195.246/client13/enc.exe^$all
-||raw.githubusercontent.com/xegefi/XOXO/main/WindowsDefender.exe^$all
-||cdn.discordapp.com/attachments/1053354068959051837/1113107209493155840/update.exe^$all
-||raw.githubusercontent.com/duantienty/client/main/kyovn.jpg^$all
-||raw.githubusercontent.com/duantienty/client/main/Client2.jpg^$all
