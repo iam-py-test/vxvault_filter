@@ -441,3 +441,17 @@
 ||185.172.128.8/hv.exe^$all
 ||185.172.128.8/sc.exe^$all
 ||185.172.128.8/cp.exe^$all
+||185.172.128.160/ma.exe^$all
+||5.42.66.29/am.exe^$all
+||d1rbb432n5n8so.cloudfront.net/InstallSetup.exe^$all
+||109.107.182.3/lego/crypted.exe^$all
+||109.107.182.3/lego/rdxx1.exe^$all
+||109.107.182.3/lego/fsdfsfsfs.exe^$all
+||109.107.182.3/lego/sadsadsadsa.exe^$all
+||109.107.182.3/lego/alex.exe^$all
+||109.107.182.3/lego/installs.exe^$all
+||109.107.182.3/lego/MRK.exe^$all
+||109.107.182.3/lego/2024.exe^$all
+||109.107.182.3/lego/moto.exe^$all
+||109.107.182.3/lego/redline1234.exe^$all
+||185.215.113.68/mine/amers.exe^$all
