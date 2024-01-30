@@ -455,3 +455,6 @@
 ||109.107.182.3/lego/moto.exe^$all
 ||109.107.182.3/lego/redline1234.exe^$all
 ||185.215.113.68/mine/amers.exe^$all
+||185.172.128.160/hv.exe^$all
+||185.172.128.154/hv.exe^$all
+||103.245.236.146/skyljnee.arm^$all
