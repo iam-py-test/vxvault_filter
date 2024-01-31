@@ -458,3 +458,5 @@
 ||185.172.128.160/hv.exe^$all
 ||185.172.128.154/hv.exe^$all
 ||103.245.236.146/skyljnee.arm^$all
+||habrafa.com/files/1/build3.exe^$all
+||brusuax.com/dl/build2.exe^$all
