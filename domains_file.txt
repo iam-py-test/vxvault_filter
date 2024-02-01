@@ -2,17 +2,21 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 31/01/2024
+! Last updated: 01/02/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||185.172.128.154^$all
+||185.172.128.160^$all
+||109.107.182.3^$all
+||185.172.128.32^$all
+||astervell.fun^$all
+||5.42.64.4^$all
+||15.204.49.148^$all
 ||habrafa.com^$all
 ||brusuax.com^$all
-||185.172.128.160^$all
-||185.172.128.154^$all
 ||103.245.236.146^$all
 ||5.42.66.29^$all
 ||d1rbb432n5n8so.cloudfront.net^$all
-||109.107.182.3^$all
 ||185.215.113.68^$all
 ||185.172.128.8^$all
 ||amacey.com^$all
@@ -58,9 +62,3 @@
 ||87.121.47.63^$all
 ||91.234.99.110^$all
 ||103.95.196.149^$all
-||23.137.249.127^$all
-||45.66.230.149^$all
-||allansworthng.com^$all
-||sofancy.co.za^$all
-||192.3.109.146^$all
-||161.35.160.195^$all

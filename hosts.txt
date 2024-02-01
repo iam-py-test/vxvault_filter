@@ -1,8 +1,9 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 31/01/2024
+# Last updated: 01/02/2024
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+0.0.0.0 astervell.fun
 0.0.0.0 habrafa.com
 0.0.0.0 brusuax.com
 0.0.0.0 d1rbb432n5n8so.cloudfront.net
@@ -25,5 +26,3 @@
 0.0.0.0 erfolgsgruender.com
 0.0.0.0 wtmc.com.pk
 0.0.0.0 ha5hfiles.xyz
-0.0.0.0 allansworthng.com
-0.0.0.0 sofancy.co.za
