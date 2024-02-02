@@ -465,3 +465,5 @@
 ||astervell.fun/DR12.exe^$all
 ||5.42.64.4/rockrunn.exe^$all
 ||15.204.49.148/files/Amadey.exe^$all
+||185.172.128.19/dayroc.exe^$all
+||185.172.128.127/syncUpd.exe^$all
