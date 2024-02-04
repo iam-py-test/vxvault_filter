@@ -2,11 +2,31 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 03/02/2024
+! Last updated: 04/02/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Sat, 03 Feb 2024 20:19:12 +0000
+! Sun, 04 Feb 2024 20:18:03 +0000
+||185.215.113.68/mine/amers.exe^$all
+||109.107.182.3/cost/ladas.exe^$all
+||109.107.182.3/cost/vinu.exe^$all
+||109.107.182.3/cost/niks.exe^$all
+||109.107.182.3/cost/fu.exe^$all
+||185.172.128.127/syncUpd.exe^$all
+||193.233.132.167/lend/crpta.exe^$all
+||193.233.132.167/lend/lumma1234.exe^$all
+||193.233.132.167/lend/1.exe^$all
+||193.233.132.167/lend/daissss.exe^$all
+||193.233.132.167/lend/art1.exe^$all
+||193.233.132.167/lend/art33.exe^$all
+||109.107.182.3/cost/ladas.exe^$all
+||109.107.182.3/lego/Amadey.exe^$all
+||109.107.182.3/lego/crptchk.exe^$all
+||109.107.182.3/lego/1233213123213.exe^$all
+||109.107.182.3/lego/55555.exe^$all
+||109.107.182.3/lego/goldklassd.exe^$all
+||109.107.182.3/lego/mrk1234.exe^$all
+||109.107.182.3/lego/RDX.exe^$all
 ||185.172.128.8/ma.exe^$all
 ||185.172.128.19/dayroc.exe^$all
 ||185.172.128.127/syncUpd.exe^$all
@@ -88,23 +108,3 @@
 ||77.91.97.56/regogo.exe^$all
 ||47.111.23.242/m.txt^$all
 ||cdn.discordapp.com/attachments/1143583597752766515/1143595419868336248/ProcessView.exe^$all
-||cdn.discordapp.com/attachments/1132800981114032168/1143214632329285752/main.exe^$all
-||fidelbringas.com/amday.exe^$all
-||xn----8sbkbfthkmkkzmo6dvh.xn--p1ai/crypted.exe^$all
-||193.31.28.13/mips^$all
-||artmediastudio.ro/Amdau.exe^$all
-||github.com/ZiliBoba1488/TempFiles/raw/main/Client.exe^$all
-||gecitartandmore.com/purchaseorder.exe^$all
-||africatechs.com/Amdaygo.exe^$all
-||193.233.255.9/lend/Documents-EnemyFrauz.exe^$all
-||erfolgsgruender.com/Profistiler763432_ping.exe^$all
-||wtmc.com.pk/TurnedYOU749sampls.exe^$all
-||20.234.58.62/xClient.html^$all
-||20.234.58.62/sd.exe^$all
-||20.234.58.62/x.exe^$all
-||212.8.251.176/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.m68k^$all
-||ha5hfiles.xyz/jusched.exe^$all
-||212.8.251.176/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.i686^$all
-||165.232.162.31/udp/taskhostamd.exe^$all
-||raw.githubusercontent.com/duantienty/miner/main/Client.jpg^$all
-||raw.githubusercontent.com/duantienty/miner/main/Jcojp.jpg^$all
