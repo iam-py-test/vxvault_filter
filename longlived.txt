@@ -1,7 +1,7 @@
 ! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 04/02/2024
+! Last updated: 05/02/2024
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -152,8 +152,13 @@
 ||185.172.128.154^$all
 ||103.245.236.146^$all
 ||185.172.128.32^$all
+||astervell.fun^$all
 ||5.42.64.4^$all
 ||15.204.49.148^$all
 ||185.172.128.19^$all
 ||185.172.128.127^$all
 ||193.233.132.167^$all
+||45.13.227.186^$all
+||195.20.16.46^$all
+||ji.alie3ksggg.com^$all
+||109.107.182.38^$all

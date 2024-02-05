@@ -2,11 +2,18 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 04/02/2024
+! Last updated: 05/02/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Sun, 04 Feb 2024 20:18:03 +0000
+! Mon, 05 Feb 2024 20:19:37 +0000
+||45.13.227.186/bins/sora.mips^$all
+||195.20.16.46/download/RetailerRise.exe^$all
+||185.172.128.154/hv.exe^$all
+||ji.alie3ksggg.com/ef/rty45.exe^$all
+||mix.avalmag.com/data/pdf/june.exe^$all
+||109.107.182.38/retro/dota.exe^$all
+||185.172.128.127/timeSync.exe^$all
 ||185.215.113.68/mine/amers.exe^$all
 ||109.107.182.3/cost/ladas.exe^$all
 ||109.107.182.3/cost/vinu.exe^$all
@@ -101,10 +108,3 @@
 ||galandskiyher2.com/downloads/toolspub1.exe^$all
 ||94.142.138.20/version_s/upd.exe^$all
 ||128.199.11.249/minerxd.exe^$all
-||171.22.28.214/PolymodXT.exe^$all
-||subirfact.com/desktopditor.exe^$all
-||77.91.97.133/index.php^$all
-||77.91.97.133/regogo.exe^$all
-||77.91.97.56/regogo.exe^$all
-||47.111.23.242/m.txt^$all
-||cdn.discordapp.com/attachments/1143583597752766515/1143595419868336248/ProcessView.exe^$all

@@ -482,3 +482,9 @@
 ||109.107.182.3/lego/goldklassd.exe^$all
 ||109.107.182.3/lego/mrk1234.exe^$all
 ||109.107.182.3/lego/RDX.exe^$all
+||45.13.227.186/bins/sora.mips^$all
+||195.20.16.46/download/RetailerRise.exe^$all
+||ji.alie3ksggg.com/ef/rty45.exe^$all
+||mix.avalmag.com/data/pdf/june.exe^$all
+||109.107.182.38/retro/dota.exe^$all
+||185.172.128.127/timeSync.exe^$all
