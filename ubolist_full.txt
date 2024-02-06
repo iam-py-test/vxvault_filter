@@ -488,3 +488,4 @@
 ||mix.avalmag.com/data/pdf/june.exe^$all
 ||109.107.182.38/retro/dota.exe^$all
 ||185.172.128.127/timeSync.exe^$all
+||185.172.128.32/sc.exe^$all

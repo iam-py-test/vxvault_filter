@@ -2,12 +2,15 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 05/02/2024
+! Last updated: 06/02/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||brusuax.com^$all
+||185.172.128.154^$all
+||185.172.128.19^$all
+||185.172.128.32^$all
 ||45.13.227.186^$all
 ||195.20.16.46^$all
-||185.172.128.154^$all
 ||ji.alie3ksggg.com^$all
 ||mix.avalmag.com^$all
 ||109.107.182.38^$all
@@ -16,14 +19,11 @@
 ||109.107.182.3^$all
 ||193.233.132.167^$all
 ||185.172.128.8^$all
-||185.172.128.19^$all
 ||185.172.128.160^$all
-||185.172.128.32^$all
 ||astervell.fun^$all
 ||5.42.64.4^$all
 ||15.204.49.148^$all
 ||habrafa.com^$all
-||brusuax.com^$all
 ||103.245.236.146^$all
 ||5.42.66.29^$all
 ||d1rbb432n5n8so.cloudfront.net^$all
@@ -45,5 +45,3 @@
 ||galandskiyher2.com^$all
 ||ji.alie3ksgbb.com^$all
 ||aszfiltration.com^$all
-||94.142.138.20^$all
-||128.199.11.249^$all
