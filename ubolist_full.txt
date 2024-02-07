@@ -489,3 +489,5 @@
 ||109.107.182.38/retro/dota.exe^$all
 ||185.172.128.127/timeSync.exe^$all
 ||185.172.128.32/sc.exe^$all
+||mahta-netwotk.click/111.exe^$all
+||clean.sunaviat.com/data/pdf/june.exe^$all

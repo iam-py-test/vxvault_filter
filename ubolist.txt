@@ -2,11 +2,14 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 06/02/2024
+! Last updated: 07/02/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Tue, 06 Feb 2024 20:18:58 +0000
+! Wed, 07 Feb 2024 20:18:18 +0000
+||mahta-netwotk.click/111.exe^$all
+||clean.sunaviat.com/data/pdf/june.exe^$all
+||185.172.128.127/timeSync.exe^$all
 ||brusuax.com/dl/build2.exe^$all
 ||185.172.128.154/hv.exe^$all
 ||185.172.128.19/dayroc.exe^$all
@@ -105,6 +108,3 @@
 ||galandskiyher2.com/downloads/toolspub4.exe^$all
 ||galandskiyher2.com/downloads/toolspub3.exe^$all
 ||galandskiyher2.com/downloads/toolspub2.exe^$all
-||ji.alie3ksgbb.com/m/ss29^$all
-||aszfiltration.com/storage/files/postmon.exe^$all
-||193.42.32.101/files/get3.exe^$all
