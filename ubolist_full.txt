@@ -491,3 +491,5 @@
 ||185.172.128.32/sc.exe^$all
 ||mahta-netwotk.click/111.exe^$all
 ||clean.sunaviat.com/data/pdf/june.exe^$all
+||github.com/Sobaka212/n/releases/download/rr/DCRatBuild.exe^$all
+||github.com/Sobaka212/n/releases/download/rr/ce0b953269c74bc.exe^$all
