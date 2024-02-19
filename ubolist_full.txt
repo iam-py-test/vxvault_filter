@@ -493,3 +493,11 @@
 ||clean.sunaviat.com/data/pdf/june.exe^$all
 ||github.com/Sobaka212/n/releases/download/rr/DCRatBuild.exe^$all
 ||github.com/Sobaka212/n/releases/download/rr/ce0b953269c74bc.exe^$all
+||41.216.183.27/bins/yakuza.arm^$all
+||91.92.240.69/beastmode/b3astmode.arm^$all
+||185.215.113.46/cost/fu.exe^$all
+||185.215.113.46/cost/ladas.exe^$all
+||185.215.113.46/mine/amert.exe^$all
+||185.215.113.46/mine/plaza.exe^$all
+||185.172.128.109/InstallSetup3.exe^$all
+||185.215.113.46/cost/niks.exe^$all

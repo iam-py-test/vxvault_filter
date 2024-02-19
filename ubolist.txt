@@ -2,11 +2,20 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 18/02/2024
+! Last updated: 19/02/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Sun, 18 Feb 2024 20:18:40 +0000
+! Mon, 19 Feb 2024 20:18:48 +0000
+||41.216.183.27/bins/yakuza.arm^$all
+||91.92.240.69/beastmode/b3astmode.arm^$all
+||185.215.113.46/cost/fu.exe^$all
+||185.172.128.127/syncUpd.exe^$all
+||185.215.113.46/cost/ladas.exe^$all
+||185.215.113.46/mine/amert.exe^$all
+||185.215.113.46/mine/plaza.exe^$all
+||185.172.128.109/InstallSetup3.exe^$all
+||185.215.113.46/cost/niks.exe^$all
 ||github.com/Sobaka212/n/releases/download/rr/DCRatBuild.exe^$all
 ||github.com/Sobaka212/n/releases/download/rr/ce0b953269c74bc.exe^$all
 ||mahta-netwotk.click/111.exe^$all
@@ -99,12 +108,3 @@
 ||sterkinekor.co.zw/univer.exe^$all
 ||wispafoods.com/BestSoftware.exe^$all
 ||cat.lobret.co.za/55aa5e.exe^$all
-||192.3.179.157/112/TiWorker.exe^$all
-||192.3.179.157/112/1/Rzcjkedka.exe^$all
-||192.3.23.242/80/mtdocs.exe^$all
-||103.182.16.23/M189T/smss.exe^$all
-||103.182.16.23/s179m/smss.exe^$all
-||hndcakewalkers.com/update1.exe^$all
-||193.42.32.101/files/get3.exe^$all
-||193.42.32.101/files/UM.exe^$all
-||galandskiyher2.com/downloads/toolspub4.exe^$all
