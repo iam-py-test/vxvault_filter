@@ -2,9 +2,10 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 20/02/2024
+! Last updated: 21/02/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||195.20.16.46^$all
 ||41.216.183.27^$all
 ||91.92.240.69^$all
 ||185.215.113.46^$all
@@ -17,7 +18,6 @@
 ||185.172.128.19^$all
 ||185.172.128.32^$all
 ||45.13.227.186^$all
-||195.20.16.46^$all
 ||ji.alie3ksggg.com^$all
 ||mix.avalmag.com^$all
 ||109.107.182.38^$all
@@ -42,4 +42,3 @@
 ||103.228.126.17^$all
 ||sterkinekor.co.zw^$all
 ||wispafoods.com^$all
-||cat.lobret.co.za^$all
