@@ -509,3 +509,5 @@
 ||github.com/junlionserto/dfgdbfgndbdsfbhry/raw/main/momsstiflersdgjboigfnbio.exe^$all
 ||github.com/junlionserto/dfbhdfioughfdsiu/raw/main/poolsdnkjfdbndklsnfgb.exe^$all
 ||94.156.8.244/mips^$all
+||185.172.128.187/timeSync.exe^$all
+||185.172.128.187/syncUpd.exe^$all
