@@ -514,3 +514,11 @@
 ||193.233.132.167/cost/ladas.exe^$all
 ||193.233.132.167/mine/plaza.exe^$all
 ||193.233.132.62/hera/amadka.exe^$all
+||bitbucket.org/j-upsps/microsoft_network1/downloads/a01.exe^$all
+||bitbucket.org/j-upsps/microsoft_network1/downloads/a03.exe^$all
+||seastyle.org/7725eaa6592c80f8124e769b4e8a07f7.exe^$all
+||147.45.47.93/zigma/kefir.exe^$all
+||bitbucket.org/tanij75843/anij758u3443/downloads/Soft.exe^$all
+||triedchicken.net/cad54ba5b01423b1af8ec10ab5719d97.exe^$all
+||195.20.16.46/download/123p.exe^$all
+||147.45.47.116/static/brg.exe^$all

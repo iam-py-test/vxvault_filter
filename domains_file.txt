@@ -2,17 +2,21 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 10/03/2024
+! Last updated: 11/03/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||seastyle.org^$all
+||147.45.47.93^$all
+||185.172.128.187^$all
+||medfioytrkdkcodlskeej.net^$all
+||triedchicken.net^$all
+||195.20.16.46^$all
+||147.45.47.116^$all
 ||193.233.132.167^$all
 ||193.233.132.62^$all
-||185.172.128.187^$all
 ||94.156.8.244^$all
 ||licocojambamarketplace.com^$all
-||medfioytrkdkcodlskeej.net^$all
 ||93.123.39.166^$all
-||195.20.16.46^$all
 ||41.216.183.27^$all
 ||91.92.240.69^$all
 ||185.215.113.46^$all
