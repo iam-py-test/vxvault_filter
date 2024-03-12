@@ -522,3 +522,6 @@
 ||triedchicken.net/cad54ba5b01423b1af8ec10ab5719d97.exe^$all
 ||195.20.16.46/download/123p.exe^$all
 ||147.45.47.116/static/brg.exe^$all
+||185.172.128.187/Ledger-Live.exe^$all
+||185.172.128.126/InstallSetupNew.exe^$all
+||91.92.250.216/page/c11zx.scr^$all

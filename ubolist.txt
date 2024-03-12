@@ -2,11 +2,15 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 11/03/2024
+! Last updated: 12/03/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Mon, 11 Mar 2024 20:21:00 +0000
+! Tue, 12 Mar 2024 20:20:32 +0000
+||185.172.128.187/Ledger-Live.exe^$all
+||185.172.128.187/syncUpd.exe^$all
+||185.172.128.126/InstallSetupNew.exe^$all
+||91.92.250.216/page/c11zx.scr^$all
 ||bitbucket.org/j-upsps/microsoft_network1/downloads/a01.exe^$all
 ||bitbucket.org/j-upsps/microsoft_network1/downloads/a03.exe^$all
 ||seastyle.org/7725eaa6592c80f8124e769b4e8a07f7.exe^$all
@@ -104,7 +108,3 @@
 ||109.107.182.3/lego/sadsadsadsa.exe^$all
 ||109.107.182.3/lego/alex.exe^$all
 ||109.107.182.3/lego/installs.exe^$all
-||109.107.182.3/lego/MRK.exe^$all
-||109.107.182.3/lego/2024.exe^$all
-||109.107.182.3/lego/moto.exe^$all
-||109.107.182.3/lego/redline1234.exe^$all
