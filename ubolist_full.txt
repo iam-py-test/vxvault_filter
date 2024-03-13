@@ -525,3 +525,4 @@
 ||185.172.128.187/Ledger-Live.exe^$all
 ||185.172.128.126/InstallSetupNew.exe^$all
 ||91.92.250.216/page/c11zx.scr^$all
+||193.233.132.139/zigma/fraer.exe^$all
