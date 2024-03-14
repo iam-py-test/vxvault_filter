@@ -526,3 +526,7 @@
 ||185.172.128.126/InstallSetupNew.exe^$all
 ||91.92.250.216/page/c11zx.scr^$all
 ||193.233.132.139/zigma/fraer.exe^$all
+||193.233.132.197/crypted.exe^$all
+||bitbucket.org/bredil555exe/mix1/downloads/mene.exe^$all
+||sportessentia.home.pl/temp/crypted.exe^$all
+||nessotechbd.com/TEMPradius.exe^$all
