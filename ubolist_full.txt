@@ -534,3 +534,6 @@
 ||nacionalveiculos.com/Software.exe^$all
 ||193.56.255.218/T1403F/audiodg.exe^$all
 ||193.233.132.167/cost/lenin.exe^$all
+||193.233.132.167/cost/ohara.exe^$all
+||193.233.132.167/cost/random.exe^$all
+||deft-sunflower-97c3b5.netlify.app/Client-built.exe^$all
