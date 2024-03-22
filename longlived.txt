@@ -1,7 +1,7 @@
 ! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 21/03/2024
+! Last updated: 22/03/2024
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -184,3 +184,7 @@
 ||nacionalveiculos.com^$all
 ||193.56.255.218^$all
 ||deft-sunflower-97c3b5.netlify.app^$all
+||5.42.66.22^$all
+||galandskiyher5.com^$all
+||185.172.128.65^$all
+||privacytools-trade.com^$all
