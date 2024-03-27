@@ -544,3 +544,6 @@
 ||galandskiyher5.com/downloads/toolspub1.exe^$all
 ||185.172.128.65/Ledger-Live.exe^$all
 ||privacytools-trade.com/downloads/toolspub1.exe^$all
+||193.233.132.139/silno/download.php^$all
+||185.172.128.6/timeSync.exe^$all
+||whyvickyischeater.com/amaa.exe^$all
