@@ -2,14 +2,21 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 27/03/2024
+! Last updated: 28/03/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
-||193.233.132.139^$all
+||185.149.146.227^$all
 ||185.172.128.65^$all
+||sdfjhuz.com^$all
+||changingpetals.shop^$all
+||193.233.132.139^$all
 ||185.172.128.6^$all
-||whyvickyischeater.com^$all
+||ngovpn.com^$all
 ||5.42.66.22^$all
+||195.20.16.46^$all
+||act.fishoaks.net^$all
+||193.233.132.175^$all
+||whyvickyischeater.com^$all
 ||sajdfue.com^$all
 ||galandskiyher5.com^$all
 ||privacytools-trade.com^$all
@@ -29,7 +36,6 @@
 ||seastyle.org^$all
 ||147.45.47.93^$all
 ||triedchicken.net^$all
-||195.20.16.46^$all
 ||147.45.47.116^$all
 ||94.156.8.244^$all
 ||licocojambamarketplace.com^$all

@@ -547,3 +547,12 @@
 ||193.233.132.139/silno/download.php^$all
 ||185.172.128.6/timeSync.exe^$all
 ||whyvickyischeater.com/amaa.exe^$all
+||185.149.146.227/bd2.exe^$all
+||185.172.128.65/syncUpd.exe^$all
+||sdfjhuz.com/dl/build2.exe^$all
+||changingpetals.shop/current.exe^$all
+||ngovpn.com/share/index.php^$all
+||5.42.66.22/retail.php^$all
+||5.42.66.22/space.php^$all
+||act.fishoaks.net/data/pdf/june.exe^$all
+||193.233.132.175/server/ww12/AppGate2103v01.exe^$all
