@@ -2,11 +2,14 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 28/03/2024
+! Last updated: 29/03/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Thu, 28 Mar 2024 20:20:21 +0000
+! Fri, 29 Mar 2024 20:20:08 +0000
+||193.233.132.139/silno/download.php^$all
+||193.233.132.167/retro/random.exe^$all
+||petalschanging.shop/current.exe^$all
 ||185.149.146.227/bd2.exe^$all
 ||185.172.128.65/syncUpd.exe^$all
 ||sdfjhuz.com/dl/build2.exe^$all
@@ -105,6 +108,3 @@
 ||mix.avalmag.com/data/pdf/june.exe^$all
 ||109.107.182.38/retro/dota.exe^$all
 ||185.172.128.127/timeSync.exe^$all
-||185.215.113.68/mine/amers.exe^$all
-||109.107.182.3/cost/ladas.exe^$all
-||109.107.182.3/cost/vinu.exe^$all

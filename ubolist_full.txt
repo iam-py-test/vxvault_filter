@@ -556,3 +556,5 @@
 ||5.42.66.22/space.php^$all
 ||act.fishoaks.net/data/pdf/june.exe^$all
 ||193.233.132.175/server/ww12/AppGate2103v01.exe^$all
+||193.233.132.167/retro/random.exe^$all
+||petalschanging.shop/current.exe^$all
