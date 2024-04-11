@@ -573,3 +573,4 @@
 ||185.172.128.144/ISetup2.exe^$all
 ||45.32.18.189/a14407a2^$all
 ||45.129.199.237/df/clip.exe^$all
+||kisanbethak.com/JK/ujjdjd.exe^$all
