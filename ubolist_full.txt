@@ -574,3 +574,4 @@
 ||45.32.18.189/a14407a2^$all
 ||45.129.199.237/df/clip.exe^$all
 ||kisanbethak.com/JK/ujjdjd.exe^$all
+||5.181.190.250/cbrbinaries/cbr.arc^$all
