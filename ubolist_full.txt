@@ -578,3 +578,5 @@
 ||45.88.90.30/bot.ppc^$all
 ||putin.zelenskyj.ru/bot.arm^$all
 ||103.113.70.99/version_2.exe^$all
+||5.42.66.10/download/th/Retailer_prog.exe^$all
+||jeuxviddeo.com/zyohg9odyvknmq9zlh^$all
