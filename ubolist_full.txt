@@ -580,3 +580,6 @@
 ||103.113.70.99/version_2.exe^$all
 ||5.42.66.10/download/th/Retailer_prog.exe^$all
 ||jeuxviddeo.com/zyohg9odyvknmq9zlh^$all
+||179.43.190.218/mips^$all
+||212.70.149.10/i686^$all
+||twizt.net/shitload.exe^$all
