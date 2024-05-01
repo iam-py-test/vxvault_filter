@@ -583,3 +583,6 @@
 ||179.43.190.218/mips^$all
 ||212.70.149.10/i686^$all
 ||twizt.net/shitload.exe^$all
+||103.14.226.142/x86^$all
+||185.196.11.177/bins/sora.spc^$all
+||103.14.226.142/ppc^$all
