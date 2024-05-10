@@ -2,9 +2,11 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 09/05/2024
+! Last updated: 10/05/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||173.44.139.198^$all
+||site-nbg.com^$all
 ||spy-ware-dudu.squareweb.app^$all
 ||45.88.90.46^$all
 ||103.14.226.142^$all

@@ -590,3 +590,5 @@
 ||spy-ware-dudu.squareweb.app/donwload^$all
 ||github.com/ExeXeam/Test/raw/main/Discord.exe^$all
 ||bitbucket.org/silentdown/kadzumi/downloads/Silent.exe^$all
+||173.44.139.198/i6^$all
+||site-nbg.com/Orcamento_HEJOASSUADMINISTRACAO_.PDF6784372024.exe^$all
