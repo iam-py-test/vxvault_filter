@@ -1,7 +1,7 @@
 ! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 11/05/2024
+! Last updated: 12/05/2024
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -180,6 +180,7 @@
 ||193.233.132.197^$all
 ||sportessentia.home.pl^$all
 ||nessotechbd.com^$all
+||fonqqa0rfoutqructznfzudsrdhgeqxeuptevarkgnd.000webhostapp.com^$all
 ||nacionalveiculos.com^$all
 ||193.56.255.218^$all
 ||deft-sunflower-97c3b5.netlify.app^$all
@@ -187,6 +188,7 @@
 ||185.172.128.65^$all
 ||185.172.128.6^$all
 ||185.149.146.227^$all
+||sdfjhuz.com^$all
 ||changingpetals.shop^$all
 ||193.233.132.175^$all
 ||petalschanging.shop^$all
