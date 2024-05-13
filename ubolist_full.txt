@@ -592,3 +592,5 @@
 ||bitbucket.org/silentdown/kadzumi/downloads/Silent.exe^$all
 ||173.44.139.198/i6^$all
 ||site-nbg.com/Orcamento_HEJOASSUADMINISTRACAO_.PDF6784372024.exe^$all
+||raw.githubusercontent.com/musaalif6969/krunker/main/my.exe^$all
+||github.com/SetThreadExecutionState/ModifiedDiscordClient/raw/main/yar.exe^$all
