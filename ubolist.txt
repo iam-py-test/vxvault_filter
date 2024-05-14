@@ -2,11 +2,13 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 13/05/2024
+! Last updated: 14/05/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Mon, 13 May 2024 20:21:01 +0000
+! Tue, 14 May 2024 20:22:09 +0000
+||203.55.81.4/masjesuscan^$all
+||github.com/Synapsesys/Synapse/releases/download/ah/Discord.exe^$all
 ||raw.githubusercontent.com/musaalif6969/krunker/main/my.exe^$all
 ||github.com/SetThreadExecutionState/ModifiedDiscordClient/raw/main/yar.exe^$all
 ||173.44.139.198/i6^$all
@@ -106,5 +108,3 @@
 ||medfioytrkdkcodlskeej.net/987123.exe^$all
 ||bitbucket.org/tanij75843/anij758u3443/downloads/Soft.exe^$all
 ||triedchicken.net/cad54ba5b01423b1af8ec10ab5719d97.exe^$all
-||195.20.16.46/download/123p.exe^$all
-||147.45.47.116/static/brg.exe^$all

@@ -594,3 +594,5 @@
 ||site-nbg.com/Orcamento_HEJOASSUADMINISTRACAO_.PDF6784372024.exe^$all
 ||raw.githubusercontent.com/musaalif6969/krunker/main/my.exe^$all
 ||github.com/SetThreadExecutionState/ModifiedDiscordClient/raw/main/yar.exe^$all
+||203.55.81.4/masjesuscan^$all
+||github.com/Synapsesys/Synapse/releases/download/ah/Discord.exe^$all
