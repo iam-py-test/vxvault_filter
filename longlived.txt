@@ -1,7 +1,7 @@
 ! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 14/05/2024
+! Last updated: 15/05/2024
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -195,7 +195,6 @@
 ||185.172.128.144^$all
 ||45.32.18.189^$all
 ||45.129.199.237^$all
-||kisanbethak.com^$all
 ||5.181.190.250^$all
 ||45.88.90.30^$all
 ||putin.zelenskyj.ru^$all
@@ -210,3 +209,4 @@
 ||spy-ware-dudu.squareweb.app^$all
 ||173.44.139.198^$all
 ||203.55.81.4^$all
+||zffsg.oss-ap-northeast-2.aliyuncs.com^$all
