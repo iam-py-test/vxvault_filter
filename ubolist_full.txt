@@ -597,3 +597,4 @@
 ||203.55.81.4/masjesuscan^$all
 ||github.com/Synapsesys/Synapse/releases/download/ah/Discord.exe^$all
 ||zffsg.oss-ap-northeast-2.aliyuncs.com/x103.log^$all
+||files.eintim.me/content/cdn/VIShpbWCxEUY.exe^$all
