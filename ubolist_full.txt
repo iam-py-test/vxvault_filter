@@ -598,3 +598,5 @@
 ||github.com/Synapsesys/Synapse/releases/download/ah/Discord.exe^$all
 ||zffsg.oss-ap-northeast-2.aliyuncs.com/x103.log^$all
 ||files.eintim.me/content/cdn/VIShpbWCxEUY.exe^$all
+||aefieiaehfiaehr.top/tdrpload.exe^$all
+||5.42.96.55/lumma0805.exe^$all
