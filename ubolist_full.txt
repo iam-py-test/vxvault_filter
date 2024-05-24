@@ -603,3 +603,4 @@
 ||103.228.37.56/most-x86^$all
 ||45.128.232.15/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.x86^$all
 ||172.105.121.169/AsyncClient.exe^$all
+||45.142.182.70/arc^$all
