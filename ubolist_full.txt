@@ -604,3 +604,5 @@
 ||45.128.232.15/596a96cc7bf9108cd896f33c44aedc8a/db0fa4b8db0333367e9bda3ab68b8042.x86^$all
 ||172.105.121.169/AsyncClient.exe^$all
 ||45.142.182.70/arc^$all
+||93.123.39.20/bins/r.x86^$all
+||147.78.103.177/arm6^$all
