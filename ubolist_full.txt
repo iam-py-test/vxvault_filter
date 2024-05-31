@@ -607,3 +607,10 @@
 ||93.123.39.20/bins/r.x86^$all
 ||147.78.103.177/arm6^$all
 ||147.78.103.195/gjui^$all
+||93.123.39.110/softbot.x86^$all
+||204.137.14.135/s2.exe^$all
+||147.78.103.195/ws8ioUp8Us^$all
+||147.78.103.195/ivy5dNMhe9^$all
+||147.78.103.195/YU5FcDWihk^$all
+||147.78.103.195/XdYLSM59XW^$all
+||93.123.39.98/bins/sora.mips^$all
