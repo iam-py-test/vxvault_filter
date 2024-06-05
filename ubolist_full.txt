@@ -615,3 +615,4 @@
 ||147.78.103.195/XdYLSM59XW^$all
 ||93.123.39.98/bins/sora.mips^$all
 ||147.78.103.184/sparc^$all
+||universalmovies.top/john.scr^$all
