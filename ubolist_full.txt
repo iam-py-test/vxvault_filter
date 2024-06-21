@@ -619,3 +619,8 @@
 ||147.78.103.47/bins/jew.ppc^$all
 ||o7labs.top/visual/blob.exe^$all
 ||o7labs.top/visual/bin.exe^$all
+||45.148.10.78/x86^$all
+||penisware.com/r77/Install.exe^$all
+||penisware.com/venom/penisware2.exe^$all
+||penisware.com/xworm/sdchost.exe^$all
+||penisware.com/venom/scchost.exe^$all
