@@ -624,3 +624,4 @@
 ||penisware.com/venom/penisware2.exe^$all
 ||penisware.com/xworm/sdchost.exe^$all
 ||penisware.com/venom/scchost.exe^$all
+||77.91.77.82/lend/deep.exe^$all
