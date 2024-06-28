@@ -626,3 +626,4 @@
 ||penisware.com/venom/scchost.exe^$all
 ||77.91.77.82/lend/deep.exe^$all
 ||77.91.77.82/lend/ama.exe^$all
+||b46.oss-cn-hongkong.aliyuncs.com/config/qNVQKFyM.exe^$all
