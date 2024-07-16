@@ -628,3 +628,4 @@
 ||77.91.77.82/lend/ama.exe^$all
 ||b46.oss-cn-hongkong.aliyuncs.com/config/qNVQKFyM.exe^$all
 ||198.23.165.253/shindex86^$all
+||194.42.207.3/se.exe^$all
