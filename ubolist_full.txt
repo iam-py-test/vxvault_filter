@@ -629,3 +629,4 @@
 ||b46.oss-cn-hongkong.aliyuncs.com/config/qNVQKFyM.exe^$all
 ||198.23.165.253/shindex86^$all
 ||194.42.207.3/se.exe^$all
+||200.122.211.138/.i^$all
