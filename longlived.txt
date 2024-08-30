@@ -1,7 +1,7 @@
 ! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 29/08/2024
+! Last updated: 30/08/2024
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -225,6 +225,7 @@
 ||93.123.39.98^$all
 ||147.78.103.184^$all
 ||147.78.103.47^$all
+||o7labs.top^$all
 ||45.148.10.78^$all
 ||penisware.com^$all
 ||77.91.77.82^$all
@@ -238,3 +239,4 @@
 ||91.92.246.18^$all
 ||45.66.231.213^$all
 ||45.66.231.16^$all
+||ddl.safone.dev^$all

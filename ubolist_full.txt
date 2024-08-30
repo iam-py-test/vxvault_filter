@@ -641,3 +641,4 @@
 ||45.66.231.213/x86^$all
 ||45.66.231.16/xd_/cyber-x86^$all
 ||raw.githubusercontent.com/Marcin2123/actualka/main/113133.exe^$all
+||ddl.safone.dev/3808735/US+ONLY1.exe?hash=AgADkx^$all
