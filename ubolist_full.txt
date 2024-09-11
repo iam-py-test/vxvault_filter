@@ -643,3 +643,4 @@
 ||raw.githubusercontent.com/Marcin2123/actualka/main/113133.exe^$all
 ||ddl.safone.dev/3808735/US+ONLY1.exe?hash=AgADkx^$all
 ||twizt.net/lk.exe^$all
+||stolc-download.tech/download/file/stolc_app.exe^$all
