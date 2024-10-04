@@ -655,3 +655,4 @@
 ||185.215.113.117/inc/needmoney.exe^$all
 ||185.215.113.117/inc/gold.exe^$all
 ||185.215.113.100/steam/random.exe^$all
+||103.130.147.211/Files/22.exe^$all
