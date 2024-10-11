@@ -657,3 +657,6 @@
 ||185.215.113.100/steam/random.exe^$all
 ||103.130.147.211/Files/22.exe^$all
 ||91.228.10.22/hb/docii.exe^$all
+||176.113.115.95/thebig/swf.exe^$all
+||cache.ussc.org/css/67065a0933c9e_UUESUpdater.exe^$all
+||proxy.siteterbaru.xyz/css/0a839761915d.exe^$all
