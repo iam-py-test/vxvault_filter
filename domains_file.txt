@@ -2,16 +2,16 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 14/10/2024
+! Last updated: 15/10/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||185.215.113.103^$all
 ||176.113.115.95^$all
 ||cache.ussc.org^$all
 ||proxy.siteterbaru.xyz^$all
 ||91.228.10.22^$all
 ||103.130.147.211^$all
 ||194.116.215.195^$all
-||185.215.113.103^$all
 ||147.45.44.104^$all
 ||185.215.113.26^$all
 ||185.215.113.117^$all
@@ -72,4 +72,3 @@
 ||sly.fishoaks.net^$all
 ||185.172.128.6^$all
 ||193.233.132.175^$all
-||185.172.128.144^$all

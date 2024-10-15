@@ -660,3 +660,6 @@
 ||176.113.115.95/thebig/swf.exe^$all
 ||cache.ussc.org/css/67065a0933c9e_UUESUpdater.exe^$all
 ||proxy.siteterbaru.xyz/css/0a839761915d.exe^$all
+||185.215.113.103/steam/random.exe^$all
+||185.215.113.103/test/num.exe^$all
+||185.215.113.103/luma/random.exe^$all
