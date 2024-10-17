@@ -664,3 +664,4 @@
 ||185.215.113.103/test/num.exe^$all
 ||185.215.113.103/luma/random.exe^$all
 ||files.catbox.moe/rutcsx.dhj^$all
+||72.5.42.222/api/dll/zetta^$all
