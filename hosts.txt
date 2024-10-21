@@ -1,7 +1,7 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 20/10/2024
+# Last updated: 21/10/2024
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 0.0.0.0 cache.ussc.org
 0.0.0.0 proxy.siteterbaru.xyz
