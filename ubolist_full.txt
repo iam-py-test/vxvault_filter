@@ -665,3 +665,4 @@
 ||185.215.113.103/luma/random.exe^$all
 ||files.catbox.moe/rutcsx.dhj^$all
 ||72.5.42.222/api/dll/zetta^$all
+||assets.padmamuseum.gov.bd/css/7d26acda3d7c.exe^$all
