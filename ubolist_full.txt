@@ -668,3 +668,5 @@
 ||assets.padmamuseum.gov.bd/css/7d26acda3d7c.exe^$all
 ||bitwelly.design/2.exe^$all
 ||bitwelly.design/1.exe^$all
+||samzafood.com.my/wp-content/images/pic5.jpg^$all
+||samzafood.com.my/wp-content/images/pic6.jpg^$all
