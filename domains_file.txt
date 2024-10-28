@@ -2,9 +2,10 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 27/10/2024
+! Last updated: 28/10/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||dewatabalirental.com^$all
 ||samzafood.com.my^$all
 ||bitwelly.design^$all
 ||assets.padmamuseum.gov.bd^$all
@@ -69,7 +70,3 @@
 ||putin.zelenskyj.ru^$all
 ||103.113.70.99^$all
 ||5.181.190.250^$all
-||kisanbethak.com^$all
-||45.129.199.237^$all
-||45.32.18.189^$all
-||185.215.113.46^$all

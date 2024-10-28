@@ -670,3 +670,7 @@
 ||bitwelly.design/1.exe^$all
 ||samzafood.com.my/wp-content/images/pic5.jpg^$all
 ||samzafood.com.my/wp-content/images/pic6.jpg^$all
+||dewatabalirental.com/4.exe^$all
+||dewatabalirental.com/3.exe^$all
+||dewatabalirental.com/2.exe^$all
+||dewatabalirental.com/1.exe^$all
