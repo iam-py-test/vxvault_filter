@@ -2,11 +2,12 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 28/10/2024
+! Last updated: 29/10/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Mon, 28 Oct 2024 20:25:32 +0000
+! Tue, 29 Oct 2024 20:25:37 +0000
+||185.215.113.16/off/def.exe^$all
 ||dewatabalirental.com/4.exe^$all
 ||dewatabalirental.com/3.exe^$all
 ||dewatabalirental.com/2.exe^$all
@@ -107,4 +108,3 @@
 ||45.88.90.30/bot.ppc^$all
 ||putin.zelenskyj.ru/bot.arm^$all
 ||103.113.70.99/version_2.exe^$all
-||5.181.190.250/cbrbinaries/cbr.arc^$all
