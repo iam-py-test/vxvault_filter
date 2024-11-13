@@ -1,7 +1,7 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 12/11/2024
+# Last updated: 13/11/2024
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 0.0.0.0 newvideo.link
 0.0.0.0 dewatabalirental.com
@@ -22,4 +22,3 @@
 0.0.0.0 zffsg.oss-ap-northeast-2.aliyuncs.com
 0.0.0.0 site-nbg.com
 0.0.0.0 spy-ware-dudu.squareweb.app
-0.0.0.0 jeuxviddeo.com
