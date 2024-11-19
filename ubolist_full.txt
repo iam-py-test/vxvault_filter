@@ -680,3 +680,5 @@
 ||newvideo.link/temp/xnsjjxja.exe^$all
 ||59.99.215.146/Mozi.m^$all
 ||aquafusion.com.co/ngbx/ngown.exe^$all
+||66.63.187.150/file/build2.exe^$all
+||66.63.187.150/file/build.exe^$all
