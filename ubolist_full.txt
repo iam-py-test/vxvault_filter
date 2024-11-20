@@ -682,3 +682,6 @@
 ||aquafusion.com.co/ngbx/ngown.exe^$all
 ||66.63.187.150/file/build2.exe^$all
 ||66.63.187.150/file/build.exe^$all
+||durraactive.com.my/wp-content/images/pic11.jpg^$all
+||66.63.187.231/657/caspol.exe^$all
+||66.63.187.150/file/build3.exe^$all
