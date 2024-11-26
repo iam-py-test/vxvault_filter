@@ -686,3 +686,4 @@
 ||66.63.187.231/657/caspol.exe^$all
 ||66.63.187.150/file/build3.exe^$all
 ||83.217.208.37/app/upd.exe^$all
+||nasa.r2cloudhikepoo2.shop/NHFMUBEFH4C9ARNQC6U9.bin^$all
