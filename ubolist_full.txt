@@ -689,3 +689,6 @@
 ||nasa.r2cloudhikepoo2.shop/NHFMUBEFH4C9ARNQC6U9.bin^$all
 ||mapimwp.org/wp-content/images/pic8.jpg^$all
 ||185.7.78.88/bot.arm^$all
+||74.50.95.117/files/Pkaffth.exe^$all
+||74.50.95.117/files/Hkrrl.exe^$all
+||45.131.135.227/Captcha.exe^$all
