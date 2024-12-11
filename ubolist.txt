@@ -2,11 +2,12 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 10/12/2024
+! Last updated: 11/12/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Tue, 10 Dec 2024 20:27:44 +0000
+! Wed, 11 Dec 2024 20:27:48 +0000
+||185.215.113.16/inc/Dynpvoy.exe^$all
 ||74.50.95.117/files/Pkaffth.exe^$all
 ||74.50.95.117/files/Hkrrl.exe^$all
 ||45.131.135.227/Captcha.exe^$all
@@ -107,4 +108,3 @@
 ||203.55.81.4/masjesuscan^$all
 ||github.com/Synapsesys/Synapse/releases/download/ah/Discord.exe^$all
 ||raw.githubusercontent.com/musaalif6969/krunker/main/my.exe^$all
-||github.com/SetThreadExecutionState/ModifiedDiscordClient/raw/main/yar.exe^$all

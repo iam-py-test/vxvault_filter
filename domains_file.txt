@@ -2,9 +2,10 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 10/12/2024
+! Last updated: 11/12/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||185.215.113.16^$all
 ||74.50.95.117^$all
 ||45.131.135.227^$all
 ||185.7.78.88^$all
@@ -17,7 +18,6 @@
 ||aquafusion.com.co^$all
 ||59.99.215.146^$all
 ||newvideo.link^$all
-||185.215.113.16^$all
 ||dewatabalirental.com^$all
 ||samzafood.com.my^$all
 ||bitwelly.design^$all

@@ -692,3 +692,4 @@
 ||74.50.95.117/files/Pkaffth.exe^$all
 ||74.50.95.117/files/Hkrrl.exe^$all
 ||45.131.135.227/Captcha.exe^$all
+||185.215.113.16/inc/Dynpvoy.exe^$all
