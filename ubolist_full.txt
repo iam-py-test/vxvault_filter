@@ -693,3 +693,8 @@
 ||74.50.95.117/files/Hkrrl.exe^$all
 ||45.131.135.227/Captcha.exe^$all
 ||185.215.113.16/inc/Dynpvoy.exe^$all
+||185.81.68.147/gfx.exe^$all
+||185.81.68.147/ctx.exe^$all
+||185.81.68.147/AsyncClient.exe^$all
+||185.81.68.147/fcxcx.exe^$all
+||185.81.68.147/vvv.exe^$all

@@ -1,7 +1,7 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 11/12/2024
+# Last updated: 12/12/2024
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 0.0.0.0 mapimwp.org
 0.0.0.0 nasa.r2cloudhikepoo2.shop
@@ -22,5 +22,3 @@
 0.0.0.0 o7labs.top
 0.0.0.0 universalmovies.top
 0.0.0.0 aefieiaehfiaehr.top
-0.0.0.0 files.eintim.me
-0.0.0.0 zffsg.oss-ap-northeast-2.aliyuncs.com

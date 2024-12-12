@@ -2,11 +2,16 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 11/12/2024
+! Last updated: 12/12/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Wed, 11 Dec 2024 20:27:48 +0000
+! Thu, 12 Dec 2024 20:28:02 +0000
+||185.81.68.147/gfx.exe^$all
+||185.81.68.147/ctx.exe^$all
+||185.81.68.147/AsyncClient.exe^$all
+||185.81.68.147/fcxcx.exe^$all
+||185.81.68.147/vvv.exe^$all
 ||185.215.113.16/inc/Dynpvoy.exe^$all
 ||74.50.95.117/files/Pkaffth.exe^$all
 ||74.50.95.117/files/Hkrrl.exe^$all
@@ -103,8 +108,3 @@
 ||172.105.121.169/AsyncClient.exe^$all
 ||aefieiaehfiaehr.top/tdrpload.exe^$all
 ||5.42.96.55/lumma0805.exe^$all
-||files.eintim.me/content/cdn/VIShpbWCxEUY.exe^$all
-||zffsg.oss-ap-northeast-2.aliyuncs.com/x103.log^$all
-||203.55.81.4/masjesuscan^$all
-||github.com/Synapsesys/Synapse/releases/download/ah/Discord.exe^$all
-||raw.githubusercontent.com/musaalif6969/krunker/main/my.exe^$all
