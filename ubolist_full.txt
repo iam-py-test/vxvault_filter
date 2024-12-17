@@ -702,3 +702,8 @@
 ||zakazbuketov.kz/audiodf.exe^$all
 ||80.82.65.70/dl?name=mixthree.exe^^$all
 ||176.113.115.37/ScreenUpdateSync.exe^$all
+||185.81.68.147/Build.exe^$all
+||185.81.68.147/zx.exe^$all
+||185.81.68.147/ssg.exe^$all
+||185.81.68.147/Update.exe^$all
+||kiltone.top/stelin/Gosjeufon.cpl^$all

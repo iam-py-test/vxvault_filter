@@ -2,14 +2,15 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 16/12/2024
+! Last updated: 17/12/2024
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||185.81.68.147^$all
+||kiltone.top^$all
 ||dominikatracy.com^$all
 ||zakazbuketov.kz^$all
 ||80.82.65.70^$all
 ||176.113.115.37^$all
-||185.81.68.147^$all
 ||185.215.113.16^$all
 ||74.50.95.117^$all
 ||45.131.135.227^$all
@@ -63,7 +64,3 @@
 ||204.137.14.135^$all
 ||147.78.103.195^$all
 ||93.123.39.98^$all
-||93.123.39.20^$all
-||147.78.103.177^$all
-||45.142.182.70^$all
-||103.228.37.56^$all
