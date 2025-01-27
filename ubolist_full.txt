@@ -708,3 +708,4 @@
 ||185.81.68.147/Update.exe^$all
 ||kiltone.top/stelin/Gosjeufon.cpl^$all
 ||194.37.81.64/Aqua.x86_64^$all
+||github.com/BalletsPistol/d9fb74g8db7d8b7db48df7g8db77f4drb7er8db7fd84d7b1gdb47d8b7brt18bcy87gdfb8hfg74h87fh8bf18h7/raw/refs/heads/main/Encryptor.exe^$all
