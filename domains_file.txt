@@ -2,9 +2,11 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 22/02/2025
+! Last updated: 23/02/2025
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||37.44.238.88^$all
+||185.232.205.104^$all
 ||filter.trueddns.com^$all
 ||194.37.81.64^$all
 ||185.81.68.147^$all
@@ -60,6 +62,3 @@
 ||penisware.com^$all
 ||o7labs.top^$all
 ||147.78.103.47^$all
-||universalmovies.top^$all
-||147.78.103.184^$all
-||93.123.39.110^$all
