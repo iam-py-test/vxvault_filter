@@ -717,3 +717,5 @@
 ||37.44.238.88/spim^$all
 ||185.232.205.104/bins/g4za.arm7^$all
 ||hybridemails.ae/esign-app.exe^$all
+||176.65.134.5/arm^$all
+||176.65.134.62/bins/morte.x86^$all
