@@ -719,3 +719,4 @@
 ||hybridemails.ae/esign-app.exe^$all
 ||176.65.134.5/arm^$all
 ||176.65.134.62/bins/morte.x86^$all
+||recursoscompartidos.xyz/pora/csc.exe^$all
