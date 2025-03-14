@@ -720,3 +720,6 @@
 ||176.65.134.5/arm^$all
 ||176.65.134.62/bins/morte.x86^$all
 ||recursoscompartidos.xyz/pora/csc.exe^$all
+||github.com/deripascod/coderoom/raw/refs/heads/main/kythkkaewdth.exe^$all
+||raw.githubusercontent.com/XeroxzB/weqeq/main/XClient.exe^$all
+||62.60.226.112/file/590_9883.exe^$all

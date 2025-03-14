@@ -2,11 +2,14 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 13/03/2025
+! Last updated: 14/03/2025
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Thu, 13 Mar 2025 20:26:55 +0000
+! Fri, 14 Mar 2025 20:25:49 +0000
+||github.com/deripascod/coderoom/raw/refs/heads/main/kythkkaewdth.exe^$all
+||raw.githubusercontent.com/XeroxzB/weqeq/main/XClient.exe^$all
+||62.60.226.112/file/590_9883.exe^$all
 ||recursoscompartidos.xyz/pora/csc.exe^$all
 ||176.65.134.5/arm^$all
 ||176.65.134.62/bins/morte.x86^$all
@@ -105,6 +108,3 @@
 ||77.91.77.82/lend/ama.exe^$all
 ||77.91.77.82/lend/deep.exe^$all
 ||45.148.10.78/x86^$all
-||penisware.com/r77/Install.exe^$all
-||penisware.com/venom/penisware2.exe^$all
-||penisware.com/xworm/sdchost.exe^$all
