@@ -723,3 +723,4 @@
 ||github.com/deripascod/coderoom/raw/refs/heads/main/kythkkaewdth.exe^$all
 ||raw.githubusercontent.com/XeroxzB/weqeq/main/XClient.exe^$all
 ||62.60.226.112/file/590_9883.exe^$all
+||196.251.115.212/x86_64^$all
