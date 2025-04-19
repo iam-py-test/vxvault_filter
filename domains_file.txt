@@ -2,66 +2,6 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 18/04/2025
+! Last updated: 19/04/2025
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
-||213.209.150.48^$all
-||185.39.207.117^$all
-||103.175.16.117^$all
-||31.170.22.205^$all
-||196.251.115.212^$all
-||62.60.226.112^$all
-||recursoscompartidos.xyz^$all
-||176.65.134.5^$all
-||176.65.134.62^$all
-||hybridemails.ae^$all
-||37.44.238.88^$all
-||185.232.205.104^$all
-||filter.trueddns.com^$all
-||194.37.81.64^$all
-||185.81.68.147^$all
-||kiltone.top^$all
-||dominikatracy.com^$all
-||zakazbuketov.kz^$all
-||80.82.65.70^$all
-||176.113.115.37^$all
-||185.215.113.16^$all
-||74.50.95.117^$all
-||45.131.135.227^$all
-||185.7.78.88^$all
-||mapimwp.org^$all
-||nasa.r2cloudhikepoo2.shop^$all
-||83.217.208.37^$all
-||durraactive.com.my^$all
-||66.63.187.231^$all
-||66.63.187.150^$all
-||aquafusion.com.co^$all
-||59.99.215.146^$all
-||newvideo.link^$all
-||dewatabalirental.com^$all
-||samzafood.com.my^$all
-||bitwelly.design^$all
-||assets.padmamuseum.gov.bd^$all
-||72.5.42.222^$all
-||185.215.113.103^$all
-||176.113.115.95^$all
-||cache.ussc.org^$all
-||proxy.siteterbaru.xyz^$all
-||91.228.10.22^$all
-||103.130.147.211^$all
-||194.116.215.195^$all
-||147.45.44.104^$all
-||185.215.113.26^$all
-||185.215.113.117^$all
-||185.215.113.100^$all
-||stolc-download.tech^$all
-||twizt.net^$all
-||ddl.safone.dev^$all
-||45.66.231.16^$all
-||91.92.242.124^$all
-||91.92.246.18^$all
-||45.66.231.213^$all
-||45.66.231.148^$all
-||27.147.132.114^$all
-||200.122.211.138^$all
-||194.42.207.3^$all

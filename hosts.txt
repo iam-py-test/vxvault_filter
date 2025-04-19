@@ -1,25 +1,5 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 18/04/2025
+# Last updated: 19/04/2025
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
-0.0.0.0 recursoscompartidos.xyz
-0.0.0.0 hybridemails.ae
-0.0.0.0 filter.trueddns.com
-0.0.0.0 kiltone.top
-0.0.0.0 dominikatracy.com
-0.0.0.0 zakazbuketov.kz
-0.0.0.0 mapimwp.org
-0.0.0.0 nasa.r2cloudhikepoo2.shop
-0.0.0.0 durraactive.com.my
-0.0.0.0 aquafusion.com.co
-0.0.0.0 newvideo.link
-0.0.0.0 dewatabalirental.com
-0.0.0.0 samzafood.com.my
-0.0.0.0 bitwelly.design
-0.0.0.0 assets.padmamuseum.gov.bd
-0.0.0.0 cache.ussc.org
-0.0.0.0 proxy.siteterbaru.xyz
-0.0.0.0 stolc-download.tech
-0.0.0.0 twizt.net
-0.0.0.0 ddl.safone.dev
