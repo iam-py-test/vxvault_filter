@@ -732,3 +732,4 @@
 ||94.154.34.240/Manya.exe^$all
 ||94.154.34.240/atrix.exe^$all
 ||94.154.34.240/linux.exe^$all
+||185.238.191.89/beba.exe^$all
