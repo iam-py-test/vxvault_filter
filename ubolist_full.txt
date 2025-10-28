@@ -734,3 +734,5 @@
 ||94.154.34.240/linux.exe^$all
 ||185.238.191.89/beba.exe^$all
 ||178.16.55.189/files/7968590541/T7V02QZ.exe^$all
+||162.0.225.149/XjeelShZ/build.exe^$all
+||108.181.161.143/build.exe^$all
