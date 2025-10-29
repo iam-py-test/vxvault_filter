@@ -2,12 +2,14 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 28/10/2025
+! Last updated: 29/10/2025
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||176.46.152.62^$all
+||178.16.55.189^$all
+||144.172.107.244^$all
 ||162.0.225.149^$all
 ||108.181.161.143^$all
-||178.16.55.189^$all
 ||185.238.191.89^$all
 ||94.154.34.240^$all
 ||213.209.150.48^$all
@@ -62,6 +64,3 @@
 ||stolc-download.tech^$all
 ||twizt.net^$all
 ||ddl.safone.dev^$all
-||45.66.231.16^$all
-||91.92.242.124^$all
-||91.92.246.18^$all

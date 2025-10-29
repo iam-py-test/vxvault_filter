@@ -736,3 +736,7 @@
 ||178.16.55.189/files/7968590541/T7V02QZ.exe^$all
 ||162.0.225.149/XjeelShZ/build.exe^$all
 ||108.181.161.143/build.exe^$all
+||176.46.152.62/7526e77af84e4d3da650295a11488a99_crypted_build.exe^$all
+||178.16.55.189/files/6331503294/nGFFa2Q.exe^$all
+||178.16.55.189/files/5917492177/Mwt6qk5.exe^$all
+||144.172.107.244/frost.x86_64^$all
