@@ -2,11 +2,12 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 04/11/2025
+! Last updated: 05/11/2025
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Tue, 04 Nov 2025 20:31:08 +0000
+! Wed, 05 Nov 2025 20:31:19 +0000
+||62.60.226.16/dva.exe^$all
 ||i-slept-with-ur.mom/Stb/Retev.php?bl=TGPEbjtXDrfj2U5fJTPRE008.txt^$all
 ||vcc-library.uk/Stb/Retev.php?bl=QTuVl0PCseGLafunsZPRE008.txt^$all
 ||176.46.152.62/7526e77af84e4d3da650295a11488a99_crypted_build.exe^$all
@@ -107,4 +108,3 @@
 ||185.215.113.117/inc/gold.exe^$all
 ||185.215.113.100/steam/random.exe^$all
 ||stolc-download.tech/download/file/stolc_app.exe^$all
-||twizt.net/lk.exe^$all

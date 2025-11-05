@@ -18,4 +18,3 @@ assets.padmamuseum.gov.bd
 cache.ussc.org
 proxy.siteterbaru.xyz
 stolc-download.tech
-twizt.net
