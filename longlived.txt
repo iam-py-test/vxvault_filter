@@ -1,7 +1,7 @@
 ! Title: VXVault filterlist - longlived domains (unofficial)
 ! Expires: 1 day
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
-! Last updated: 25/11/2025
+! Last updated: 26/11/2025
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ||62.204.41.176^$all
 ||67.198.237.222^$all
@@ -258,7 +258,6 @@
 ||durraactive.com.my^$all
 ||66.63.187.231^$all
 ||83.217.208.37^$all
-||mapimwp.org^$all
 ||185.7.78.88^$all
 ||74.50.95.117^$all
 ||45.131.135.227^$all
@@ -289,5 +288,6 @@
 ||108.181.161.143^$all
 ||176.46.152.62^$all
 ||144.172.107.244^$all
-||vcc-library.uk^$all
 ||62.60.226.16^$all
+||bdddda.cfd^$all
+||hody-musique.com^$all
