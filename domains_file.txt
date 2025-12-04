@@ -2,16 +2,18 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 03/12/2025
+! Last updated: 04/12/2025
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||178.16.55.189^$all
+||216.126.239.11^$all
+||172.86.123.179^$all
 ||bdddda.cfd^$all
 ||hody-musique.com^$all
 ||62.60.226.16^$all
 ||i-slept-with-ur.mom^$all
 ||vcc-library.uk^$all
 ||176.46.152.62^$all
-||178.16.55.189^$all
 ||144.172.107.244^$all
 ||162.0.225.149^$all
 ||108.181.161.143^$all
@@ -62,6 +64,3 @@
 ||91.228.10.22^$all
 ||103.130.147.211^$all
 ||194.116.215.195^$all
-||147.45.44.104^$all
-||185.215.113.26^$all
-||185.215.113.117^$all
