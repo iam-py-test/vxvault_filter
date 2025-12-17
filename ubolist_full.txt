@@ -753,3 +753,5 @@
 ||216.126.239.11/alfa.exe^$all
 ||172.86.123.179/inihiddenngentod/zerobotv9.x86_64^$all
 ||86.54.24.29/Renewable.exe^$all
+||raw.githubusercontent.com/lenkonftw/Project-Admini/refs/heads/main/pdf.exe^$all
+||raw.githubusercontent.com/lenkonftw/Project-Admini/refs/heads/main/decryptor.exe^$all
