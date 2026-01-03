@@ -756,3 +756,4 @@
 ||raw.githubusercontent.com/lenkonftw/Project-Admini/refs/heads/main/pdf.exe^$all
 ||raw.githubusercontent.com/lenkonftw/Project-Admini/refs/heads/main/decryptor.exe^$all
 ||176.97.210.242/bins/skid.x86^$all
+||190.198.218.210/i^$all
