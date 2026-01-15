@@ -1,8 +1,9 @@
 # VXVault domains - HOSTs(unofficial)
 # A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 # Homepage: https://github.com/iam-py-test/vxvault_filter
-# Last updated: 14/01/2026
+# Last updated: 15/01/2026
 # Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+0.0.0.0 marsalek.cy
 0.0.0.0 bdddda.cfd
 0.0.0.0 hody-musique.com
 0.0.0.0 i-slept-with-ur.mom
@@ -23,4 +24,3 @@
 0.0.0.0 bitwelly.design
 0.0.0.0 assets.padmamuseum.gov.bd
 0.0.0.0 cache.ussc.org
-0.0.0.0 proxy.siteterbaru.xyz

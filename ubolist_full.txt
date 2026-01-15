@@ -757,3 +757,5 @@
 ||raw.githubusercontent.com/lenkonftw/Project-Admini/refs/heads/main/decryptor.exe^$all
 ||176.97.210.242/bins/skid.x86^$all
 ||190.198.218.210/i^$all
+||marsalek.cy/static/abcfg.exe^$all
+||marsalek.cy/static/Pjibf2.exe^$all
