@@ -759,3 +759,4 @@
 ||190.198.218.210/i^$all
 ||marsalek.cy/static/abcfg.exe^$all
 ||marsalek.cy/static/Pjibf2.exe^$all
+||45.133.74.103/x86^$all
