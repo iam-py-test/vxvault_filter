@@ -762,3 +762,4 @@
 ||45.133.74.103/x86^$all
 ||cloudaxis.cc/gsmft/yueu/fkvqld/tvqqwh/ushu/22.exe^$all
 ||77.110.126.212/5r3fqt67ew531has4231.arm^$all
+||kokorostore.it/media/tXmCLyGO.exe^$all
