@@ -764,3 +764,5 @@
 ||77.110.126.212/5r3fqt67ew531has4231.arm^$all
 ||kokorostore.it/media/tXmCLyGO.exe^$all
 ||62.60.226.159/Amadey.x64.exe^$all
+||95.85.251.201/ourrat.exe^$all
+||95.85.251.201/Imperial.exe^$all
