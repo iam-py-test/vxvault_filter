@@ -2,6 +2,67 @@
 ! Description: A filterlist made up of the domains used to host the 100 most recent URLs listed on VXVault, with known safe domains filtered out. All credit to VXVault for finding the original urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 22/04/2026
+! Last updated: 23/04/2026
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
+||85.215.159.4^$all
+||95.85.251.201^$all
+||62.60.226.159^$all
+||kokorostore.it^$all
+||77.110.126.212^$all
+||cloudaxis.cc^$all
+||45.133.74.103^$all
+||marsalek.cy^$all
+||190.198.218.210^$all
+||176.97.210.242^$all
+||86.54.24.29^$all
+||178.16.55.189^$all
+||216.126.239.11^$all
+||172.86.123.179^$all
+||bdddda.cfd^$all
+||hody-musique.com^$all
+||62.60.226.16^$all
+||i-slept-with-ur.mom^$all
+||vcc-library.uk^$all
+||176.46.152.62^$all
+||144.172.107.244^$all
+||162.0.225.149^$all
+||108.181.161.143^$all
+||185.238.191.89^$all
+||94.154.34.240^$all
+||213.209.150.48^$all
+||185.39.207.117^$all
+||103.175.16.117^$all
+||31.170.22.205^$all
+||196.251.115.212^$all
+||62.60.226.112^$all
+||recursoscompartidos.xyz^$all
+||176.65.134.5^$all
+||176.65.134.62^$all
+||hybridemails.ae^$all
+||37.44.238.88^$all
+||185.232.205.104^$all
+||filter.trueddns.com^$all
+||194.37.81.64^$all
+||185.81.68.147^$all
+||kiltone.top^$all
+||dominikatracy.com^$all
+||zakazbuketov.kz^$all
+||80.82.65.70^$all
+||176.113.115.37^$all
+||185.215.113.16^$all
+||74.50.95.117^$all
+||45.131.135.227^$all
+||185.7.78.88^$all
+||mapimwp.org^$all
+||nasa.r2cloudhikepoo2.shop^$all
+||83.217.208.37^$all
+||durraactive.com.my^$all
+||66.63.187.231^$all
+||66.63.187.150^$all
+||aquafusion.com.co^$all
+||59.99.215.146^$all
+||newvideo.link^$all
+||dewatabalirental.com^$all
+||samzafood.com.my^$all
+||bitwelly.design^$all
