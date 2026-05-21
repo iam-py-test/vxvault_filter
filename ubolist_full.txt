@@ -767,3 +767,4 @@
 ||95.85.251.201/ourrat.exe^$all
 ||95.85.251.201/Imperial.exe^$all
 ||85.215.159.4/stub.txt^$all
+||vcc-library.uk/Stb/Retev.php?bl=yQbDrnzZVH6cCtokqOPRE001.txt^$all
