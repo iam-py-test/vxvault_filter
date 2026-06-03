@@ -769,3 +769,4 @@
 ||85.215.159.4/stub.txt^$all
 ||vcc-library.uk/Stb/Retev.php?bl=yQbDrnzZVH6cCtokqOPRE001.txt^$all
 ||5.252.155.72/load/os1/uRgOy.exe^$all
+||140.233.190.47/terrabot/023782pler.x86_64^$all
