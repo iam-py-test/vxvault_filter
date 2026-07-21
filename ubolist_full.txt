@@ -772,3 +772,4 @@
 ||140.233.190.47/terrabot/023782pler.x86_64^$all
 ||94.156.152.234/mipsel^$all
 ||151.242.30.51/bins/arm^$all
+||github.com/muhammadzidane632/Hopeless/raw/refs/heads/main/hopeless_v4.exe^$all
