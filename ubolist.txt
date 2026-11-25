@@ -2,11 +2,12 @@
 ! Description: VXVault's latest 100 links compiled into a filterlist. All credit to VXVault for finding these urls
 ! Script last updated: 3/10/2023
 ! Expires: 1 day
-! Last updated: 24/11/2026
+! Last updated: 25/11/2026
 ! Homepage: https://github.com/iam-py-test/vxvault_filter
 ! Data from http://vxvault.net/URL_List.php. All credit to VXVault for finding these URLs
 ! VX Vault last 100 Links
-! Tue, 24 Nov 2026 04:41:32 +0000
+! Wed, 25 Nov 2026 03:29:02 +0000
+||2.27.61.69/ogg.exe^$all
 ||95.155.151.113/d/xd.arm^$all
 ||github.com/muhammadzidane632/Hopeless/raw/refs/heads/main/hopeless_v4.exe^$all
 ||94.156.152.234/mipsel^$all
@@ -107,4 +108,3 @@
 ||github.com/Abdulah345/pizdaporc/raw/refs/heads/main/XClient.exe^$all
 ||newvideo.link/temp/xnsjjxja.exe^$all
 ||185.215.113.16/off/def.exe^$all
-||dewatabalirental.com/4.exe^$all

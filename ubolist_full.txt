@@ -774,3 +774,4 @@
 ||151.242.30.51/bins/arm^$all
 ||github.com/muhammadzidane632/Hopeless/raw/refs/heads/main/hopeless_v4.exe^$all
 ||95.155.151.113/d/xd.arm^$all
+||2.27.61.69/ogg.exe^$all
